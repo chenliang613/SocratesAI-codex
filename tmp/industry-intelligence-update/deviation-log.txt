@@ -1,0 +1,9 @@
+Slides 1–21: no intentional visual or narrative departure.
+Slide 22: duplicate source slide 1 and rewrite only inherited text boxes as an evidence-section divider.
+Slides 23 and 25: duplicate source slide 2 and rewrite inherited text boxes; preserve card geometry, fill, font, and spacing.
+Slide 24: duplicate source slide 6 and rewrite inherited text boxes; preserve three-column evidence composition.
+Slides 26 and 28: duplicate source slide 12 and rewrite inherited table-like text boxes; preserve all cell geometry and alternating fills.
+Slide 27: duplicate source slide 16 and rewrite inherited taxonomy rows; preserve row geometry and governance rail.
+Slide 29: duplicate source slide 21 and rewrite inherited checklist text boxes; preserve numbering and rules.
+Slide 30: preserve source slide 22 as the final conclusion.
+

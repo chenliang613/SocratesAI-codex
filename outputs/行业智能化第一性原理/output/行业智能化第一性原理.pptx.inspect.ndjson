@@ -1,0 +1,45 @@
+{"kind":"deck","id":"pr/9zo69k","name":"Deck"}
+{"kind":"layout","layoutId":"ede3aa0a-fc00-4a2c-98cc-7a4acebf50e2","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"2eb527f9-bfb5-4c0c-95b2-6eb875ae48c5","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/cn3xxi","slide":1,"title":"Slide 1","textShapes":0}
+{"kind":"image","id":"im/wvqd0jqp","slide":1,"name":"","alt":"第1页：行业智能化第一性原理","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/cn3xxi","slide":1,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/hm7n0m","slide":2,"title":"Slide 2","textShapes":0}
+{"kind":"image","id":"im/kbuh8fu5","slide":2,"name":"","alt":"第2页：先回答为什么必然发生，再回答构建什么、如何规模复制","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hm7n0m","slide":2,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/vnl7w9","slide":3,"title":"Slide 3","textShapes":0}
+{"kind":"image","id":"im/wf6l47yd","slide":3,"name":"","alt":"第3页：行业不同，产业化规律相同","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/vnl7w9","slide":3,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/l4uljj","slide":4,"title":"Slide 4","textShapes":0}
+{"kind":"image","id":"im/obuh8jep","slide":4,"name":"","alt":"第4页：六条原理构成一条从价值到规模的闭环","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/l4uljj","slide":4,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/brmqnz","slide":5,"title":"Slide 5","textShapes":0}
+{"kind":"image","id":"im/x4je1c3q","slide":5,"name":"","alt":"第5页：原理一：正 ROI 是智能化项目的生存线","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/brmqnz","slide":5,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/4fj6p7","slide":6,"title":"Slide 6","textShapes":0}
+{"kind":"image","id":"im/at4jmdo7","slide":6,"name":"","alt":"第6页：原理二：统一业务语义，Agent 才能跨系统工作","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/4fj6p7","slide":6,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/sebhwo","slide":7,"title":"Slide 7","textShapes":0}
+{"kind":"image","id":"im/fe18zm14","slide":7,"name":"","alt":"第7页：原理三：通用模型决定地板，行业知识决定天花板","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/sebhwo","slide":7,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/woqck5","slide":8,"title":"Slide 8","textShapes":0}
+{"kind":"image","id":"im/543axorq","slide":8,"name":"","alt":"第8页：原理四：PoC、标杆、复制分别验证三件不同的事","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/woqck5","slide":8,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/xvvzzt","slide":9,"title":"Slide 9","textShapes":0}
+{"kind":"image","id":"im/nat4judc","slide":9,"name":"","alt":"第9页：原理五：不能模板化的场景，只能做项目，不能做产业","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/xvvzzt","slide":9,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/9hq5pb","slide":10,"title":"Slide 10","textShapes":0}
+{"kind":"image","id":"im/4vap03q1","slide":10,"name":"","alt":"第10页：原理六：第 N 次交付成本，决定应用层价值倍数","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/9hq5pb","slide":10,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/onq5xc","slide":11,"title":"Slide 11","textShapes":0}
+{"kind":"image","id":"im/xgny9ozm","slide":11,"name":"","alt":"第11页：企业软件竞争焦点正在从界面迁移到业务逻辑","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/onq5xc","slide":11,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/830g73","slide":12,"title":"Slide 12","textShapes":0}
+{"kind":"image","id":"im/dozahony","slide":12,"name":"","alt":"第12页：目标架构：让意图通过语义与业务逻辑，稳定变成结果","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/830g73","slide":12,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/r92ikd","slide":13,"title":"Slide 13","textShapes":0}
+{"kind":"image","id":"im/6pkbalkn","slide":13,"name":"","alt":"第13页：执行策略：把一次成功沉淀为可重复的复制资产","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/r92ikd","slide":13,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}
+{"kind":"slide","id":"sl/s93f0f","slide":14,"title":"Slide 14","textShapes":0}
+{"kind":"image","id":"im/6pwnatcf","slide":14,"name":"","alt":"第14页：行业智能化的终局，是可度量、可执行、可复制","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/s93f0f","slide":14,"text":"[Sources]\nS01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；本页观点与文案基于该材料重组。"}

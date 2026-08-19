@@ -1,0 +1,968 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/86d1nz",
+    "id": "86d1nz",
+    "slide": 7,
+    "layoutId": "c6f906d6-e53e-4f63-8591-2b7072ac1722",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0a75729a-1708-435a-9cee-45a92f528cda",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "c6f906d6-e53e-4f63-8591-2b7072ac1722",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0a75729a-1708-435a-9cee-45a92f528cda",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0a75729a-1708-435a-9cee-45a92f528cda",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tkvulovy",
+      "id": "1",
+      "name": "section-7",
+      "bbox": [
+        42,
+        26,
+        380,
+        24
+      ],
+      "geometry": "rect",
+      "text": "NEAR-TERM OBLIGATIONS",
+      "textPreview": "NEAR-TERM OBLIGATIONS",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "PingFang SC",
+        "color": "#0078D4",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.8,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "NEAR-TERM OBLIGATIONS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "NEAR-TERM OBLIGATIONS",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "PingFang SC",
+            "color": "#0078D4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "NEAR-TERM OBLIGATIONS",
+              "fontSize": 15,
+              "typeface": "PingFang SC",
+              "color": "#0078D4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6x4ba9c7",
+      "id": "2",
+      "name": "title-7",
+      "bbox": [
+        42,
+        60,
+        1120,
+        70
+      ],
+      "geometry": "rect",
+      "text": "禁止实践与 AI 素养：最强适配项仍需可审计证明",
+      "textPreview": "禁止实践与 AI 素养：最强适配项仍需可审计证明",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "PingFang SC",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "禁止实践与 AI 素养：最强适配项仍需可审计证明"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "禁止实践与 AI 素养：最强适配项仍需可审计证明",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "禁止实践与 AI 素养：最强适配项仍需可审计证明",
+              "fontSize": 48,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7idcjeds",
+      "id": "3",
+      "name": "title-rule-7",
+      "bbox": [
+        42,
+        142,
+        1196,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gn6tg3u9",
+      "id": "4",
+      "name": "footer-7",
+      "bbox": [
+        1185,
+        670,
+        53,
+        22
+      ],
+      "geometry": "rect",
+      "text": "07",
+      "textPreview": "07",
+      "resolvedFontSize": 10.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "PingFang SC",
+        "color": "#5F6670",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.74,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang SC",
+            "color": "#5F6670",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07",
+              "fontSize": 14,
+              "typeface": "PingFang SC",
+              "color": "#5F6670",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hofupovu",
+      "id": "5",
+      "name": "s7-callout",
+      "bbox": [
+        42,
+        166,
+        1196,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF5EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulobetc3",
+      "id": "6",
+      "name": "s7-callout-text",
+      "bbox": [
+        66,
+        181,
+        1148,
+        28
+      ],
+      "geometry": "rect",
+      "text": "适配度：高　|　法案已适用　|　客户改变预期用途时，风险分类必须重做",
+      "textPreview": "适配度：高　|　法案已适用　|　客户改变预期用途时，风险分类必须重做",
+      "resolvedFontSize": 15.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "PingFang SC",
+        "color": "#2E7D32",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.7,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "适配度：高　|　法案已适用　|　客户改变预期用途时，风险分类必须重做"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "适配度：高　|　法案已适用　|　客户改变预期用途时，风险分类必须重做",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#2E7D32",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "适配度：高　|　法案已适用　|　客户改变预期用途时，风险分类必须重做",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#2E7D32",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fmxcnydo",
+      "id": "7",
+      "name": "s7-left-title",
+      "bbox": [
+        42,
+        258,
+        540,
+        42
+      ],
+      "geometry": "rect",
+      "text": "微软公开控制",
+      "textPreview": "微软公开控制",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "PingFang SC",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.84,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "微软公开控制"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "微软公开控制",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "微软公开控制",
+              "fontSize": 32,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wr2t4zu5",
+      "id": "8",
+      "name": "s7-left-body",
+      "bbox": [
+        42,
+        320,
+        540,
+        288
+      ],
+      "geometry": "rect",
+      "text": "01　Restricted Use Policy 纳入法案禁止实践\n\n02　对已上市系统进行集中盘点与筛查\n\n03　中央工作流保留问题、复核与升级记录\n\n04　更新合同，限制客户不当使用\n\n05　员工在开发 / 部署前查阅政策并接受培训",
+      "textPreview": "01　Restricted Use Policy 纳入法案禁止实践 |  | 02　对已上市系统进行集中盘点与筛查 |  | 03　中央工作流保留问题、复核与升级记录 |  | 04　更新合同，限制客户不当使用 |  | 05　员工在开发 / 部署前查阅政策并接受培训",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "PingFang SC",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01　Restricted Use Policy 纳入法案禁止实践"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "02　对已上市系统进行集中盘点与筛查"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "03　中央工作流保留问题、复核与升级记录"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "04　更新合同，限制客户不当使用"
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "05　员工在开发 / 部署前查阅政策并接受培训"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01　Restricted Use Policy 纳入法案禁止实践",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01　Restricted Use Policy 纳入法案禁止实践",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "02　对已上市系统进行集中盘点与筛查",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02　对已上市系统进行集中盘点与筛查",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "03　中央工作流保留问题、复核与升级记录",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03　中央工作流保留问题、复核与升级记录",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "04　更新合同，限制客户不当使用",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04　更新合同，限制客户不当使用",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "05　员工在开发 / 部署前查阅政策并接受培训",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05　员工在开发 / 部署前查阅政策并接受培训",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xsbad4vq",
+      "id": "9",
+      "name": "s7-divider",
+      "bbox": [
+        620,
+        250,
+        0,
+        378
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5sna9cvi",
+      "id": "10",
+      "name": "s7-right-title",
+      "bbox": [
+        666,
+        258,
+        572,
+        42
+      ],
+      "geometry": "rect",
+      "text": "审计需要看到的证据",
+      "textPreview": "审计需要看到的证据",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "PingFang SC",
+        "color": "#0078D4",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.84,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "审计需要看到的证据"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "审计需要看到的证据",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "PingFang SC",
+            "color": "#0078D4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "审计需要看到的证据",
+              "fontSize": 32,
+              "typeface": "PingFang SC",
+              "color": "#0078D4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4ru907ex",
+      "id": "11",
+      "name": "s7-right-body",
+      "bbox": [
+        666,
+        320,
+        548,
+        288
+      ],
+      "geometry": "rect",
+      "text": "• 系统清册是否覆盖模型、平台、应用与定制代理\n\n• 禁止用途筛查是否随版本与用途变化触发\n\n• 角色化 AI 素养课程、完成率与能力评估\n\n• 例外申请、拒绝记录与高层升级轨迹\n\n• 合同限制能否被技术策略和监控共同执行",
+      "textPreview": "• 系统清册是否覆盖模型、平台、应用与定制代理 |  | • 禁止用途筛查是否随版本与用途变化触发 |  | • 角色化 AI 素养课程、完成率与能力评估 |  | • 例外申请、拒绝记录与高层升级轨迹 |  | • 合同限制能否被技术策略和监控共同执行",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "PingFang SC",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 系统清册是否覆盖模型、平台、应用与定制代理"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "• 禁止用途筛查是否随版本与用途变化触发"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "• 角色化 AI 素养课程、完成率与能力评估"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "• 例外申请、拒绝记录与高层升级轨迹"
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "• 合同限制能否被技术策略和监控共同执行"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 系统清册是否覆盖模型、平台、应用与定制代理",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 系统清册是否覆盖模型、平台、应用与定制代理",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "• 禁止用途筛查是否随版本与用途变化触发",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 禁止用途筛查是否随版本与用途变化触发",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "• 角色化 AI 素养课程、完成率与能力评估",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 角色化 AI 素养课程、完成率与能力评估",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "• 例外申请、拒绝记录与高层升级轨迹",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 例外申请、拒绝记录与高层升级轨迹",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "• 合同限制能否被技术策略和监控共同执行",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 合同限制能否被技术策略和监控共同执行",
+              "fontSize": 22,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqls72dc",
+      "id": "12",
+      "name": "s7-foot",
+      "bbox": [
+        42,
+        630,
+        1140,
+        28
+      ],
+      "geometry": "rect",
+      "text": "判断：微软公司级政策设计足以支撑第 5 条与第 4 条；合规风险主要转向覆盖范围和持续执行。",
+      "textPreview": "判断：微软公司级政策设计足以支撑第 5 条与第 4 条；合规风险主要转向覆盖范围和持续执行。",
+      "resolvedFontSize": 15.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "PingFang SC",
+        "color": "#5F6670",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.81,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "判断：微软公司级政策设计足以支撑第 5 条与第 4 条；合规风险主要转向覆盖范围和持续执行。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "判断：微软公司级政策设计足以支撑第 5 条与第 4 条；合规风险主要转向覆盖范围和持续执行。",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "PingFang SC",
+            "color": "#5F6670",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "判断：微软公司级政策设计足以支撑第 5 条与第 4 条；合规风险主要转向覆盖范围和持续执行。",
+              "fontSize": 19,
+              "typeface": "PingFang SC",
+              "color": "#5F6670",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

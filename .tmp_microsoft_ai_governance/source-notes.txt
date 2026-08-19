@@ -1,0 +1,31 @@
+Research cutoff: 2026-08-04 (Asia/Shanghai)
+
+Primary sources used:
+1. European Commission, “AI Act | Shaping Europe’s digital future”
+   https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+2. European Commission, “Navigating the AI Act”
+   https://digital-strategy.ec.europa.eu/en/faqs/navigating-ai-act
+3. European Commission, “AI Omnibus enters into force”
+   https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force
+4. EUR-Lex, Regulation (EU) 2024/1689 (Artificial Intelligence Act)
+   https://eur-lex.europa.eu/eli/reg/2024/1689/oj?locale=en
+5. Microsoft, 2025 Responsible AI Transparency Report
+   https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report/
+6. Microsoft, “Innovating in line with the European Union’s AI Act”
+   https://blogs.microsoft.com/on-the-issues/2025/01/15/innovating-in-line-with-the-european-unions-ai-act/
+7. Microsoft Trust Center, “EU AI Act Compliance”
+   https://www.microsoft.com/en-us/trust-center/compliance/eu-ai-act
+8. Microsoft Learn, “Artificial Intelligence overview — Microsoft Service Assurance”
+   https://learn.microsoft.com/en-us/compliance/assurance/assurance-artificial-intelligence
+9. Microsoft, Responsible AI Principles and Approach
+   https://www.microsoft.com/en-us/ai/principles-and-approach/
+10. Microsoft Responsible AI Standard Reference Guide v2
+   https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/ai/RAIS-Reference-Guide-v2.pdf
+11. Microsoft, “The EU AI Act: Prohibited AI Practices”
+   https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-product-and-services/security/pdf/microsoft-prohibited-practices-jan-2025-477720.pdf
+12. Microsoft, “The EU AI Act: A Microsoft Overview”
+   https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-product-and-services/security/pdf/eu-ai-act-infographic-010825.pdf
+
+Analytical convention:
+- “Coverage” means a publicly evidenced governance/control capability that can support an obligation; it is not a legal conclusion that every Microsoft product or customer deployment is compliant.
+- Timing reflects the AI Omnibus position published by the European Commission and in force in July 2026.

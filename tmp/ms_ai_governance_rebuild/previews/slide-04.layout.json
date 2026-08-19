@@ -1,0 +1,1067 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gveswd",
+    "id": "gveswd",
+    "slide": 4,
+    "layoutId": "c6f906d6-e53e-4f63-8591-2b7072ac1722",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0a75729a-1708-435a-9cee-45a92f528cda",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "c6f906d6-e53e-4f63-8591-2b7072ac1722",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0a75729a-1708-435a-9cee-45a92f528cda",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0a75729a-1708-435a-9cee-45a92f528cda",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z2h8val",
+      "id": "1",
+      "name": "section-4",
+      "bbox": [
+        42,
+        26,
+        380,
+        24
+      ],
+      "geometry": "rect",
+      "text": "REGULATORY LOGIC",
+      "textPreview": "REGULATORY LOGIC",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "PingFang SC",
+        "color": "#0078D4",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.8,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REGULATORY LOGIC"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REGULATORY LOGIC",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "PingFang SC",
+            "color": "#0078D4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REGULATORY LOGIC",
+              "fontSize": 15,
+              "typeface": "PingFang SC",
+              "color": "#0078D4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ytgfq90",
+      "id": "2",
+      "name": "title-4",
+      "bbox": [
+        42,
+        60,
+        1120,
+        70
+      ],
+      "geometry": "rect",
+      "text": "合规不是单一清单，而是“风险层级 + 供应链角色”",
+      "textPreview": "合规不是单一清单，而是“风险层级 + 供应链角色”",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "PingFang SC",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "合规不是单一清单，而是“风险层级 +"
+          },
+          {
+            "index": 2,
+            "text": "供应链角色”"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "合规不是单一清单，而是“风险层级 + 供应链角色”",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "合规不是单一清单，而是“风险层级 + 供应链角色”",
+              "fontSize": 48,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdkz6lsf",
+      "id": "3",
+      "name": "title-rule-4",
+      "bbox": [
+        42,
+        142,
+        1196,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4vylkr2",
+      "id": "4",
+      "name": "footer-4",
+      "bbox": [
+        1185,
+        670,
+        53,
+        22
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 10.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "PingFang SC",
+        "color": "#5F6670",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.74,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang SC",
+            "color": "#5F6670",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 14,
+              "typeface": "PingFang SC",
+              "color": "#5F6670",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g32hcfqh",
+      "id": "5",
+      "name": "s4-band-0",
+      "bbox": [
+        42,
+        172,
+        1196,
+        82
+      ],
+      "geometry": "rect",
+      "fillColor": "#FCE8E8",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2tgja9w",
+      "id": "6",
+      "name": "s4-color-0",
+      "bbox": [
+        42,
+        172,
+        12,
+        82
+      ],
+      "geometry": "rect",
+      "fillColor": "#C62828",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1kza5sb",
+      "id": "7",
+      "name": "s4-label-0",
+      "bbox": [
+        78,
+        192,
+        220,
+        40
+      ],
+      "geometry": "rect",
+      "text": "不可接受风险",
+      "textPreview": "不可接受风险",
+      "resolvedFontSize": 25.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "PingFang SC",
+        "color": "#C62828",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.9,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "不可接受风险"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "不可接受风险",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang SC",
+            "color": "#C62828",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "不可接受风险",
+              "fontSize": 28,
+              "typeface": "PingFang SC",
+              "color": "#C62828",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58vypkre",
+      "id": "8",
+      "name": "s4-text-0",
+      "bbox": [
+        330,
+        189,
+        870,
+        58
+      ],
+      "geometry": "rect",
+      "text": "禁止设计、投放或使用；必须以用途筛查、合同限制和升级机制阻断。",
+      "textPreview": "禁止设计、投放或使用；必须以用途筛查、合同限制和升级机制阻断。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "PingFang SC",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "禁止设计、投放或使用；必须以用途筛查、合同限制和升级机制阻断。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "禁止设计、投放或使用；必须以用途筛查、合同限制和升级机制阻断。",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "禁止设计、投放或使用；必须以用途筛查、合同限制和升级机制阻断。",
+              "fontSize": 21,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47mhgfqt",
+      "id": "9",
+      "name": "s4-band-1",
+      "bbox": [
+        42,
+        266,
+        1196,
+        118
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFF3D6",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mloridsn",
+      "id": "10",
+      "name": "s4-color-1",
+      "bbox": [
+        42,
+        266,
+        12,
+        118
+      ],
+      "geometry": "rect",
+      "fillColor": "#B26A00",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mxsrit8",
+      "id": "11",
+      "name": "s4-label-1",
+      "bbox": [
+        78,
+        286,
+        220,
+        40
+      ],
+      "geometry": "rect",
+      "text": "高风险系统",
+      "textPreview": "高风险系统",
+      "resolvedFontSize": 25.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "PingFang SC",
+        "color": "#B26A00",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.9,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "高风险系统"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "高风险系统",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang SC",
+            "color": "#B26A00",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "高风险系统",
+              "fontSize": 28,
+              "typeface": "PingFang SC",
+              "color": "#B26A00",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8n69knat",
+      "id": "12",
+      "name": "s4-text-1",
+      "bbox": [
+        330,
+        283,
+        870,
+        94
+      ],
+      "geometry": "rect",
+      "text": "风险管理、数据治理、技术文档、日志、透明度、人工监督、准确性/稳健性/网络安全、QMS、合格评定、登记、上市后监测。",
+      "textPreview": "风险管理、数据治理、技术文档、日志、透明度、人工监督、准确性/稳健性/网络安全、QMS、合格评定、登记、上市后监测。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "PingFang SC",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "风险管理、数据治理、技术文档、日志、透明度、人工监督、准确性/稳健性/网络安全、"
+          },
+          {
+            "index": 2,
+            "text": "QMS、合格评定、登记、上市后监测。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "风险管理、数据治理、技术文档、日志、透明度、人工监督、准确性/稳健性/网络安全、QMS、合格评定、登记、上市后监测。",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "风险管理、数据治理、技术文档、日志、透明度、人工监督、准确性/稳健性/网络安全、QMS、合格评定、登记、上市后监测。",
+              "fontSize": 21,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9ofatsbe",
+      "id": "13",
+      "name": "s4-band-2",
+      "bbox": [
+        42,
+        396,
+        1196,
+        82
+      ],
+      "geometry": "rect",
+      "fillColor": "#E7F3FB",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upormxsj",
+      "id": "14",
+      "name": "s4-color-2",
+      "bbox": [
+        42,
+        396,
+        12,
+        82
+      ],
+      "geometry": "rect",
+      "fillColor": "#0078D4",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vqxsv2t4",
+      "id": "15",
+      "name": "s4-label-2",
+      "bbox": [
+        78,
+        416,
+        220,
+        40
+      ],
+      "geometry": "rect",
+      "text": "透明度风险",
+      "textPreview": "透明度风险",
+      "resolvedFontSize": 25.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "PingFang SC",
+        "color": "#0078D4",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.9,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "透明度风险"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "透明度风险",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang SC",
+            "color": "#0078D4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "透明度风险",
+              "fontSize": 28,
+              "typeface": "PingFang SC",
+              "color": "#0078D4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbq9o7ap",
+      "id": "16",
+      "name": "s4-text-2",
+      "bbox": [
+        330,
+        413,
+        870,
+        58
+      ],
+      "geometry": "rect",
+      "text": "告知人与 AI 交互；机器可读标记；深度伪造、情绪识别与公共利益文本披露。",
+      "textPreview": "告知人与 AI 交互；机器可读标记；深度伪造、情绪识别与公共利益文本披露。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "PingFang SC",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "告知人与 AI 交互；机器可读标记；深度伪造、情绪识别与公共利益文本披露。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "告知人与 AI 交互；机器可读标记；深度伪造、情绪识别与公共利益文本披露。",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "告知人与 AI 交互；机器可读标记；深度伪造、情绪识别与公共利益文本披露。",
+              "fontSize": 21,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hczaxcra",
+      "id": "17",
+      "name": "s4-band-3",
+      "bbox": [
+        42,
+        490,
+        1196,
+        82
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF5EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qt4ratsf",
+      "id": "18",
+      "name": "s4-color-3",
+      "bbox": [
+        42,
+        490,
+        12,
+        82
+      ],
+      "geometry": "rect",
+      "fillColor": "#2E7D32",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bud8jyt0",
+      "id": "19",
+      "name": "s4-label-3",
+      "bbox": [
+        78,
+        510,
+        220,
+        40
+      ],
+      "geometry": "rect",
+      "text": "最小风险",
+      "textPreview": "最小风险",
+      "resolvedFontSize": 25.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "PingFang SC",
+        "color": "#2E7D32",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.9,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "最小风险"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "最小风险",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "PingFang SC",
+            "color": "#2E7D32",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "最小风险",
+              "fontSize": 28,
+              "typeface": "PingFang SC",
+              "color": "#2E7D32",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fy9oru9s",
+      "id": "20",
+      "name": "s4-text-3",
+      "bbox": [
+        330,
+        507,
+        870,
+        58
+      ],
+      "geometry": "rect",
+      "text": "原则上可自愿采用行为准则；仍受 GDPR、消费者保护、知识产权等横向法律约束。",
+      "textPreview": "原则上可自愿采用行为准则；仍受 GDPR、消费者保护、知识产权等横向法律约束。",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 21,
+        "typeface": "PingFang SC",
+        "color": "#111111",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "原则上可自愿采用行为准则；仍受 GDPR、消费者保护、知识产权等横向法律约束。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "原则上可自愿采用行为准则；仍受 GDPR、消费者保护、知识产权等横向法律约束。",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "原则上可自愿采用行为准则；仍受 GDPR、消费者保护、知识产权等横向法律约束。",
+              "fontSize": 21,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex07ip87",
+      "id": "21",
+      "name": "s4-gpai",
+      "bbox": [
+        42,
+        598,
+        1196,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#111111",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/10r6t4ry",
+      "id": "22",
+      "name": "s4-gpai-text",
+      "bbox": [
+        65,
+        611,
+        1150,
+        30
+      ],
+      "geometry": "rect",
+      "text": "独立的 GPAI 层：所有通用模型承担透明度 / 版权义务；系统性风险模型另承担评估、缓解、事件与网络安全义务。",
+      "textPreview": "独立的 GPAI 层：所有通用模型承担透明度 / 版权义务；系统性风险模型另承担评估、缓解、事件与网络安全义务。",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang SC",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.85,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "独立的 GPAI 层：所有通用模型承担透明度 / 版权义务；系统性风险模型另承担评估、缓解、事件与网络安全义务。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "独立的 GPAI 层：所有通用模型承担透明度 / 版权义务；系统性风险模型另承担评估、缓解、事件与网络安全义务。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang SC",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "独立的 GPAI 层：所有通用模型承担透明度 / 版权义务；系统性风险模型另承担评估、缓解、事件与网络安全义务。",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

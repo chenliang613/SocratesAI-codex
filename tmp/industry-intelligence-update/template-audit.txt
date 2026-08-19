@@ -1,0 +1,15 @@
+Source deck: 行业智能化分析.pptx
+Slide count: 22
+Visual system: 16:9, white canvas, black/PingFang SC headlines, light-gray evidence fields, blue accent (#3D8DFF), thin gray rules, two minimal cover/closing patterns.
+Reusable patterns:
+- Slide 1: section/cover divider with vertical blue rail.
+- Slide 2: three-stat / three-thesis evidence cards.
+- Slide 6: title + thesis + three evidence columns + source/participant rail.
+- Slide 12: four-column, five-row evidence matrix.
+- Slide 16: six-row horizontal taxonomy/architecture.
+- Slide 21: five-item decision or KPI checklist.
+- Slide 22: closing thesis.
+Typography: PingFang SC; 42px slide titles; 27–28px thesis lines; 24–28px headers; 17–20px body; 13px page marker.
+Placeholders: no structural PowerPoint placeholders were detected; all content is slide-local editable shapes. No media, charts, or tables are embedded.
+Insertion contract: preserve source slides 1–21 unchanged; append a new evidence chapter using duplicated source patterns; retain the original conclusion as the final slide.
+

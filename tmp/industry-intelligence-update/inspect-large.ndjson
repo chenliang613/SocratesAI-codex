@@ -1,0 +1,554 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"战略分析报告 · 2026","textShapes":4}
+{"kind":"textbox","id":"sh/sryl4zqx","slide":1,"name":"text-42-38","text":"战略分析报告 · 2026","textPreview":"战略分析报告 · 2026","textChars":13,"textLines":1,"bbox":[42,38,360,34]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"text-42-176","text":"行业智能化\n分析","textPreview":"行业智能化 | 分析","textChars":8,"textLines":2,"bbox":[42,176,850,230]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"text-42-500","text":"从能源与算力的物理约束，到 Agent 与应用的价值兑现","textPreview":"从能源与算力的物理约束，到 Agent 与应用的价值兑现","textChars":28,"textLines":1,"bbox":[42,500,850,70]}
+{"kind":"shape","id":"sh/7qp4be9c","slide":1,"name":"rect-1050-38","bbox":[1050,38,188,594]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"rect-1050-431","bbox":[1050,431,188,201]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"text-1080-466","text":"六层架构\n跨层竞争\n企业路径","textPreview":"六层架构 | 跨层竞争 | 企业路径","textChars":14,"textLines":3,"bbox":[1080,466,130,130]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"行业智能化分析","textShapes":13}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"text-42-24","text":"行业智能化分析","textPreview":"行业智能化分析","textChars":7,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"text-42-55","text":"行业智能化不是“加一个模型”，而是重构整条价值链","textPreview":"行业智能化不是“加一个模型”，而是重构整条价值链","textChars":24,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/ozy1ofad","slide":2,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"text-1178-674","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"text-42-158","text":"电力、算力、模型、数据、流程与场景共同构成结果交付系统；任一层薄弱，都会成为规模化瓶颈。","textPreview":"电力、算力、模型、数据、流程与场景共同构成结果交付系统；任一层薄弱，都会成为规模化瓶颈。","textChars":44,"textLines":1,"bbox":[42,158,1160,78]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"rect-42-300","bbox":[42,300,376,264]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"text-66-320","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[66,320,60,42]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"text-66-380","text":"底层决定上限","textPreview":"底层决定上限","textChars":6,"textLines":1,"bbox":[66,380,320,44]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"text-66-446","text":"能源与算力具有重资产、高壁垒和寡头化特征，决定智能供给的规模、成本与稳定性。","textPreview":"能源与算力具有重资产、高壁垒和寡头化特征，决定智能供给的规模、成本与稳定性。","textChars":38,"textLines":1,"bbox":[66,446,320,92]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"name":"rect-452-300","bbox":[452,300,376,264]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"text-476-320","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[476,320,60,42]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"text-476-380","text":"中层决定可用性","textPreview":"中层决定可用性","textChars":7,"textLines":1,"bbox":[476,380,320,44]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"text-476-446","text":"模型与数据平台把通用能力转化为可信、可治理、可调用的企业智能。","textPreview":"模型与数据平台把通用能力转化为可信、可治理、可调用的企业智能。","textChars":31,"textLines":1,"bbox":[476,446,320,92]}
+{"kind":"shape","id":"sh/wjy9sry9","slide":2,"name":"rect-862-300","bbox":[862,300,376,264]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"text-886-320","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[886,320,60,42]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"text-886-380","text":"上层决定回报","textPreview":"上层决定回报","textChars":6,"textLines":1,"bbox":[886,380,320,44]}
+{"kind":"textbox","id":"sh/bip8jmho","slide":2,"name":"text-886-446","text":"Agent 与应用贴近业务流程，竞争焦点从“功能使用”转向“结果交付”。","textPreview":"Agent 与应用贴近业务流程，竞争焦点从“功能使用”转向“结果交付”。","textChars":36,"textLines":1,"bbox":[886,446,320,92]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"行业智能化分析","textShapes":8}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"text-42-24","text":"行业智能化分析","textPreview":"行业智能化分析","textChars":7,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"text-42-55","text":"行业智能化的本质：把“信息系统”升级为“行动系统”","textPreview":"行业智能化的本质：把“信息系统”升级为“行动系统”","textChars":25,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/d0jax03i","slide":3,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"name":"text-1178-674","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"name":"text-42-176","text":"传统数字化","textPreview":"传统数字化","textChars":5,"textLines":1,"bbox":[42,176,540,40]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"text-698-176","text":"行业智能化","textPreview":"行业智能化","textChars":5,"textLines":1,"bbox":[698,176,540,40]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"bbox":[640,168,0,430]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"text-42-246","text":"• 人发起操作，系统被动响应\n• 以界面与功能模块为中心\n• 跨系统协同依赖人工搬运\n• 价值衡量偏向上线率、活跃度","textPreview":"• 人发起操作，系统被动响应 | • 以界面与功能模块为中心 | • 跨系统协同依赖人工搬运 | • 价值衡量偏向上线率、活跃度","textChars":58,"textLines":4,"bbox":[42,246,540,310]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"text-698-246","text":"• 目标触发任务，Agent 主动编排\n• 以语义、工具和业务结果为中心\n• 跨数据、模型与系统自动协作\n• 价值衡量转向周期、质量、成本与风险","textPreview":"• 目标触发任务，Agent 主动编排 | • 以语义、工具和业务结果为中心 | • 跨数据、模型与系统自动协作 | • 价值衡量转向周期、质量、成本与风险","textChars":72,"textLines":4,"bbox":[698,246,540,310]}
+{"kind":"shape","id":"sh/n2l4fq98","slide":3,"name":"rect-698-575","bbox":[698,575,540,48]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"text-718-585","text":"关键变化：软件从“供人操作”转向“可被智能体调用”","textPreview":"关键变化：软件从“供人操作”转向“可被智能体调用”","textChars":25,"textLines":1,"bbox":[718,585,500,30]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"行业智能化分析","textShapes":17}
+{"kind":"textbox","id":"sh/fu9sn2p0","slide":4,"name":"text-42-24","text":"行业智能化分析","textPreview":"行业智能化分析","textChars":7,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"text-42-55","text":"六层架构共同完成“电力 → 智能 → 业务结果”的转化","textPreview":"六层架构共同完成“电力 → 智能 → 业务结果”的转化","textChars":27,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"name":"text-1178-674","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"rect-126-154","bbox":[126,154,1028,62]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"text-150-167","text":"应用层 Application","textPreview":"应用层 Application","textChars":15,"textLines":1,"bbox":[150,167,300,34]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"text-470-168","text":"把能力嵌入销售、客服、研发、财务等场景，兑现 ROI","textPreview":"把能力嵌入销售、客服、研发、财务等场景，兑现 ROI","textChars":26,"textLines":1,"bbox":[470,168,650,30]}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"rect-126-232","bbox":[126,232,1028,62]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"text-150-245","text":"Agent 层 Agent","textPreview":"Agent 层 Agent","textChars":13,"textLines":1,"bbox":[150,245,300,34]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"text-470-246","text":"理解意图、规划任务、调用工具、记忆状态、执行与审批","textPreview":"理解意图、规划任务、调用工具、记忆状态、执行与审批","textChars":25,"textLines":1,"bbox":[470,246,650,30]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"rect-126-310","bbox":[126,310,1028,62]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"text-150-323","text":"数据平台层 Data","textPreview":"数据平台层 Data","textChars":10,"textLines":1,"bbox":[150,323,300,34]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"text-470-324","text":"统一数据底座、治理、语义层、向量检索与知识库","textPreview":"统一数据底座、治理、语义层、向量检索与知识库","textChars":22,"textLines":1,"bbox":[470,324,650,30]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"rect-126-388","bbox":[126,388,1028,62]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"text-150-401","text":"模型层 Model","textPreview":"模型层 Model","textChars":9,"textLines":1,"bbox":[150,401,300,34]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"text-470-402","text":"预训练、推理、对齐、多模态与 API 服务","textPreview":"预训练、推理、对齐、多模态与 API 服务","textChars":21,"textLines":1,"bbox":[470,402,650,30]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"name":"rect-126-466","bbox":[126,466,1028,62]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"text-150-479","text":"算力层 Compute","textPreview":"算力层 Compute","textChars":11,"textLines":1,"bbox":[150,479,300,34]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"text-470-480","text":"芯片、服务器、云、网络互联与软件栈","textPreview":"芯片、服务器、云、网络互联与软件栈","textChars":17,"textLines":1,"bbox":[470,480,650,30]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"rect-126-544","bbox":[126,544,1028,62]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"text-150-557","text":"能源层 Energy","textPreview":"能源层 Energy","textChars":10,"textLines":1,"bbox":[150,557,300,34]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"text-470-558","text":"电力、数据中心、散热、电网与新能源","textPreview":"电力、数据中心、散热、电网与新能源","textChars":17,"textLines":1,"bbox":[470,558,650,30]}
+{"kind":"textbox","id":"sh/2xkrih8b","slide":4,"name":"text-42-634","text":"重资产 · 高壁垒 · 寡头","textPreview":"重资产 · 高壁垒 · 寡头","textChars":14,"textLines":1,"bbox":[42,634,360,28]}
+{"kind":"shape","id":"sh/1wbapc7q","slide":4,"bbox":[342,649,588,0]}
+{"kind":"textbox","id":"sh/gv29g7q5","slide":4,"name":"text-948-634","text":"轻资产 · 近场景 · 多样化","textPreview":"轻资产 · 近场景 · 多样化","textChars":15,"textLines":1,"bbox":[948,634,290,28]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"行业智能化分析","textShapes":19}
+{"kind":"textbox","id":"sh/3i94r61s","slide":5,"name":"text-42-24","text":"行业智能化分析","textPreview":"行业智能化分析","textChars":7,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"text-42-55","text":"价值流向上兑现，约束却从底层逐级向上传导","textPreview":"价值流向上兑现，约束却从底层逐级向上传导","textChars":20,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/cf2tcr61","slide":5,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/z2tcnm5s","slide":5,"name":"text-1178-674","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"text-42-180","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,180,56,36]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"name":"text-42-230","text":"供给约束","textPreview":"供给约束","textChars":4,"textLines":1,"bbox":[42,230,244,44]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"bbox":[42,294,244,0]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"text-42-320","text":"电力、芯片、互联与资本开支决定可获得的计算规模。","textPreview":"电力、芯片、互联与资本开支决定可获得的计算规模。","textChars":24,"textLines":1,"bbox":[42,320,244,170]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"text-300-246","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[300,246,38,40]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"text-348-180","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[348,180,56,36]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"text-348-230","text":"能力转化","textPreview":"能力转化","textChars":4,"textLines":1,"bbox":[348,230,244,44]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"bbox":[348,294,244,0]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"text-348-320","text":"模型质量、数据语义与推理成本决定智能是否可用。","textPreview":"模型质量、数据语义与推理成本决定智能是否可用。","textChars":23,"textLines":1,"bbox":[348,320,244,170]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"text-606-246","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[606,246,38,40]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"text-654-180","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[654,180,56,36]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"text-654-230","text":"组织嵌入","textPreview":"组织嵌入","textChars":4,"textLines":1,"bbox":[654,230,244,44]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"bbox":[654,294,244,0]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"text-654-320","text":"Agent 的可靠性、权限和流程编排决定能否进入生产。","textPreview":"Agent 的可靠性、权限和流程编排决定能否进入生产。","textChars":27,"textLines":1,"bbox":[654,320,244,170]}
+{"kind":"textbox","id":"sh/tcfel0vu","slide":5,"name":"text-912-246","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[912,246,38,40]}
+{"kind":"textbox","id":"sh/hgrmpwj2","slide":5,"name":"text-960-180","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[960,180,56,36]}
+{"kind":"textbox","id":"sh/gfi5grih","slide":5,"name":"text-960-230","text":"结果兑现","textPreview":"结果兑现","textChars":4,"textLines":1,"bbox":[960,230,244,44]}
+{"kind":"shape","id":"sh/fe94nm1w","slide":5,"bbox":[960,294,244,0]}
+{"kind":"textbox","id":"sh/ud0ne10b","slide":5,"name":"text-960-320","text":"应用的场景设计与变革管理决定能否形成可量化 ROI。","textPreview":"应用的场景设计与变革管理决定能否形成可量化 ROI。","textChars":26,"textLines":1,"bbox":[960,320,244,170]}
+{"kind":"shape","id":"sh/pkr6tgjy","slide":5,"name":"rect-42-548","bbox":[42,548,1160,74]}
+{"kind":"textbox","id":"sh/4ji5kbid","slide":5,"name":"text-70-566","text":"管理含义：不要只选择“最强模型”，要识别本企业最稀缺的那一层，并围绕瓶颈配置投资。","textPreview":"管理含义：不要只选择“最强模型”，要识别本企业最稀缺的那一层，并围绕瓶颈配置投资。","textChars":41,"textLines":1,"bbox":[70,566,1104,38]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"六层架构 · 深度拆解","textShapes":12}
+{"kind":"textbox","id":"sh/twfux0ne","slide":6,"name":"text-42-24","text":"六层架构 · 深度拆解","textPreview":"六层架构 · 深度拆解","textChars":11,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"text-42-55","text":"能源层：AI 的物理地基正从成本项变成战略资源","textPreview":"能源层：AI 的物理地基正从成本项变成战略资源","textChars":23,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/zi98nu94","slide":6,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"name":"text-1178-674","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"text-42-154","text":"大模型训练与推理，本质上是把稳定电力转化为可调用的智能。","textPreview":"大模型训练与推理，本质上是把稳定电力转化为可调用的智能。","textChars":28,"textLines":1,"bbox":[42,154,1160,76]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"bbox":[42,272,344,0]}
+{"kind":"textbox","id":"sh/7m98ru9g","slide":6,"name":"text-42-294","text":"核心价值","textPreview":"核心价值","textChars":4,"textLines":1,"bbox":[42,294,344,40]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"text-42-350","text":"为高密度数据中心持续提供稳定、廉价、低碳的电力与散热能力。","textPreview":"为高密度数据中心持续提供稳定、廉价、低碳的电力与散热能力。","textChars":29,"textLines":1,"bbox":[42,350,344,162]}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"bbox":[442,272,344,0]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"text-442-294","text":"关键瓶颈","textPreview":"关键瓶颈","textChars":4,"textLines":1,"bbox":[442,294,344,40]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"text-442-350","text":"电网容量与并网周期、电价波动、碳排放约束、液冷能力与 PUE。","textPreview":"电网容量与并网周期、电价波动、碳排放约束、液冷能力与 PUE。","textChars":31,"textLines":1,"bbox":[442,350,344,162]}
+{"kind":"shape","id":"sh/v2tcn650","slide":6,"bbox":[842,272,344,0]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"text-842-294","text":"结构性趋势","textPreview":"结构性趋势","textChars":5,"textLines":1,"bbox":[842,294,344,40]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"text-842-350","text":"科技巨头通过长期购电协议、核电与新能源绑定供给；选址开始围绕“电力可获得性”重构。","textPreview":"科技巨头通过长期购电协议、核电与新能源绑定供给；选址开始围绕“电力可获得性”重构。","textChars":41,"textLines":1,"bbox":[842,350,344,162]}
+{"kind":"shape","id":"sh/47mt0b6x","slide":6,"name":"rect-42-550","bbox":[42,550,1144,72]}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"text-66-569","text":"代表参与者","textPreview":"代表参与者","textChars":5,"textLines":1,"bbox":[66,569,130,30]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"text-210-563","text":"国家电网、南方电网、NextEra、Constellation；GDS、Equinix、Digital Realty；AWS、微软、谷歌","textPreview":"国家电网、南方电网、NextEra、Constellation；GDS、Equinix、Digital Realty；AWS、微软、谷歌","textChars":68,"textLines":1,"bbox":[210,563,944,46]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"六层架构 · 深度拆解","textShapes":12}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"text-42-24","text":"六层架构 · 深度拆解","textPreview":"六层架构 · 深度拆解","textChars":11,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"text-42-55","text":"算力层：利润集中于“芯片 + 互联 + 软件生态”的协同","textPreview":"算力层：利润集中于“芯片 + 互联 + 软件生态”的协同","textChars":28,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/dcbud0ra","slide":7,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"name":"text-1178-674","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"text-42-154","text":"算力层把电力转化为模型可消费的并行计算，是当前壁垒最高、资本最密集的环节。","textPreview":"算力层把电力转化为模型可消费的并行计算，是当前壁垒最高、资本最密集的环节。","textChars":37,"textLines":1,"bbox":[42,154,1160,76]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"bbox":[42,272,344,0]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"text-42-294","text":"核心价值","textPreview":"核心价值","textChars":4,"textLines":1,"bbox":[42,294,344,40]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"text-42-350","text":"提供训练与推理所需的 GPU/加速器、服务器、云算力、网络互联和开发栈。","textPreview":"提供训练与推理所需的 GPU/加速器、服务器、云算力、网络互联和开发栈。","textChars":36,"textLines":1,"bbox":[42,350,344,162]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"bbox":[442,272,344,0]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"text-442-294","text":"关键瓶颈","textPreview":"关键瓶颈","textChars":4,"textLines":1,"bbox":[442,294,344,40]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"text-442-350","text":"先进制程、HBM、封装与互联、集群利用率，以及 CUDA 等软件生态锁定。","textPreview":"先进制程、HBM、封装与互联、集群利用率，以及 CUDA 等软件生态锁定。","textChars":37,"textLines":1,"bbox":[442,350,344,162]}
+{"kind":"shape","id":"sh/xcz2l03q","slide":7,"bbox":[842,272,344,0]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"text-842-294","text":"结构性趋势","textPreview":"结构性趋势","textChars":5,"textLines":1,"bbox":[842,294,344,40]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"text-842-350","text":"训练继续寡头化；推理因成本、延迟和场景差异而多元化；云厂商加速自研芯片。","textPreview":"训练继续寡头化；推理因成本、延迟和场景差异而多元化；云厂商加速自研芯片。","textChars":36,"textLines":1,"bbox":[842,350,344,162]}
+{"kind":"shape","id":"sh/25ojml43","slide":7,"name":"rect-42-550","bbox":[42,550,1144,72]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"text-66-569","text":"代表参与者","textPreview":"代表参与者","textChars":5,"textLines":1,"bbox":[66,569,130,30]}
+{"kind":"textbox","id":"sh/o761ov2t","slide":7,"name":"text-210-563","text":"NVIDIA、AMD、Intel；Google TPU、AWS Trainium/Inferentia、Microsoft Maia；华为昇腾、寒武纪；TSMC、SK 海力士","textPreview":"NVIDIA、AMD、Intel；Google TPU、AWS Trainium/Inferentia、Microsoft Maia；华为昇腾、寒武纪；TSMC、SK 海力士","textChars":87,"textLines":1,"bbox":[210,563,944,46]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"六层架构 · 深度拆解","textShapes":12}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"text-42-24","text":"六层架构 · 深度拆解","textPreview":"六层架构 · 深度拆解","textChars":11,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"text-42-55","text":"模型层：通用能力趋同后，行业知识密度成为差异化来源","textPreview":"模型层：通用能力趋同后，行业知识密度成为差异化来源","textChars":25,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/g72x4zyd","slide":8,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/ri9g7uhw","slide":8,"name":"text-1178-674","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"text-42-154","text":"模型层把算力与数据转化为理解、推理、生成和工具使用能力，并通过 API 或权重供给上层。","textPreview":"模型层把算力与数据转化为理解、推理、生成和工具使用能力，并通过 API 或权重供给上层。","textChars":44,"textLines":1,"bbox":[42,154,1160,76]}
+{"kind":"shape","id":"sh/tkby9kzm","slide":8,"bbox":[42,272,344,0]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"text-42-294","text":"核心价值","textPreview":"核心价值","textChars":4,"textLines":1,"bbox":[42,294,344,40]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"text-42-350","text":"提升推理、多模态、长上下文、工具使用与可控生成能力。","textPreview":"提升推理、多模态、长上下文、工具使用与可控生成能力。","textChars":26,"textLines":1,"bbox":[42,350,344,162]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"bbox":[442,272,344,0]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"text-442-294","text":"关键瓶颈","textPreview":"关键瓶颈","textChars":4,"textLines":1,"bbox":[442,294,344,40]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"text-442-350","text":"高质量数据、对齐与安全、推理成本、幻觉、评测和行业适配。","textPreview":"高质量数据、对齐与安全、推理成本、幻觉、评测和行业适配。","textChars":28,"textLines":1,"bbox":[442,350,344,162]}
+{"kind":"shape","id":"sh/m5gvmhwn","slide":8,"bbox":[842,272,344,0]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"name":"text-842-294","text":"结构性趋势","textPreview":"结构性趋势","textChars":5,"textLines":1,"bbox":[842,294,344,40]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"text-842-350","text":"闭源前沿与开放权重并行；模型厂商向 Agent 框架与工具协议延伸，模型与 Agent 边界变薄。","textPreview":"闭源前沿与开放权重并行；模型厂商向 Agent 框架与工具协议延伸，模型与 Agent 边界变薄。","textChars":49,"textLines":1,"bbox":[842,350,344,162]}
+{"kind":"shape","id":"sh/1k7edwv2","slide":8,"name":"rect-42-550","bbox":[42,550,1144,72]}
+{"kind":"textbox","id":"sh/ehgvihwr","slide":8,"name":"text-66-569","text":"代表参与者","textPreview":"代表参与者","textChars":5,"textLines":1,"bbox":[66,569,130,30]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"text-210-563","text":"OpenAI、Anthropic、Google、xAI；Meta、Mistral、DeepSeek、Qwen、GLM；Midjourney、ElevenLabs","textPreview":"OpenAI、Anthropic、Google、xAI；Meta、Mistral、DeepSeek、Qwen、GLM；Midjourney、ElevenLabs","textChars":80,"textLines":1,"bbox":[210,563,944,46]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"六层架构 · 深度拆解","textShapes":12}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"text-42-24","text":"六层架构 · 深度拆解","textPreview":"六层架构 · 深度拆解","textChars":11,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"text-42-55","text":"数据平台层：企业智能的上限取决于“同一种业务语言”","textPreview":"数据平台层：企业智能的上限取决于“同一种业务语言”","textChars":25,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/0b65obm9","slide":9,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"name":"text-1178-674","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"text-42-154","text":"数据平台把分散、异构、权限复杂的数据，转换为模型和 Agent 可理解、可信任、可追溯的上下文。","textPreview":"数据平台把分散、异构、权限复杂的数据，转换为模型和 Agent 可理解、可信任、可追溯的上下文。","textChars":48,"textLines":1,"bbox":[42,154,1160,76]}
+{"kind":"shape","id":"sh/9gzml0nq","slide":9,"bbox":[42,272,344,0]}
+{"kind":"textbox","id":"sh/ofq5svm5","slide":9,"name":"text-42-294","text":"核心价值","textPreview":"核心价值","textChars":4,"textLines":1,"bbox":[42,294,344,40]}
+{"kind":"textbox","id":"sh/bih4na5w","slide":9,"name":"text-42-350","text":"采集、存储、治理、实时处理、语义统一、向量检索与知识服务。","textPreview":"采集、存储、治理、实时处理、语义统一、向量检索与知识服务。","textChars":29,"textLines":1,"bbox":[42,350,344,162]}
+{"kind":"shape","id":"sh/ah8nu54b","slide":9,"bbox":[442,272,344,0]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"text-442-294","text":"关键瓶颈","textPreview":"关键瓶颈","textChars":4,"textLines":1,"bbox":[442,294,344,40]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"text-442-350","text":"数据孤岛、指标口径冲突、血缘不清、权限错配、实时性与合规。","textPreview":"数据孤岛、指标口径冲突、血缘不清、权限错配、实时性与合规。","textChars":29,"textLines":1,"bbox":[442,350,344,162]}
+{"kind":"shape","id":"sh/2xsjepgb","slide":9,"bbox":[842,272,344,0]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"text-842-294","text":"结构性趋势","textPreview":"结构性趋势","textChars":5,"textLines":1,"bbox":[842,294,344,40]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"text-842-350","text":"湖仓与数据云向 AI 原生演进；语义层、向量检索和 Agent 数据接口成为标准能力。","textPreview":"湖仓与数据云向 AI 原生演进；语义层、向量检索和 Agent 数据接口成为标准能力。","textChars":43,"textLines":1,"bbox":[842,350,344,162]}
+{"kind":"shape","id":"sh/do3id4fy","slide":9,"name":"rect-42-550","bbox":[42,550,1144,72]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"name":"text-66-569","text":"代表参与者","textPreview":"代表参与者","textChars":5,"textLines":1,"bbox":[66,569,130,30]}
+{"kind":"textbox","id":"sh/bml0buxs","slide":9,"name":"text-210-563","text":"Snowflake、Databricks、BigQuery、MaxCompute；Pinecone、Milvus；Confluent、dbt、Fivetran","textPreview":"Snowflake、Databricks、BigQuery、MaxCompute；Pinecone、Milvus；Confluent、dbt、Fivetran","textChars":79,"textLines":1,"bbox":[210,563,944,46]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"六层架构 · 深度拆解","textShapes":12}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"name":"text-42-24","text":"六层架构 · 深度拆解","textPreview":"六层架构 · 深度拆解","textChars":11,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"text-42-55","text":"Agent 层：它把模型从“会回答”推进到“会完成任务”","textPreview":"Agent 层：它把模型从“会回答”推进到“会完成任务”","textChars":28,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/cbu58j2h","slide":10,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"text-1178-674","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"text-42-154","text":"Agent 组合模型、数据、工具、记忆和护栏，对目标进行分解、执行、检查与交付。","textPreview":"Agent 组合模型、数据、工具、记忆和护栏，对目标进行分解、执行、检查与交付。","textChars":40,"textLines":1,"bbox":[42,154,1160,76]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"bbox":[42,272,344,0]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"text-42-294","text":"核心价值","textPreview":"核心价值","textChars":4,"textLines":1,"bbox":[42,294,344,40]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"text-42-350","text":"承担意图理解、任务规划、工具调用、状态管理、审批与多 Agent 协作。","textPreview":"承担意图理解、任务规划、工具调用、状态管理、审批与多 Agent 协作。","textChars":36,"textLines":1,"bbox":[42,350,344,162]}
+{"kind":"shape","id":"sh/m1cnetkj","slide":10,"bbox":[442,272,344,0]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"text-442-294","text":"关键瓶颈","textPreview":"关键瓶颈","textChars":4,"textLines":1,"bbox":[442,294,344,40]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"text-442-350","text":"可靠性、可控性、权限边界、错误恢复、工具协议与端到端评测。","textPreview":"可靠性、可控性、权限边界、错误恢复、工具协议与端到端评测。","textChars":29,"textLines":1,"bbox":[442,350,344,162]}
+{"kind":"shape","id":"sh/q5gb21kb","slide":10,"bbox":[842,272,344,0]}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"name":"text-842-294","text":"结构性趋势","textPreview":"结构性趋势","textChars":5,"textLines":1,"bbox":[842,294,344,40]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"name":"text-842-350","text":"从单点 Copilot 走向跨系统自主执行；Agent 入口成为新的人机界面与平台控制点。","textPreview":"从单点 Copilot 走向跨系统自主执行；Agent 入口成为新的人机界面与平台控制点。","textChars":45,"textLines":1,"bbox":[842,350,344,162]}
+{"kind":"shape","id":"sh/1cru1g3y","slide":10,"name":"rect-42-550","bbox":[42,550,1144,72]}
+{"kind":"textbox","id":"sh/e9gb61k7","slide":10,"name":"text-66-569","text":"代表参与者","textPreview":"代表参与者","textChars":5,"textLines":1,"bbox":[66,569,130,30]}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"name":"text-210-563","text":"Google Gemini/A2A、Microsoft Copilot Studio、OpenAI、Anthropic/MCP、阿里百炼、字节 Coze、腾讯元宝；Manus、Devin、Sierra","textPreview":"Google Gemini/A2A、Microsoft Copilot Studio、OpenAI、Anthropic/MCP、阿里百炼、字节 Coze、腾讯元宝；Manus、Devin、Sierra","textChars":100,"textLines":1,"bbox":[210,563,944,46]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"六层架构 · 深度拆解","textShapes":12}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"text-42-24","text":"六层架构 · 深度拆解","textPreview":"六层架构 · 深度拆解","textChars":11,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"name":"text-42-55","text":"应用层：竞争从“功能丰富”转向“结果可交付”","textPreview":"应用层：竞争从“功能丰富”转向“结果可交付”","textChars":22,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"name":"text-1178-674","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"text-42-154","text":"应用层将智能嵌入真实流程，是产业价值最终变成收入、效率、质量与风险改善的地方。","textPreview":"应用层将智能嵌入真实流程，是产业价值最终变成收入、效率、质量与风险改善的地方。","textChars":39,"textLines":1,"bbox":[42,154,1160,76]}
+{"kind":"shape","id":"sh/98rytw72","slide":11,"bbox":[42,272,344,0]}
+{"kind":"textbox","id":"sh/o7ih0r6h","slide":11,"name":"text-42-294","text":"核心价值","textPreview":"核心价值","textChars":4,"textLines":1,"bbox":[42,294,344,40]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"text-42-350","text":"围绕销售、客服、营销、研发、财务、供应链等场景交付业务结果。","textPreview":"围绕销售、客服、营销、研发、财务、供应链等场景交付业务结果。","textChars":30,"textLines":1,"bbox":[42,350,344,162]}
+{"kind":"shape","id":"sh/61kzalof","slide":11,"bbox":[442,272,344,0]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"text-442-294","text":"关键瓶颈","textPreview":"关键瓶颈","textChars":4,"textLines":1,"bbox":[442,294,344,40]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"text-442-350","text":"场景标准化、行业 Know-how、系统集成、流程责任重构和用户信任。","textPreview":"场景标准化、行业 Know-how、系统集成、流程责任重构和用户信任。","textChars":35,"textLines":1,"bbox":[442,350,344,162]}
+{"kind":"shape","id":"sh/mdobedg3","slide":11,"bbox":[842,272,344,0]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":11,"name":"text-842-294","text":"结构性趋势","textPreview":"结构性趋势","textChars":5,"textLines":1,"bbox":[842,294,344,40]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"text-842-350","text":"SaaS 走向 Agentic SaaS 与去 UI 化；能力被调用的频率，逐步替代页面访问量成为价值指标。","textPreview":"SaaS 走向 Agentic SaaS 与去 UI 化；能力被调用的频率，逐步替代页面访问量成为价值指标。","textChars":54,"textLines":1,"bbox":[842,350,344,162]}
+{"kind":"shape","id":"sh/1cfa58zi","slide":11,"name":"rect-42-550","bbox":[42,550,1144,72]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"text-66-569","text":"代表参与者","textPreview":"代表参与者","textChars":5,"textLines":1,"bbox":[66,569,130,30]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"text-210-563","text":"Salesforce、SAP、ServiceNow、Workday；Notion、Adobe；Harvey、Abridge、Cursor、Intercom；金蝶、用友、销售易","textPreview":"Salesforce、SAP、ServiceNow、Workday；Notion、Adobe；Harvey、Abridge、Cursor、Intercom；金蝶、用友、销售易","textChars":87,"textLines":1,"bbox":[210,563,944,46]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"跨层规律","textShapes":27}
+{"kind":"textbox","id":"sh/zih4fmdg","slide":12,"name":"text-42-24","text":"跨层规律","textPreview":"跨层规律","textChars":4,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"name":"text-42-55","text":"六层的经济结构不同：越靠底层越集中，越靠上层越分散","textPreview":"六层的经济结构不同：越靠底层越集中，越靠上层越分散","textChars":25,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/0f2lgnmp","slide":12,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"text-1178-674","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"shape","id":"sh/q903ad4n","slide":12,"name":"rect-42-158","bbox":[42,158,200,46]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"text-56-169","text":"层级","textPreview":"层级","textChars":2,"textLines":1,"bbox":[56,169,172,26]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"rect-260-158","bbox":[260,158,270,46]}
+{"kind":"textbox","id":"sh/b6d4f2lc","slide":12,"name":"text-274-169","text":"成本结构","textPreview":"成本结构","textChars":4,"textLines":1,"bbox":[274,169,242,26]}
+{"kind":"shape","id":"sh/a543mx4r","slide":12,"name":"rect-550-158","bbox":[550,158,290,46]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"text-564-169","text":"主要壁垒","textPreview":"主要壁垒","textChars":4,"textLines":1,"bbox":[564,169,262,26]}
+{"kind":"shape","id":"sh/xw3q94ne","slide":12,"name":"rect-860-158","bbox":[860,158,378,46]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"text-874-169","text":"市场形态","textPreview":"市场形态","textChars":4,"textLines":1,"bbox":[874,169,350,26]}
+{"kind":"shape","id":"sh/bulo7u58","slide":12,"name":"rect-42-204","bbox":[42,204,200,82]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"name":"text-56-219","text":"能源 / 算力","textPreview":"能源 / 算力","textChars":7,"textLines":1,"bbox":[56,219,172,54]}
+{"kind":"shape","id":"sh/9sj65kn2","slide":12,"name":"rect-260-204","bbox":[260,204,270,82]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"text-274-219","text":"重资产、供给受限","textPreview":"重资产、供给受限","textChars":8,"textLines":1,"bbox":[274,219,242,54]}
+{"kind":"shape","id":"sh/nq1o3a5w","slide":12,"name":"rect-550-204","bbox":[550,204,290,82]}
+{"kind":"textbox","id":"sh/0nap8f6l","slide":12,"name":"text-564-219","text":"规模、资本与工程壁垒","textPreview":"规模、资本与工程壁垒","textChars":10,"textLines":1,"bbox":[564,219,262,54]}
+{"kind":"shape","id":"sh/1oj61kn6","slide":12,"name":"rect-860-204","bbox":[860,204,378,82]}
+{"kind":"textbox","id":"sh/hkbm5wzu","slide":12,"name":"text-874-219","text":"高集中度","textPreview":"高集中度","textChars":4,"textLines":1,"bbox":[874,219,350,54]}
+{"kind":"shape","id":"sh/gj25cry9","slide":12,"name":"rect-42-286","bbox":[42,286,200,82]}
+{"kind":"textbox","id":"sh/fit436ho","slide":12,"name":"text-56-301","text":"模型","textPreview":"模型","textChars":2,"textLines":1,"bbox":[56,301,172,54]}
+{"kind":"shape","id":"sh/uh0na1g3","slide":12,"name":"rect-260-286","bbox":[260,286,270,82]}
+{"kind":"textbox","id":"sh/tgrm1wzy","slide":12,"name":"text-274-301","text":"研发密集、边际成本下降","textPreview":"研发密集、边际成本下降","textChars":11,"textLines":1,"bbox":[274,301,242,54]}
+{"kind":"shape","id":"sh/sfi58ryd","slide":12,"name":"rect-550-286","bbox":[550,286,290,82]}
+{"kind":"textbox","id":"sh/7u94zmhs","slide":12,"name":"text-564-301","text":"能力、生态与分发","textPreview":"能力、生态与分发","textChars":8,"textLines":1,"bbox":[564,301,262,54]}
+{"kind":"shape","id":"sh/6t0n6hg7","slide":12,"name":"rect-860-286","bbox":[860,286,378,82]}
+{"kind":"textbox","id":"sh/dcv6dgz2","slide":12,"name":"text-874-301","text":"头部集中 + 开放生态","textPreview":"头部集中 + 开放生态","textChars":11,"textLines":1,"bbox":[874,301,350,54]}
+{"kind":"shape","id":"sh/cbm5kbyh","slide":12,"name":"rect-42-368","bbox":[42,368,200,82]}
+{"kind":"textbox","id":"sh/alwbitsn","slide":12,"name":"text-56-383","text":"数据平台","textPreview":"数据平台","textChars":4,"textLines":1,"bbox":[56,383,172,54]}
+{"kind":"shape","id":"sh/bm5sryt8","slide":12,"name":"rect-260-368","bbox":[260,368,270,82]}
+{"kind":"textbox","id":"sh/wnetkjat","slide":12,"name":"text-274-383","text":"迁移与治理成本高","textPreview":"迁移与治理成本高","textChars":8,"textLines":1,"bbox":[274,383,242,54]}
+{"kind":"shape","id":"sh/xonutobe","slide":12,"name":"rect-550-368","bbox":[550,368,290,82]}
+{"kind":"textbox","id":"sh/mhcbe9sr","slide":12,"name":"text-564-383","text":"语义、信任与数据引力","textPreview":"语义、信任与数据引力","textChars":10,"textLines":1,"bbox":[564,383,262,54]}
+{"kind":"shape","id":"sh/nilsnetc","slide":12,"name":"rect-860-368","bbox":[860,368,378,82]}
+{"kind":"textbox","id":"sh/ojutgjah","slide":12,"name":"text-874-383","text":"平台化整合","textPreview":"平台化整合","textChars":5,"textLines":1,"bbox":[874,383,350,54]}
+{"kind":"shape","id":"sh/9k3apob2","slide":12,"name":"rect-42-450","bbox":[42,450,200,82]}
+{"kind":"textbox","id":"sh/6dgbqdsv","slide":12,"name":"text-56-465","text":"Agent","textPreview":"Agent","textChars":5,"textLines":1,"bbox":[56,465,172,54]}
+{"kind":"shape","id":"sh/7epczitg","slide":12,"name":"rect-260-450","bbox":[260,450,270,82]}
+{"kind":"textbox","id":"sh/r6l8vaxw","slide":12,"name":"text-274-465","text":"标准尚未固化","textPreview":"标准尚未固化","textChars":6,"textLines":1,"bbox":[274,465,242,54]}
+{"kind":"shape","id":"sh/q5c7m5wb","slide":12,"name":"rect-550-450","bbox":[550,450,290,82]}
+{"kind":"textbox","id":"sh/d8nqxkf2","slide":12,"name":"text-564-465","text":"入口、工具网络与可靠性","textPreview":"入口、工具网络与可靠性","textChars":11,"textLines":1,"bbox":[564,465,262,54]}
+{"kind":"shape","id":"sh/s7epofeh","slide":12,"name":"rect-860-450","bbox":[860,450,378,82]}
+{"kind":"textbox","id":"sh/j2lorqxk","slide":12,"name":"text-874-465","text":"竞争最激烈","textPreview":"竞争最激烈","textChars":5,"textLines":1,"bbox":[874,465,350,54]}
+{"kind":"shape","id":"sh/i1c7i5wf","slide":12,"name":"rect-42-532","bbox":[42,532,200,82]}
+{"kind":"textbox","id":"sh/5436t0fq","slide":12,"name":"text-56-547","text":"应用","textPreview":"应用","textChars":2,"textLines":1,"bbox":[56,547,172,54]}
+{"kind":"shape","id":"sh/43upkve5","slide":12,"name":"rect-260-532","bbox":[260,532,270,82]}
+{"kind":"textbox","id":"sh/nyp83ud4","slide":12,"name":"text-274-547","text":"轻资产、近客户","textPreview":"轻资产、近客户","textChars":7,"textLines":1,"bbox":[274,547,242,54]}
+{"kind":"shape","id":"sh/2xw7upwj","slide":12,"name":"rect-550-532","bbox":[550,532,290,82]}
+{"kind":"textbox","id":"sh/kjq5oru1","slide":12,"name":"text-564-547","text":"流程 Know-how 与交付","textPreview":"流程 Know-how 与交付","textChars":15,"textLines":1,"bbox":[564,547,262,54]}
+{"kind":"shape","id":"sh/lkzmhwvm","slide":12,"name":"rect-860-532","bbox":[860,532,378,82]}
+{"kind":"textbox","id":"sh/yh8nmhcv","slide":12,"name":"text-874-547","text":"高度多样化","textPreview":"高度多样化","textChars":5,"textLines":1,"bbox":[874,547,350,54]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"跨层竞争","textShapes":35}
+{"kind":"textbox","id":"sh/lc3ylkz6","slide":13,"name":"text-42-24","text":"跨层竞争","textPreview":"跨层竞争","textChars":4,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"name":"text-42-55","text":"巨头通过纵向整合控制成本、入口与数据回路","textPreview":"巨头通过纵向整合控制成本、入口与数据回路","textChars":20,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/bq9orito","slide":13,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/o3i5w3ad","slide":13,"name":"text-1178-674","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":13,"name":"text-42-176","text":"企业","textPreview":"企业","textChars":2,"textLines":1,"bbox":[42,176,250,40]}
+{"kind":"textbox","id":"sh/21gnuts7","slide":13,"name":"text-354-176","text":"能源/数据中心","textPreview":"能源/数据中心","textChars":7,"textLines":1,"bbox":[354,176,156,54]}
+{"kind":"textbox","id":"sh/32ponyts","slide":13,"name":"text-520-176","text":"算力/云","textPreview":"算力/云","textChars":4,"textLines":1,"bbox":[520,176,156,54]}
+{"kind":"textbox","id":"sh/gzy5s3a1","slide":13,"name":"text-686-176","text":"模型","textPreview":"模型","textChars":2,"textLines":1,"bbox":[686,176,156,54]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"name":"text-852-176","text":"Agent","textPreview":"Agent","textChars":5,"textLines":1,"bbox":[852,176,156,54]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"text-1018-176","text":"应用/入口","textPreview":"应用/入口","textChars":5,"textLines":1,"bbox":[1018,176,156,54]}
+{"kind":"textbox","id":"sh/gb6x0zm9","slide":13,"name":"text-42-258","text":"Google","textPreview":"Google","textChars":6,"textLines":1,"bbox":[42,258,250,40]}
+{"kind":"shape","id":"sh/vaxg7ulo","slide":13,"bbox":[42,314,1196,0]}
+{"kind":"shape","id":"sh/u9ofyp43","slide":13,"name":"rect-408-256","bbox":[408,256,46,46]}
+{"kind":"textbox","id":"sh/t8fy5k3i","slide":13,"name":"text-408-259","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[408,259,46,34]}
+{"kind":"shape","id":"sh/876xwfmx","slide":13,"name":"rect-574-256","bbox":[574,256,46,46]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"name":"text-574-259","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[574,259,46,34]}
+{"kind":"shape","id":"sh/6l4fu547","slide":13,"name":"rect-740-256","bbox":[740,256,46,46]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"name":"text-740-259","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[740,259,46,34]}
+{"kind":"shape","id":"sh/kjmxsfm1","slide":13,"name":"rect-906-256","bbox":[906,256,46,46]}
+{"kind":"textbox","id":"sh/cnqh8fux","slide":13,"name":"text-906-259","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[906,259,46,34]}
+{"kind":"shape","id":"sh/xozyhkbi","slide":13,"name":"rect-1072-256","bbox":[1072,256,46,46]}
+{"kind":"textbox","id":"sh/q18f65cr","slide":13,"name":"text-1072-259","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[1072,259,46,34]}
+{"kind":"textbox","id":"sh/bmhgfatc","slide":13,"name":"text-42-336","text":"Microsoft","textPreview":"Microsoft","textChars":9,"textLines":1,"bbox":[42,336,250,40]}
+{"kind":"shape","id":"sh/oz6x4vul","slide":13,"bbox":[42,392,1196,0]}
+{"kind":"shape","id":"sh/p0zyd0b6","slide":13,"name":"rect-408-334","bbox":[408,334,46,46]}
+{"kind":"textbox","id":"sh/2xof2lcv","slide":13,"name":"text-408-337","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[408,337,46,34]}
+{"kind":"shape","id":"sh/3yxgbqdg","slide":13,"name":"rect-574-334","bbox":[574,334,46,46]}
+{"kind":"textbox","id":"sh/8vahgzu5","slide":13,"name":"text-574-337","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[574,337,46,34]}
+{"kind":"shape","id":"sh/9wjyp4bq","slide":13,"name":"rect-740-334","bbox":[740,334,46,46]}
+{"kind":"textbox","id":"sh/jqlkfyds","slide":13,"name":"text-740-337","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[740,337,46,34]}
+{"kind":"shape","id":"sh/ipcjmtw7","slide":13,"name":"rect-906-334","bbox":[906,334,46,46]}
+{"kind":"textbox","id":"sh/5cn2h8vy","slide":13,"name":"text-906-337","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[906,337,46,34]}
+{"kind":"shape","id":"sh/4re1o3ed","slide":13,"name":"rect-1072-334","bbox":[1072,334,46,46]}
+{"kind":"textbox","id":"sh/re5kjydo","slide":13,"name":"text-1072-337","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[1072,337,46,34]}
+{"kind":"textbox","id":"sh/6dwjqtw3","slide":13,"name":"text-42-414","text":"Amazon","textPreview":"Amazon","textChars":6,"textLines":1,"bbox":[42,414,250,40]}
+{"kind":"shape","id":"sh/tgn2l8vu","slide":13,"bbox":[42,470,1196,0]}
+{"kind":"shape","id":"sh/sfe1s3e9","slide":13,"name":"rect-408-412","bbox":[408,412,46,46]}
+{"kind":"textbox","id":"sh/7i107edk","slide":13,"name":"text-408-415","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[408,415,46,34]}
+{"kind":"shape","id":"sh/mhsje9wz","slide":13,"name":"rect-574-412","bbox":[574,412,46,46]}
+{"kind":"textbox","id":"sh/y1wju94v","slide":13,"name":"text-574-415","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[574,415,46,34]}
+{"kind":"shape","id":"sh/z25kne5g","slide":13,"name":"rect-740-412","bbox":[740,412,46,46]}
+{"kind":"textbox","id":"sh/03e1wjm1","slide":13,"name":"text-740-415","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[740,415,46,34]}
+{"kind":"shape","id":"sh/l4n2po3m","slide":13,"name":"rect-906-412","bbox":[906,412,46,46]}
+{"kind":"textbox","id":"sh/m5gjyt4r","slide":13,"name":"text-906-415","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[906,415,46,34]}
+{"kind":"shape","id":"sh/n6pkrelc","slide":13,"name":"rect-1072-412","bbox":[1072,412,46,46]}
+{"kind":"textbox","id":"sh/8ry10jmx","slide":13,"name":"text-1072-415","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[1072,415,46,34]}
+{"kind":"textbox","id":"sh/9s72to3i","slide":13,"name":"text-42-492","text":"Alibaba","textPreview":"Alibaba","textChars":7,"textLines":1,"bbox":[42,492,250,40]}
+{"kind":"shape","id":"sh/atgj2t43","slide":13,"bbox":[42,548,1196,0]}
+{"kind":"shape","id":"sh/vupkvylo","slide":13,"name":"rect-408-490","bbox":[408,490,46,46]}
+{"kind":"textbox","id":"sh/50behwr2","slide":13,"name":"text-408-493","text":"—","textPreview":"—","textChars":1,"textLines":1,"bbox":[408,493,46,34]}
+{"kind":"shape","id":"sh/4z2d8rah","slide":13,"name":"rect-574-490","bbox":[574,490,46,46]}
+{"kind":"textbox","id":"sh/jytcfmtw","slide":13,"name":"text-574-493","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[574,493,46,34]}
+{"kind":"shape","id":"sh/ixkv6hsb","slide":13,"name":"rect-740-490","bbox":[740,490,46,46]}
+{"kind":"textbox","id":"sh/t4velwry","slide":13,"name":"text-740-493","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[740,493,46,34]}
+{"kind":"shape","id":"sh/s3mdcrad","slide":13,"name":"rect-906-490","bbox":[906,490,46,46]}
+{"kind":"textbox","id":"sh/r2dwjm98","slide":13,"name":"text-906-493","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[906,493,46,34]}
+{"kind":"shape","id":"sh/614va1sn","slide":13,"name":"rect-1072-490","bbox":[1072,490,46,46]}
+{"kind":"textbox","id":"sh/1svepgra","slide":13,"name":"text-1072-493","text":"●","textPreview":"●","textChars":1,"textLines":1,"bbox":[1072,493,46,34]}
+{"kind":"textbox","id":"sh/g7mdgbap","slide":13,"name":"text-42-570","text":"共同逻辑","textPreview":"共同逻辑","textChars":4,"textLines":1,"bbox":[42,570,160,30]}
+{"kind":"textbox","id":"sh/0buxcfil","slide":13,"name":"text-210-568","text":"向下掌握供给成本，向上掌握用户入口，中间通过数据反馈形成持续优化闭环。","textPreview":"向下掌握供给成本，向上掌握用户入口，中间通过数据反馈形成持续优化闭环。","textChars":35,"textLines":1,"bbox":[210,568,990,38]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]\n\n矩阵表示 AI_Layout.md 中列举的跨层布局方向，不代表各层自有资产比例相同。"}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"跨层竞争","textShapes":14}
+{"kind":"textbox","id":"sh/up4fal83","slide":14,"name":"text-42-24","text":"跨层竞争","textPreview":"跨层竞争","textChars":4,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/xc7eds76","slide":14,"name":"text-42-55","text":"Agent 层是价值重新分配的主战场","textPreview":"Agent 层是价值重新分配的主战场","textChars":18,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/wbydknq1","slide":14,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/jepwf2pc","slide":14,"name":"text-1178-674","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":14,"name":"text-42-154","text":"模型厂商向上、应用厂商向下、平台厂商横向扩张，三股力量在 Agent 入口交汇。","textPreview":"模型厂商向上、应用厂商向下、平台厂商横向扩张，三股力量在 Agent 入口交汇。","textChars":40,"textLines":1,"bbox":[42,154,1160,58]}
+{"kind":"shape","id":"sh/5grehs7i","slide":14,"name":"rect-42-258","bbox":[42,258,376,276]}
+{"kind":"textbox","id":"sh/kfidonqx","slide":14,"name":"text-66-285","text":"模型厂商向上","textPreview":"模型厂商向上","textChars":6,"textLines":1,"bbox":[66,285,328,40]}
+{"kind":"textbox","id":"sh/zi5c3y98","slide":14,"name":"text-66-350","text":"把模型、工具调用、协议和执行环境打包，直接承接用户任务。","textPreview":"把模型、工具调用、协议和执行环境打包，直接承接用户任务。","textChars":28,"textLines":1,"bbox":[66,350,328,100]}
+{"kind":"shape","id":"sh/ehwvat8n","slide":14,"bbox":[66,466,328,0]}
+{"kind":"textbox","id":"sh/c3e1gjyd","slide":14,"name":"text-66-484","text":"胜负手：模型能力 + 开发者生态","textPreview":"胜负手：模型能力 + 开发者生态","textChars":16,"textLines":1,"bbox":[66,484,328,34]}
+{"kind":"shape","id":"sh/x4ni9ofy","slide":14,"name":"rect-452-258","bbox":[452,258,376,276]}
+{"kind":"textbox","id":"sh/a1wze9g7","slide":14,"name":"text-476-285","text":"应用厂商向下","textPreview":"应用厂商向下","textChars":6,"textLines":1,"bbox":[476,285,328,40]}
+{"kind":"textbox","id":"sh/b2507exs","slide":14,"name":"text-476-350","text":"把客户关系、行业流程和专有数据封装成垂直 Agent。","textPreview":"把客户关系、行业流程和专有数据封装成垂直 Agent。","textChars":27,"textLines":1,"bbox":[476,350,328,100]}
+{"kind":"shape","id":"sh/kre1k3y9","slide":14,"bbox":[476,466,328,0]}
+{"kind":"textbox","id":"sh/ls7idofu","slide":14,"name":"text-476-484","text":"胜负手：场景深度 + 分发入口","textPreview":"胜负手：场景深度 + 分发入口","textChars":15,"textLines":1,"bbox":[476,484,328,34]}
+{"kind":"shape","id":"sh/y5wjitgj","slide":14,"name":"rect-862-258","bbox":[862,258,376,276]}
+{"kind":"textbox","id":"sh/z650byxo","slide":14,"name":"text-886-285","text":"平台厂商横向","textPreview":"平台厂商横向","textChars":6,"textLines":1,"bbox":[886,285,328,40]}
+{"kind":"textbox","id":"sh/0buh8zy5","slide":14,"name":"text-886-350","text":"提供构建、治理、观测、权限与多 Agent 协作的 Agent OS。","textPreview":"提供构建、治理、观测、权限与多 Agent 协作的 Agent OS。","textChars":35,"textLines":1,"bbox":[886,350,328,100]}
+{"kind":"shape","id":"sh/1w3i14fq","slide":14,"bbox":[886,466,328,0]}
+{"kind":"textbox","id":"sh/hsvy50re","slide":14,"name":"text-886-484","text":"胜负手：标准 + 控制面 + 数据连接","textPreview":"胜负手：标准 + 控制面 + 数据连接","textChars":19,"textLines":1,"bbox":[886,484,328,34]}
+{"kind":"shape","id":"sh/grmxwvqt","slide":14,"name":"rect-42-564","bbox":[42,564,1196,58]}
+{"kind":"textbox","id":"sh/fqdg3q98","slide":14,"name":"text-64-578","text":"对企业而言，关键不是押注单一 Agent，而是保留模型可替换、工具可组合、权限可审计的架构选择权。","textPreview":"对企业而言，关键不是押注单一 Agent，而是保留模型可替换、工具可组合、权限可审计的架构选择权。","textChars":49,"textLines":1,"bbox":[64,578,1152,30]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"企业落地","textShapes":21}
+{"kind":"textbox","id":"sh/dc3y1s3m","slide":15,"name":"text-42-24","text":"企业落地","textPreview":"企业落地","textChars":4,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/547mhg3m","slide":15,"name":"text-42-55","text":"企业将沿四级成熟度，从助手走向自主运营","textPreview":"企业将沿四级成熟度，从助手走向自主运营","textChars":19,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/k3y5ov21","slide":15,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/76p4jqls","slide":15,"name":"text-1178-674","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"shape","id":"sh/65gnqlk7","slide":15,"bbox":[82,310,1050,0]}
+{"kind":"shape","id":"sh/t87ml0ji","slide":15,"name":"rect-68-286","bbox":[68,286,48,48]}
+{"kind":"textbox","id":"sh/s7y5sv2x","slide":15,"name":"text-68-295","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[68,295,48,30]}
+{"kind":"textbox","id":"sh/na5476l8","slide":15,"name":"text-42-190","text":"L1 助手化","textPreview":"L1 助手化","textChars":6,"textLines":1,"bbox":[42,190,250,40]}
+{"kind":"textbox","id":"sh/m9c3e1kn","slide":15,"name":"text-42-360","text":"单点生成与问答","textPreview":"单点生成与问答","textChars":7,"textLines":1,"bbox":[42,360,250,62]}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":15,"name":"text-42-444","text":"人负责判断与执行","textPreview":"人负责判断与执行","textChars":8,"textLines":1,"bbox":[42,444,250,80]}
+{"kind":"shape","id":"sh/hsvat0fa","slide":15,"name":"rect-366-286","bbox":[366,286,48,48]}
+{"kind":"textbox","id":"sh/upkrilwj","slide":15,"name":"text-366-295","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[366,295,48,30]}
+{"kind":"textbox","id":"sh/vqdsrqx4","slide":15,"name":"text-340-190","text":"L2 流程嵌入","textPreview":"L2 流程嵌入","textChars":7,"textLines":1,"bbox":[340,190,250,40]}
+{"kind":"textbox","id":"sh/4vm9ovel","slide":15,"name":"text-340-360","text":"在一个流程内检索、生成、建议","textPreview":"在一个流程内检索、生成、建议","textChars":14,"textLines":1,"bbox":[340,360,250,62]}
+{"kind":"textbox","id":"sh/5wvax0f6","slide":15,"name":"text-340-444","text":"系统可写回，人负责审批","textPreview":"系统可写回，人负责审批","textChars":11,"textLines":1,"bbox":[340,444,250,80]}
+{"kind":"shape","id":"sh/it4rm5wv","slide":15,"name":"rect-664-286","bbox":[664,286,48,48]}
+{"kind":"textbox","id":"sh/judsvqxg","slide":15,"name":"text-664-295","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[664,295,48,30]}
+{"kind":"textbox","id":"sh/0z29cbyh","slide":15,"name":"text-638-190","text":"L3 跨系统 Agent","textPreview":"L3 跨系统 Agent","textChars":12,"textLines":1,"bbox":[638,190,250,40]}
+{"kind":"textbox","id":"sh/l0bqlgf2","slide":15,"name":"text-638-360","text":"跨数据与工具完成端到端任务","textPreview":"跨数据与工具完成端到端任务","textChars":13,"textLines":1,"bbox":[638,360,250,62]}
+{"kind":"textbox","id":"sh/1kjyt83e","slide":15,"name":"text-638-444","text":"异常与高风险节点人工介入","textPreview":"异常与高风险节点人工介入","textChars":12,"textLines":1,"bbox":[638,444,250,80]}
+{"kind":"shape","id":"sh/gjax03m9","slide":15,"name":"rect-962-286","bbox":[962,286,48,48]}
+{"kind":"textbox","id":"sh/fi1grylo","slide":15,"name":"text-962-295","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[962,295,48,30]}
+{"kind":"textbox","id":"sh/ehsfyt43","slide":15,"name":"text-936-190","text":"L4 自主运营","textPreview":"L4 自主运营","textChars":7,"textLines":1,"bbox":[936,190,250,40]}
+{"kind":"textbox","id":"sh/p8jyx83q","slide":15,"name":"text-936-360","text":"多 Agent 协作、持续优化目标","textPreview":"多 Agent 协作、持续优化目标","textChars":17,"textLines":1,"bbox":[936,360,250,62]}
+{"kind":"textbox","id":"sh/o7ah4nm5","slide":15,"name":"text-936-444","text":"人管理策略、边界与结果","textPreview":"人管理策略、边界与结果","textChars":11,"textLines":1,"bbox":[936,444,250,80]}
+{"kind":"textbox","id":"sh/361gvilk","slide":15,"name":"text-42-580","text":"演进原则","textPreview":"演进原则","textChars":4,"textLines":1,"bbox":[42,580,120,30]}
+{"kind":"textbox","id":"sh/25sf2d4z","slide":15,"name":"text-170-576","text":"每升一级，都必须同步提升数据语义、工具接口、评测体系、权限治理和组织责任，而不是只增加模型自主性。","textPreview":"每升一级，都必须同步提升数据语义、工具接口、评测体系、权限治理和组织责任，而不是只增加模型自主性。","textChars":49,"textLines":1,"bbox":[170,576,1050,42]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"企业落地","textShapes":16}
+{"kind":"textbox","id":"sh/zm50veps","slide":16,"name":"text-42-24","text":"企业落地","textPreview":"企业落地","textChars":4,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/8z2h8bq1","slide":16,"name":"text-42-55","text":"企业目标架构应把“智能面”叠加在既有业务与数据之上","textPreview":"企业目标架构应把“智能面”叠加在既有业务与数据之上","textChars":25,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/9kby1g7m","slide":16,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/ytkf2h8j","slide":16,"name":"text-1178-674","text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"shape","id":"sh/zutgvm94","slide":16,"name":"rect-42-156","bbox":[42,156,1196,56]}
+{"kind":"textbox","id":"sh/kv2h4rqp","slide":16,"name":"text-62-169","text":"交互与场景面","textPreview":"交互与场景面","textChars":6,"textLines":1,"bbox":[62,169,180,28]}
+{"kind":"textbox","id":"sh/lwbyxwra","slide":16,"name":"text-260-170","text":"员工助手 · 客户触点 · 垂直应用 · API","textPreview":"员工助手 · 客户触点 · 垂直应用 · API","textChars":24,"textLines":1,"bbox":[260,170,950,28]}
+{"kind":"shape","id":"sh/ip4zel83","slide":16,"name":"rect-42-226","bbox":[42,226,1196,56]}
+{"kind":"textbox","id":"sh/3qdg7qpo","slide":16,"name":"text-62-239","text":"Agent 编排面","textPreview":"Agent 编排面","textChars":9,"textLines":1,"bbox":[62,239,180,28]}
+{"kind":"textbox","id":"sh/fm1gzq5o","slide":16,"name":"text-260-240","text":"规划 · 路由 · 记忆 · 工具调用 · 多 Agent 协作 · 审批","textPreview":"规划 · 路由 · 记忆 · 工具调用 · 多 Agent 协作 · 审批","textChars":37,"textLines":1,"bbox":[260,240,950,28]}
+{"kind":"shape","id":"sh/e1sf65o3","slide":16,"name":"rect-42-296","bbox":[42,296,1196,56]}
+{"kind":"textbox","id":"sh/1ojy10ne","slide":16,"name":"text-62-309","text":"模型服务面","textPreview":"模型服务面","textChars":5,"textLines":1,"bbox":[62,309,180,28]}
+{"kind":"textbox","id":"sh/gnax8v6t","slide":16,"name":"text-260-310","text":"模型网关 · 多模型路由 · Prompt/Context · 评测 · 成本控制","textPreview":"模型网关 · 多模型路由 · Prompt/Context · 评测 · 成本控制","textChars":41,"textLines":1,"bbox":[260,310,950,28]}
+{"kind":"shape","id":"sh/nqlg3a5k","slide":16,"name":"rect-42-366","bbox":[42,366,1196,56]}
+{"kind":"textbox","id":"sh/2pcfa5oz","slide":16,"name":"text-62-379","text":"数据与知识面","textPreview":"数据与知识面","textChars":6,"textLines":1,"bbox":[62,379,180,28]}
+{"kind":"textbox","id":"sh/ps3y5knq","slide":16,"name":"text-260-380","text":"语义层 · RAG · 向量/知识库 · 主数据 · 权限 · 血缘","textPreview":"语义层 · RAG · 向量/知识库 · 主数据 · 权限 · 血缘","textChars":34,"textLines":1,"bbox":[260,380,950,28]}
+{"kind":"shape","id":"sh/oruhcf65","slide":16,"name":"rect-42-436","bbox":[42,436,1196,56]}
+{"kind":"textbox","id":"sh/bulg7u5g","slide":16,"name":"text-62-449","text":"工具与系统面","textPreview":"工具与系统面","textChars":6,"textLines":1,"bbox":[62,449,180,28]}
+{"kind":"textbox","id":"sh/atczepob","slide":16,"name":"text-260-450","text":"CRM · ERP · SCM · OA · 研发平台 · 自动化接口","textPreview":"CRM · ERP · SCM · OA · 研发平台 · 自动化接口","textChars":35,"textLines":1,"bbox":[260,450,950,28]}
+{"kind":"shape","id":"sh/mpgj6t8j","slide":16,"name":"rect-42-506","bbox":[42,506,1196,56]}
+{"kind":"textbox","id":"sh/7qp0zepo","slide":16,"name":"text-62-519","text":"基础设施面","textPreview":"基础设施面","textChars":5,"textLines":1,"bbox":[62,519,180,28]}
+{"kind":"textbox","id":"sh/8by18jq9","slide":16,"name":"text-260-520","text":"云/边/端算力 · 芯片 · 网络 · 数据中心 · 能源","textPreview":"云/边/端算力 · 芯片 · 网络 · 数据中心 · 能源","textChars":29,"textLines":1,"bbox":[260,520,950,28]}
+{"kind":"shape","id":"sh/9c7i1o7u","slide":16,"name":"rect-42-596","bbox":[42,596,1196,36]}
+{"kind":"textbox","id":"sh/ylwj2987","slide":16,"name":"text-56-602","text":"横向治理：身份与权限｜安全与合规｜可观测性｜质量评测｜成本与配额｜审计与责任","textPreview":"横向治理：身份与权限｜安全与合规｜可观测性｜质量评测｜成本与配额｜审计与责任","textChars":38,"textLines":1,"bbox":[56,602,1168,24]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"企业落地","textShapes":20}
+{"kind":"textbox","id":"sh/oza547ed","slide":17,"name":"text-42-24","text":"企业落地","textPreview":"企业落地","textChars":4,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/1c7e50ni","slide":17,"name":"text-42-55","text":"场景选择要同时看业务价值与可规模化条件","textPreview":"场景选择要同时看业务价值与可规模化条件","textChars":19,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/gbedwfmx","slide":17,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/rm5czq50","slide":17,"name":"text-1178-674","text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"shape","id":"sh/6lwvql4v","slide":17,"name":"rect-172-176","bbox":[172,176,215,215]}
+{"kind":"shape","id":"sh/t8ne10n6","slide":17,"name":"rect-387-176","bbox":[387,176,215,215]}
+{"kind":"shape","id":"sh/snedsvml","slide":17,"name":"rect-172-391","bbox":[172,391,215,215]}
+{"kind":"shape","id":"sh/jilcvq54","slide":17,"name":"rect-387-391","bbox":[387,391,215,215]}
+{"kind":"shape","id":"sh/ihcvml4j","slide":17,"bbox":[387,176,0,430]}
+{"kind":"shape","id":"sh/4by9or6l","slide":17,"bbox":[172,391,430,0]}
+{"kind":"textbox","id":"sh/pc7qhwn6","slide":17,"name":"text-192-198","text":"战略孵化","textPreview":"战略孵化","textChars":4,"textLines":1,"bbox":[192,198,170,34]}
+{"kind":"textbox","id":"sh/29grm1of","slide":17,"name":"text-407-198","text":"优先突破","textPreview":"优先突破","textChars":4,"textLines":1,"bbox":[407,198,170,34]}
+{"kind":"textbox","id":"sh/3ap8fm50","slide":17,"name":"text-192-414","text":"谨慎投入","textPreview":"谨慎投入","textChars":4,"textLines":1,"bbox":[192,414,170,34]}
+{"kind":"textbox","id":"sh/gnepkr69","slide":17,"name":"text-407-414","text":"快速复制","textPreview":"快速复制","textChars":4,"textLines":1,"bbox":[407,414,170,34]}
+{"kind":"textbox","id":"sh/honqdwnu","slide":17,"name":"text-50-180","text":"高业务价值","textPreview":"高业务价值","textChars":5,"textLines":1,"bbox":[50,180,105,30]}
+{"kind":"textbox","id":"sh/ulw7ihoj","slide":17,"name":"text-50-566","text":"低业务价值","textPreview":"低业务价值","textChars":5,"textLines":1,"bbox":[50,566,105,30]}
+{"kind":"textbox","id":"sh/fm58bm54","slide":17,"name":"text-172-620","text":"低可规模化","textPreview":"低可规模化","textChars":5,"textLines":1,"bbox":[172,620,160,28]}
+{"kind":"textbox","id":"sh/0ji9wb6t","slide":17,"name":"text-442-620","text":"高可规模化","textPreview":"高可规模化","textChars":5,"textLines":1,"bbox":[442,620,160,28]}
+{"kind":"textbox","id":"sh/14rqpgne","slide":17,"name":"text-680-176","text":"四项筛选标准","textPreview":"四项筛选标准","textChars":6,"textLines":1,"bbox":[680,176,300,38]}
+{"kind":"textbox","id":"sh/90nq9gfi","slide":17,"name":"text-680-248","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[680,248,44,28]}
+{"kind":"textbox","id":"sh/8ze9gbyx","slide":17,"name":"text-738-242","text":"价值：收入、成本、周期、质量或风险改善是否显著？","textPreview":"价值：收入、成本、周期、质量或风险改善是否显著？","textChars":24,"textLines":1,"bbox":[738,242,470,62]}
+{"kind":"shape","id":"sh/ny5876xc","slide":17,"bbox":[680,318,520,0]}
+{"kind":"textbox","id":"sh/mxw7e1gr","slide":17,"name":"text-680-334","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[680,334,44,28]}
+{"kind":"textbox","id":"sh/lwnq5gf6","slide":17,"name":"text-738-328","text":"数据：是否有可信、授权、可追溯的上下文？","textPreview":"数据：是否有可信、授权、可追溯的上下文？","textChars":20,"textLines":1,"bbox":[738,328,470,62]}
+{"kind":"shape","id":"sh/0vepcbyl","slide":17,"bbox":[680,404,520,0]}
+{"kind":"textbox","id":"sh/zul836xg","slide":17,"name":"text-680-420","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[680,420,44,28]}
+{"kind":"textbox","id":"sh/ytc7a1gv","slide":17,"name":"text-738-414","text":"流程：任务边界是否清晰，异常能否被识别和升级？","textPreview":"流程：任务边界是否清晰，异常能否被识别和升级？","textChars":23,"textLines":1,"bbox":[738,414,470,62]}
+{"kind":"shape","id":"sh/d83q1wfa","slide":17,"bbox":[680,490,520,0]}
+{"kind":"textbox","id":"sh/c7up8ryp","slide":17,"name":"text-680-506","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[680,506,44,28]}
+{"kind":"textbox","id":"sh/2dsn2xwn","slide":17,"name":"text-738-500","text":"复制：能否通过模板、工具和语义层跨部门复用？","textPreview":"复制：能否通过模板、工具和语义层跨部门复用？","textChars":22,"textLines":1,"bbox":[738,500,470,62]}
+{"kind":"shape","id":"sh/3e1ob2d8","slide":17,"bbox":[680,576,520,0]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]\n\n该优先级矩阵为基于 AI_Layout.md 产业规律推导的企业落地框架。"}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"企业落地","textShapes":16}
+{"kind":"textbox","id":"sh/90v6t4ri","slide":18,"name":"text-42-24","text":"企业落地","textPreview":"企业落地","textChars":4,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/wrelszu9","slide":18,"name":"text-42-55","text":"规模化需要产品、平台、数据、治理四条线协同","textPreview":"规模化需要产品、平台、数据、治理四条线协同","textChars":21,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/hsn2l4bu","slide":18,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/itw3upcf","slide":18,"name":"text-1178-674","text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/je5knut0","slide":18,"name":"text-42-176","text":"业务产品线","textPreview":"业务产品线","textChars":5,"textLines":1,"bbox":[42,176,256,40]}
+{"kind":"shape","id":"sh/4felwzu5","slide":18,"bbox":[42,232,256,0]}
+{"kind":"textbox","id":"sh/5gnmp4bq","slide":18,"name":"text-42-266","text":"定义价值目标、流程边界、用户体验和采用机制；对业务结果负责。","textPreview":"定义价值目标、流程边界、用户体验和采用机制；对业务结果负责。","textChars":30,"textLines":1,"bbox":[42,266,256,170]}
+{"kind":"textbox","id":"sh/6hw3y9sb","slide":18,"name":"text-42-474","text":"Owner：业务负责人","textPreview":"Owner：业务负责人","textChars":11,"textLines":1,"bbox":[42,474,256,30]}
+{"kind":"textbox","id":"sh/rip4retw","slide":18,"name":"text-342-176","text":"AI 平台线","textPreview":"AI 平台线","textChars":6,"textLines":1,"bbox":[342,176,256,40]}
+{"kind":"shape","id":"sh/fapkr6pw","slide":18,"bbox":[342,232,256,0]}
+{"kind":"textbox","id":"sh/upg3i18r","slide":18,"name":"text-342-266","text":"提供模型网关、Agent 编排、工具注册、评测、观测和成本管理。","textPreview":"提供模型网关、Agent 编排、工具注册、评测、观测和成本管理。","textChars":32,"textLines":1,"bbox":[342,266,256,170]}
+{"kind":"textbox","id":"sh/1cr2tg72","slide":18,"name":"text-342-474","text":"Owner：平台负责人","textPreview":"Owner：平台负责人","textChars":11,"textLines":1,"bbox":[342,474,256,30]}
+{"kind":"textbox","id":"sh/gbylkbqh","slide":18,"name":"text-642-176","text":"数据产品线","textPreview":"数据产品线","textChars":5,"textLines":1,"bbox":[642,176,256,40]}
+{"kind":"shape","id":"sh/7mpknmp0","slide":18,"bbox":[642,232,256,0]}
+{"kind":"textbox","id":"sh/6lg3e18f","slide":18,"name":"text-642-266","text":"建设语义层、知识产品、数据契约、质量与权限；对上下文可信负责。","textPreview":"建设语义层、知识产品、数据契约、质量与权限；对上下文可信负责。","textChars":31,"textLines":1,"bbox":[642,266,256,170]}
+{"kind":"textbox","id":"sh/to72pw76","slide":18,"name":"text-642-474","text":"Owner：数据负责人","textPreview":"Owner：数据负责人","textChars":11,"textLines":1,"bbox":[642,474,256,30]}
+{"kind":"textbox","id":"sh/snylgrql","slide":18,"name":"text-942-176","text":"风险治理线","textPreview":"风险治理线","textChars":5,"textLines":1,"bbox":[942,176,256,40]}
+{"kind":"shape","id":"sh/bi94zqp4","slide":18,"bbox":[942,232,256,0]}
+{"kind":"textbox","id":"sh/qh03ql8j","slide":18,"name":"text-942-266","text":"制定分级授权、红线、审计、隐私、安全与事件响应；对风险边界负责。","textPreview":"制定分级授权、红线、审计、隐私、安全与事件响应；对风险边界负责。","textChars":32,"textLines":1,"bbox":[942,266,256,170]}
+{"kind":"textbox","id":"sh/md4nipsr","slide":18,"name":"text-942-474","text":"Owner：风控/安全负责人","textPreview":"Owner：风控/安全负责人","textChars":14,"textLines":1,"bbox":[942,474,256,30]}
+{"kind":"shape","id":"sh/nedoru9c","slide":18,"name":"rect-42-548","bbox":[42,548,1156,74]}
+{"kind":"textbox","id":"sh/8zm5kzax","slide":18,"name":"text-66-566","text":"共同节奏：以场景为单位建立“上线—评测—观测—复盘—扩展”闭环；平台标准由真实场景反向沉淀。","textPreview":"共同节奏：以场景为单位建立“上线—评测—观测—复盘—扩展”闭环；平台标准由真实场景反向沉淀。","textChars":46,"textLines":1,"bbox":[66,566,1108,40]}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"企业落地","textShapes":17}
+{"kind":"textbox","id":"sh/cfuxw3yt","slide":19,"name":"text-42-24","text":"企业落地","textPreview":"企业落地","textChars":4,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/9gb6xgbi","slide":19,"name":"text-42-55","text":"Agent 治理的核心不是限制能力，而是建立可控的授权链","textPreview":"Agent 治理的核心不是限制能力，而是建立可控的授权链","textChars":28,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/8v2pobax","slide":19,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/vitozqt8","slide":19,"name":"text-1178-674","text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"shape","id":"sh/ahk7qls3","slide":19,"bbox":[162,250,48,0]}
+{"kind":"shape","id":"sh/xkbq10be","slide":19,"name":"rect-42-214","bbox":[42,214,120,72]}
+{"kind":"textbox","id":"sh/wj2psvat","slide":19,"name":"text-42-235","text":"身份","textPreview":"身份","textChars":2,"textLines":1,"bbox":[42,235,120,30]}
+{"kind":"shape","id":"sh/jmd83atk","slide":19,"bbox":[330,250,48,0]}
+{"kind":"shape","id":"sh/il47u5sz","slide":19,"name":"rect-210-214","bbox":[210,214,120,72]}
+{"kind":"textbox","id":"sh/cri1gnql","slide":19,"name":"text-210-235","text":"意图","textPreview":"意图","textChars":2,"textLines":1,"bbox":[210,235,120,30]}
+{"kind":"shape","id":"sh/dsri9sr6","slide":19,"bbox":[498,250,48,0]}
+{"kind":"shape","id":"sh/qpgjex8f","slide":19,"name":"rect-378-214","bbox":[378,214,120,72]}
+{"kind":"textbox","id":"sh/rqp07290","slide":19,"name":"text-378-235","text":"计划","textPreview":"计划","textChars":2,"textLines":1,"bbox":[378,235,120,30]}
+{"kind":"shape","id":"sh/0vi1k7qx","slide":19,"bbox":[666,250,48,0]}
+{"kind":"shape","id":"sh/1gridcr2","slide":19,"name":"rect-546-214","bbox":[546,214,120,72]}
+{"kind":"textbox","id":"sh/et0jix8r","slide":19,"name":"text-546-235","text":"工具","textPreview":"工具","textChars":2,"textLines":1,"bbox":[546,235,120,30]}
+{"kind":"shape","id":"sh/zu90b29c","slide":19,"bbox":[834,250,48,0]}
+{"kind":"shape","id":"sh/oj21o7qt","slide":19,"name":"rect-714-214","bbox":[714,214,120,72]}
+{"kind":"textbox","id":"sh/9kb2hcre","slide":19,"name":"text-714-235","text":"执行","textPreview":"执行","textChars":2,"textLines":1,"bbox":[714,235,120,30]}
+{"kind":"shape","id":"sh/x07i1cji","slide":19,"bbox":[1002,250,48,0]}
+{"kind":"shape","id":"sh/wfy1s7ix","slide":19,"name":"rect-882-214","bbox":[882,214,120,72]}
+{"kind":"textbox","id":"sh/vep0z21c","slide":19,"name":"text-882-235","text":"结果","textPreview":"结果","textChars":2,"textLines":1,"bbox":[882,235,120,30]}
+{"kind":"shape","id":"sh/adgjqx0r","slide":19,"name":"rect-1050-214","bbox":[1050,214,120,72]}
+{"kind":"textbox","id":"sh/54ri5wje","slide":19,"name":"text-1050-235","text":"审计","textPreview":"审计","textChars":2,"textLines":1,"bbox":[1050,235,120,30]}
+{"kind":"textbox","id":"sh/k3y1wri9","slide":19,"name":"text-42-374","text":"事前：边界","textPreview":"事前：边界","textChars":5,"textLines":1,"bbox":[42,374,340,38]}
+{"kind":"textbox","id":"sh/j2p03m1o","slide":19,"name":"text-42-430","text":"按角色、数据敏感度、工具风险和金额设置权限；高风险动作必须审批。","textPreview":"按角色、数据敏感度、工具风险和金额设置权限；高风险动作必须审批。","textChars":32,"textLines":1,"bbox":[42,430,340,120]}
+{"kind":"textbox","id":"sh/i1gjuh03","slide":19,"name":"text-440-374","text":"事中：控制","textPreview":"事中：控制","textChars":5,"textLines":1,"bbox":[440,374,340,38]}
+{"kind":"textbox","id":"sh/l8nitsja","slide":19,"name":"text-440-430","text":"对工具调用、参数、上下文、异常和成本实时观测；支持暂停、回滚与人工接管。","textPreview":"对工具调用、参数、上下文、异常和成本实时观测；支持暂停、回滚与人工接管。","textChars":36,"textLines":1,"bbox":[440,430,340,120]}
+{"kind":"textbox","id":"sh/07ehknip","slide":19,"name":"text-838-374","text":"事后：追责","textPreview":"事后：追责","textChars":5,"textLines":1,"bbox":[838,374,340,38]}
+{"kind":"textbox","id":"sh/qdsfutgn","slide":19,"name":"text-838-430","text":"保留输入、计划、调用、输出与审批记录；用评测和事件复盘持续更新策略。","textPreview":"保留输入、计划、调用、输出与审批记录；用评测和事件复盘持续更新策略。","textChars":34,"textLines":1,"bbox":[838,430,340,120]}
+{"kind":"textbox","id":"sh/belg3yh8","slide":19,"name":"text-42-592","text":"最低治理基线：最小权限｜敏感数据隔离｜高风险人工确认｜全链路日志｜可回滚｜持续评测","textPreview":"最低治理基线：最小权限｜敏感数据隔离｜高风险人工确认｜全链路日志｜可回滚｜持续评测","textChars":41,"textLines":1,"bbox":[42,592,1160,34]}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"行动路线","textShapes":17}
+{"kind":"textbox","id":"sh/l8fm907a","slide":20,"name":"text-42-24","text":"行动路线","textPreview":"行动路线","textChars":4,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/qpwjmh8n","slide":20,"name":"text-42-55","text":"12 个月路线图：先建立可验证闭环，再扩展自主性","textPreview":"12 个月路线图：先建立可验证闭环，再扩展自主性","textChars":24,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/rq50vmp8","slide":20,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/4nu1krqh","slide":20,"name":"text-1178-674","text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"shape","id":"sh/po3itc72","slide":20,"bbox":[82,262,1050,0]}
+{"kind":"shape","id":"sh/2lczih8r","slide":20,"name":"rect-64-238","bbox":[64,238,48,48]}
+{"kind":"textbox","id":"sh/3ml0rmpw","slide":20,"name":"text-64-247","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[64,247,48,30]}
+{"kind":"textbox","id":"sh/gjuhg7ql","slide":20,"name":"text-42-166","text":"0–3 个月","textPreview":"0–3 个月","textChars":6,"textLines":1,"bbox":[42,166,250,38]}
+{"kind":"textbox","id":"sh/hk3ipcr6","slide":20,"name":"text-42-328","text":"识别 3–5 个高价值场景；建立模型网关、数据接入和基础评测；上线人机协同试点。","textPreview":"识别 3–5 个高价值场景；建立模型网关、数据接入和基础评测；上线人机协同试点。","textChars":40,"textLines":1,"bbox":[42,328,250,174]}
+{"kind":"shape","id":"sh/dkfmp4zy","slide":20,"name":"rect-364-238","bbox":[364,238,48,48]}
+{"kind":"textbox","id":"sh/cj65wzyd","slide":20,"name":"text-364-247","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[364,247,48,30]}
+{"kind":"textbox","id":"sh/rid4nuhs","slide":20,"name":"text-342-166","text":"3–6 个月","textPreview":"3–6 个月","textChars":6,"textLines":1,"bbox":[342,166,250,38]}
+{"kind":"textbox","id":"sh/qh4nupg7","slide":20,"name":"text-342-328","text":"沉淀语义层与工具目录；把试点嵌入流程；建立权限、日志、成本与质量看板。","textPreview":"沉淀语义层与工具目录；把试点嵌入流程；建立权限、日志、成本与质量看板。","textChars":35,"textLines":1,"bbox":[342,328,250,174]}
+{"kind":"shape","id":"sh/pwvmlkzm","slide":20,"name":"rect-664-238","bbox":[664,238,48,48]}
+{"kind":"textbox","id":"sh/4vm5sfy1","slide":20,"name":"text-664-247","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[664,247,48,30]}
+{"kind":"textbox","id":"sh/3ud4juhg","slide":20,"name":"text-642-166","text":"6–9 个月","textPreview":"6–9 个月","textChars":6,"textLines":1,"bbox":[642,166,250,38]}
+{"kind":"textbox","id":"sh/2t4nqpgb","slide":20,"name":"text-642-328","text":"扩展跨系统 Agent；复用场景模板；引入异常恢复、人工接管和持续评测。","textPreview":"扩展跨系统 Agent；复用场景模板；引入异常恢复、人工接管和持续评测。","textChars":36,"textLines":1,"bbox":[642,328,250,174]}
+{"kind":"shape","id":"sh/hsvmhkzq","slide":20,"name":"rect-964-238","bbox":[964,238,48,48]}
+{"kind":"textbox","id":"sh/grm5ofy5","slide":20,"name":"text-964-247","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[964,247,48,30]}
+{"kind":"textbox","id":"sh/8b654f61","slide":20,"name":"text-942-166","text":"9–12 个月","textPreview":"9–12 个月","textChars":7,"textLines":1,"bbox":[942,166,250,38]}
+{"kind":"textbox","id":"sh/tcz6dk7m","slide":20,"name":"text-942-328","text":"形成多 Agent 协作；按业务指标优化；建立平台化运营和年度投资组合机制。","textPreview":"形成多 Agent 协作；按业务指标优化；建立平台化运营和年度投资组合机制。","textChars":38,"textLines":1,"bbox":[942,328,250,174]}
+{"kind":"shape","id":"sh/69on25ov","slide":20,"name":"rect-42-550","bbox":[42,550,1196,72]}
+{"kind":"textbox","id":"sh/7ax4bapg","slide":20,"name":"text-64-570","text":"阶段门","textPreview":"阶段门","textChars":3,"textLines":1,"bbox":[64,570,100,28]}
+{"kind":"textbox","id":"sh/k7650f6p","slide":20,"name":"text-172-566","text":"只有当价值、质量、风险、成本四项指标同时达标，才提升自主性或扩大到下一批场景。","textPreview":"只有当价值、质量、风险、成本四项指标同时达标，才提升自主性或扩大到下一批场景。","textChars":39,"textLines":1,"bbox":[172,566,1034,36]}
+{"kind":"notes","id":"nt/zyxsni5k","slide":20,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]\n\n路线图为基于 AI_Layout.md 六层架构推导的建议，可根据企业基础调整节奏。"}
+{"kind":"slide","id":"sl/m1wvqtk3","slide":21,"title":"行动路线","textShapes":18}
+{"kind":"textbox","id":"sh/0jidwf2x","slide":21,"name":"text-42-24","text":"行动路线","textPreview":"行动路线","textChars":4,"textLines":1,"bbox":[42,24,400,26]}
+{"kind":"textbox","id":"sh/1gbmxs7a","slide":21,"name":"text-42-55","text":"管理层需要尽快作出五个关键选择","textPreview":"管理层需要尽快作出五个关键选择","textChars":15,"textLines":1,"bbox":[42,55,1160,68]}
+{"kind":"shape","id":"sh/0f2lon6p","slide":21,"bbox":[42,128,1196,0]}
+{"kind":"textbox","id":"sh/ra9kryp8","slide":21,"name":"text-1178-674","text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1178,674,60,22]}
+{"kind":"textbox","id":"sh/qp03yt8n","slide":21,"name":"text-42-156","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[42,156,60,34]}
+{"kind":"textbox","id":"sh/dcb2t87y","slide":21,"name":"text-120-156","text":"价值锚点","textPreview":"价值锚点","textChars":4,"textLines":1,"bbox":[120,156,210,34]}
+{"kind":"textbox","id":"sh/sb2lk36t","slide":21,"name":"text-360-156","text":"以业务结果而非模型参数定义投资优先级。","textPreview":"以业务结果而非模型参数定义投资优先级。","textChars":19,"textLines":1,"bbox":[360,156,820,44]}
+{"kind":"shape","id":"sh/b6d432pc","slide":21,"bbox":[42,218,1196,0]}
+{"kind":"textbox","id":"sh/al43uxor","slide":21,"name":"text-42-250","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[42,250,60,34]}
+{"kind":"textbox","id":"sh/4jax4nqd","slide":21,"name":"text-120-250","text":"架构边界","textPreview":"架构边界","textChars":4,"textLines":1,"bbox":[120,250,210,34]}
+{"kind":"textbox","id":"sh/5kjydsri","slide":21,"name":"text-360-250","text":"选择可替换模型、可组合工具、可审计权限的开放架构。","textPreview":"选择可替换模型、可组合工具、可审计权限的开放架构。","textChars":25,"textLines":1,"bbox":[360,250,820,44]}
+{"kind":"shape","id":"sh/ixsf2d87","slide":21,"bbox":[42,312,1196,0]}
+{"kind":"textbox","id":"sh/jy1gbi9s","slide":21,"name":"text-42-344","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[42,344,60,34]}
+{"kind":"textbox","id":"sh/wvax03q1","slide":21,"name":"text-120-344","text":"数据责任","textPreview":"数据责任","textChars":4,"textLines":1,"bbox":[120,344,210,34]}
+{"kind":"textbox","id":"sh/hwjy98rm","slide":21,"name":"text-360-344","text":"把语义、质量、权限与知识更新明确到业务 Owner。","textPreview":"把语义、质量、权限与知识更新明确到业务 Owner。","textChars":26,"textLines":1,"bbox":[360,344,820,44]}
+{"kind":"shape","id":"sh/utsfyt8v","slide":21,"bbox":[42,406,1196,0]}
+{"kind":"textbox","id":"sh/vu1w7y9g","slide":21,"name":"text-42-438","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[42,438,60,34]}
+{"kind":"textbox","id":"sh/8rqxw3q5","slide":21,"name":"text-120-438","text":"自主性边界","textPreview":"自主性边界","textChars":5,"textLines":1,"bbox":[120,438,210,34]}
+{"kind":"textbox","id":"sh/9sze58rq","slide":21,"name":"text-360-438","text":"按风险分级决定哪些任务自动执行、哪些必须人工批准。","textPreview":"按风险分级决定哪些任务自动执行、哪些必须人工批准。","textChars":25,"textLines":1,"bbox":[360,438,820,44]}
+{"kind":"shape","id":"sh/porutkje","slide":21,"bbox":[42,500,1196,0]}
+{"kind":"textbox","id":"sh/onid0f2t","slide":21,"name":"text-42-532","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[42,532,60,34]}
+{"kind":"textbox","id":"sh/nm9cru18","slide":21,"name":"text-120-532","text":"规模化机制","textPreview":"规模化机制","textChars":5,"textLines":1,"bbox":[120,532,210,34]}
+{"kind":"textbox","id":"sh/2l0vypkn","slide":21,"name":"text-360-532","text":"用平台标准、场景模板和评测基线推动跨部门复制。","textPreview":"用平台标准、场景模板和评测基线推动跨部门复制。","textChars":23,"textLines":1,"bbox":[360,532,820,44]}
+{"kind":"shape","id":"sh/1kru5kj2","slide":21,"bbox":[42,594,1196,0]}
+{"kind":"notes","id":"nt/m1wvqtk3","slide":21,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}
+{"kind":"slide","id":"sl/5onypobq","slide":22,"title":"结论","textShapes":4}
+{"kind":"textbox","id":"sh/il87etcv","slide":22,"name":"text-42-40","text":"结论","textPreview":"结论","textChars":2,"textLines":1,"bbox":[42,40,180,34]}
+{"kind":"textbox","id":"sh/6987itcr","slide":22,"name":"text-42-176","text":"真正的行业智能化，\n是让智能稳定地交付结果","textPreview":"真正的行业智能化， | 是让智能稳定地交付结果","textChars":21,"textLines":2,"bbox":[42,176,1050,210]}
+{"kind":"textbox","id":"sh/7a18rydc","slide":22,"name":"text-42-482","text":"竞争优势将来自三种能力的组合：底层资源可获得、企业语义可理解、业务流程可执行。","textPreview":"竞争优势将来自三种能力的组合：底层资源可获得、企业语义可理解、业务流程可执行。","textChars":39,"textLines":1,"bbox":[42,482,920,72]}
+{"kind":"shape","id":"sh/k7qpgjul","slide":22,"name":"rect-1038-40","bbox":[1038,40,200,592]}
+{"kind":"textbox","id":"sh/58zqpov6","slide":22,"name":"text-1080-140","text":"能源\n算力\n模型\n数据\nAgent\n应用","textPreview":"能源 | 算力 | 模型 | 数据 | Agent | 应用","textChars":20,"textLines":6,"bbox":[1080,140,120,370]}
+{"kind":"notes","id":"nt/5onypobq","slide":22,"text":"[Sources]\n- /Users/apple/SocratesAI-codex/AI_Layout.md\n[/Sources]"}

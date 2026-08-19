@@ -1,0 +1,15 @@
+AI_Layout.md — local source for six-layer AI industry architecture.
+IEA, Key Questions on Energy and AI (2026): https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
+IEA, Energy and AI (2025): https://www.iea.org/reports/energy-and-ai/executive-summary
+Stanford HAI, 2026 AI Index overview: https://hai.stanford.edu/ai-index/2026-ai-index-report
+Stanford HAI, 2026 AI Index economy: https://hai.stanford.edu/ai-index/2026-ai-index-report/economy
+Stanford HAI, 2026 AI Index technical performance: https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance
+Stanford HAI, 2026 AI Index responsible AI: https://hai.stanford.edu/ai-index/2026-ai-index-report/responsible-ai
+Stanford HAI, 2025 AI Index: https://hai.stanford.edu/news/ai-index-2025-state-of-ai-in-10-charts
+Anthropic Economic Index: https://www.anthropic.com/news/the-anthropic-economic-index
+Anthropic MCP / AAIF: https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
+Google Cloud A2A update: https://cloud.google.com/blog/products/ai-machine-learning/agent2agent-protocol-is-getting-an-upgrade
+China State Council AI+ Action: https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm
+European Commission AI Act: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+NIST AI RMF: https://www.nist.gov/itl/ai-risk-management-framework
+

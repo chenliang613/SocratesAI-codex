@@ -1,0 +1,4 @@
+[Sources]
+S01 | /Users/apple/SocratesAI-codex/Input Minds.md | 用户提供材料；用于全部观点与结构。
+
+No external web research or external visual assets were used.

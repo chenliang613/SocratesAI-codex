@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-08-04T09:55:31.188Z",
+  "workspace": "/Users/apple/SocratesAI-codex/tmp/industry-intelligence-update",
+  "finalPptx": "/Users/apple/SocratesAI-codex/行业智能化分析.pptx",
+  "starterPptx": "/Users/apple/SocratesAI-codex/tmp/industry-intelligence-update/template-starter.pptx",
+  "mapPath": "/Users/apple/SocratesAI-codex/tmp/industry-intelligence-update/template-frame-map.json",
+  "starterLayoutDir": "/Users/apple/SocratesAI-codex/tmp/industry-intelligence-update/template-starter-layout",
+  "finalLayoutDir": "/Users/apple/SocratesAI-codex/tmp/industry-intelligence-update/final-render",
+  "editDir": "/Users/apple/SocratesAI-codex/tmp/industry-intelligence-update",
+  "issueCount": 0,
+  "issues": []
+}

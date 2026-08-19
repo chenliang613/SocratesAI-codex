@@ -1,0 +1,499 @@
+{"kind":"deck","id":"pr/3o0d46","name":"Deck"}
+{"kind":"layout","layoutId":"7daeea63-1d2d-4e1b-8d9f-c77787e6ea97","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"13de5957-0fd9-45d6-8968-6d4cd8443726","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/kbsbef","slide":1,"title":"SC32 × SC38","textShapes":5}
+{"kind":"shape","id":"sh/b658nqtc","slide":1,"bbox":[42,42,170,8]}
+{"kind":"textbox","id":"sh/c7y9wvah","slide":1,"text":"SC32 × SC38","textPreview":"SC32 × SC38","textChars":11,"textLines":1,"bbox":[42,88,600,40]}
+{"kind":"textbox","id":"sh/d87qp0b2","slide":1,"text":"数据国际标准分析","textPreview":"数据国际标准分析","textChars":8,"textLines":1,"bbox":[42,160,900,120]}
+{"kind":"textbox","id":"sh/y9grylsn","slide":1,"text":"从数据定义、语义注册到云上流动与共享的标准体系","textPreview":"从数据定义、语义注册到云上流动与共享的标准体系","textChars":23,"textLines":1,"bbox":[46,310,920,48]}
+{"kind":"shape","id":"sh/zap8rqt8","slide":1,"bbox":[42,438,550,122]}
+{"kind":"textbox","id":"sh/0by90vat","slide":1,"text":"ISO/IEC JTC 1\nSC32 · Data management and interchange\nSC38 · Cloud computing and distributed platforms","textPreview":"ISO/IEC JTC 1 | SC32 · Data management and interchange | SC38 · Cloud computing and distributed platforms","textChars":101,"textLines":3,"bbox":[70,464,480,82]}
+{"kind":"textbox","id":"sh/lc7qt0be","slide":1,"text":"资料基准：ISO 官方委员会范围与目录 · 2026-08-07","textPreview":"资料基准：ISO 官方委员会范围与目录 · 2026-08-07","textChars":32,"textLines":1,"bbox":[42,660,560,22]}
+{"kind":"notes","id":"nt/kbsbef","slide":1,"text":"[Sources]\n- https://www.iso.org/committee/45342.html\n- https://www.iso.org/committee/601355.html"}
+{"kind":"slide","id":"sl/ln0exr","slide":2,"title":"国际标准分析","textShapes":14}
+{"kind":"textbox","id":"sh/fyl83q1k","slide":2,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/0zupcvi5","slide":2,"text":"两个委员会分工不同，但共同构成数据基础设施","textPreview":"两个委员会分工不同，但共同构成数据基础设施","textChars":21,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/10nq50jq","slide":2,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/21wre50b","slide":2,"text":"SC32 规定数据如何被定义、组织、交换与解释；SC38 规定数据如何在云与分布式平台中流动、共享与被治理。","textPreview":"SC32 规定数据如何被定义、组织、交换与解释；SC38 规定数据如何在云与分布式平台中流动、共享与被治理。","textChars":54,"textLines":1,"bbox":[42,172,1160,42]}
+{"kind":"shape","id":"sh/n2587a1w","slide":2,"bbox":[42,250,540,300]}
+{"kind":"textbox","id":"sh/o3e9gfi1","slide":2,"text":"SC32 · DATA MANAGEMENT AND INTERCHANGE","textPreview":"SC32 · DATA MANAGEMENT AND INTERCHANGE","textChars":38,"textLines":1,"bbox":[72,280,420,22]}
+{"kind":"textbox","id":"sh/p4nq9kjm","slide":2,"text":"•  参考模型与框架","textPreview":"•  参考模型与框架","textChars":10,"textLines":1,"bbox":[72,330,430,46]}
+{"kind":"textbox","id":"sh/apwri507","slide":2,"text":"•  数据域、类型、结构及语义","textPreview":"•  数据域、类型、结构及语义","textChars":15,"textLines":1,"bbox":[72,370,430,46]}
+{"kind":"textbox","id":"sh/bq58ba1s","slide":2,"text":"•  持久存储、并发访问、数据交换","textPreview":"•  持久存储、并发访问、数据交换","textChars":17,"textLines":1,"bbox":[72,410,430,46]}
+{"kind":"textbox","id":"sh/ra5szepc","slide":2,"text":"•  元数据注册与互操作","textPreview":"•  元数据注册与互操作","textChars":12,"textLines":1,"bbox":[72,450,430,46]}
+{"kind":"shape","id":"sh/q9wb698r","slide":2,"bbox":[660,250,540,300]}
+{"kind":"textbox","id":"sh/dcna1472","slide":2,"text":"SC38 · CLOUD & DISTRIBUTED PLATFORMS","textPreview":"SC38 · CLOUD & DISTRIBUTED PLATFORMS","textChars":36,"textLines":1,"bbox":[690,280,430,22]}
+{"kind":"textbox","id":"sh/sbet8jqx","slide":2,"text":"•  云计算与分布式平台基础概念","textPreview":"•  云计算与分布式平台基础概念","textChars":16,"textLines":1,"bbox":[690,330,430,46]}
+{"kind":"textbox","id":"sh/3m5svup0","slide":2,"text":"•  云间 / 边缘 / 多云的交互","textPreview":"•  云间 / 边缘 / 多云的交互","textChars":18,"textLines":1,"bbox":[690,370,430,46]}
+{"kind":"textbox","id":"sh/ilcb2p8f","slide":2,"text":"•  数据流、数据类别、数据使用","textPreview":"•  数据流、数据类别、数据使用","textChars":16,"textLines":1,"bbox":[690,410,430,46]}
+{"kind":"textbox","id":"sh/58nax476","slide":2,"text":"•  共享协议、可移植性与数字主权","textPreview":"•  共享协议、可移植性与数字主权","textChars":17,"textLines":1,"bbox":[690,450,430,46]}
+{"kind":"textbox","id":"sh/4net4zql","slide":2,"text":"数据国际标准分析  ·  02","textPreview":"数据国际标准分析  ·  02","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/ln0exr","slide":2,"text":"[Sources]\n- https://www.iso.org/committee/45342.html\n- https://www.iso.org/committee/601355.html"}
+{"kind":"slide","id":"sl/77pidw","slide":3,"title":"国际标准分析","textShapes":17}
+{"kind":"textbox","id":"sh/618ze58n","slide":3,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/t4ji9kre","slide":3,"text":"阅读标准目录，先看状态，再看编号","textPreview":"阅读标准目录，先看状态，再看编号","textChars":16,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/s3ahgfqt","slide":3,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/f610ba9k","slide":3,"text":"ISO 官方目录同时展示已发布、制定中、撤销与删除项目；对于工程选型，状态决定可引用性与落地风险。","textPreview":"ISO 官方目录同时展示已发布、制定中、撤销与删除项目；对于工程选型，状态决定可引用性与落地风险。","textChars":49,"textLines":1,"bbox":[42,172,1100,40]}
+{"kind":"shape","id":"sh/u5szi58z","slide":3,"bbox":[42,245,220,70]}
+{"kind":"textbox","id":"sh/h8jidkra","slide":3,"text":"状态","textPreview":"状态","textChars":2,"textLines":1,"bbox":[54,255,198,55]}
+{"kind":"shape","id":"sh/g7ahkfqp","slide":3,"bbox":[262,245,510,70]}
+{"kind":"textbox","id":"sh/3al0fu9g","slide":3,"text":"工程含义","textPreview":"工程含义","textChars":4,"textLines":1,"bbox":[274,255,488,55]}
+{"kind":"shape","id":"sh/29szmp8v","slide":3,"bbox":[772,245,466,70]}
+{"kind":"textbox","id":"sh/w7ix4n6l","slide":3,"text":"建议动作","textPreview":"建议动作","textChars":4,"textLines":1,"bbox":[784,255,444,55]}
+{"kind":"shape","id":"sh/h8rydsn6","slide":3,"bbox":[42,315,220,70]}
+{"kind":"textbox","id":"sh/u5gf2xof","slide":3,"text":"Published","textPreview":"Published","textChars":9,"textLines":1,"bbox":[54,325,198,55]}
+{"kind":"shape","id":"sh/v6pgbi50","slide":3,"bbox":[262,315,510,70]}
+{"kind":"textbox","id":"sh/4bix876h","slide":3,"text":"可作为现行依据；仍需确认版本与修订","textPreview":"可作为现行依据；仍需确认版本与修订","textChars":17,"textLines":1,"bbox":[274,325,488,55]}
+{"kind":"shape","id":"sh/5cryhcn2","slide":3,"bbox":[772,315,466,70]}
+{"kind":"textbox","id":"sh/i90f6xor","slide":3,"text":"纳入企业标准基线","textPreview":"纳入企业标准基线","textChars":8,"textLines":1,"bbox":[784,325,444,55]}
+{"kind":"shape","id":"sh/ja9gf25w","slide":3,"bbox":[42,385,220,70]}
+{"kind":"textbox","id":"sh/sz2xc76t","slide":3,"text":"Under development","textPreview":"Under development","textChars":17,"textLines":1,"bbox":[54,395,198,55]}
+{"kind":"shape","id":"sh/t0bylcne","slide":3,"bbox":[262,385,510,70]}
+{"kind":"textbox","id":"sh/1w7ypcfi","slide":3,"text":"方向性信号，内容与时间仍可能变化","textPreview":"方向性信号，内容与时间仍可能变化","textChars":16,"textLines":1,"bbox":[274,395,488,55]}
+{"kind":"shape","id":"sh/0vyxw7yx","slide":3,"bbox":[772,385,466,70]}
+{"kind":"textbox","id":"sh/fupwn2xc","slide":3,"text":"跟踪、试点，不作硬性合规依据","textPreview":"跟踪、试点，不作硬性合规依据","textChars":14,"textLines":1,"bbox":[784,395,444,55]}
+{"kind":"shape","id":"sh/etwfuxgr","slide":3,"bbox":[42,455,220,70]}
+{"kind":"textbox","id":"sh/pk7ytwfe","slide":3,"text":"Withdrawn","textPreview":"Withdrawn","textChars":9,"textLines":1,"bbox":[54,465,198,55]}
+{"kind":"shape","id":"sh/ojyx0ryt","slide":3,"bbox":[262,455,510,70]}
+{"kind":"textbox","id":"sh/nipgrmx8","slide":3,"text":"历史版本已被撤销或替代","textPreview":"历史版本已被撤销或替代","textChars":11,"textLines":1,"bbox":[274,465,488,55]}
+{"kind":"shape","id":"sh/2xgfyhg3","slide":3,"bbox":[772,455,466,70]}
+{"kind":"textbox","id":"sh/5onehsfa","slide":3,"text":"仅用于兼容性与演进分析","textPreview":"仅用于兼容性与演进分析","textChars":11,"textLines":1,"bbox":[784,465,444,55]}
+{"kind":"shape","id":"sh/4nexonyp","slide":3,"bbox":[42,570,1158,68]}
+{"kind":"shape","id":"sh/utsvytwn","slide":3,"bbox":[42,570,7,68]}
+{"kind":"textbox","id":"sh/vulcryd8","slide":3,"text":"结论：标准体系是“版本化资产”，不能只维护一个编号清单。","textPreview":"结论：标准体系是“版本化资产”，不能只维护一个编号清单。","textChars":28,"textLines":1,"bbox":[66,588,1116,38]}
+{"kind":"textbox","id":"sh/gvud03ed","slide":3,"text":"数据国际标准分析  ·  03","textPreview":"数据国际标准分析  ·  03","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/77pidw","slide":3,"text":"[Sources]\n- https://www.iso.org/committee/45342/x/catalogue/\n- https://www.iso.org/committee/601355/x/catalogue/"}
+{"kind":"slide","id":"sl/3lhigb","slide":4,"title":"国际标准分析","textShapes":24}
+{"kind":"textbox","id":"sh/54jydgj2","slide":4,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/ihsf21kr","slide":4,"text":"SC32 的数据标准形成一条从语义到执行的链","textPreview":"SC32 的数据标准形成一条从语义到执行的链","textChars":22,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/j21gb61w","slide":4,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/wfax0r2l","slide":4,"text":"SC32 的价值不只是数据库语言；它把“数据是什么、如何命名、如何注册、如何交换、如何分析”连成一套可复用的基础层。","textPreview":"SC32 的价值不只是数据库语言；它把“数据是什么、如何命名、如何注册、如何交换、如何分析”连成一套可复用的基础层。","textChars":58,"textLines":1,"bbox":[42,172,1160,44]}
+{"kind":"shape","id":"sh/xgje9wj6","slide":4,"bbox":[42,285,200,190]}
+{"kind":"textbox","id":"sh/ad8fyhkf","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[62,305,50,28]}
+{"kind":"textbox","id":"sh/ve1w7m10","slide":4,"text":"语义与概念","textPreview":"语义与概念","textChars":5,"textLines":1,"bbox":[62,350,165,45]}
+{"kind":"textbox","id":"sh/gbuxcv2p","slide":4,"text":"2382 · 5394 · 21838","textPreview":"2382 · 5394 · 21838","textChars":19,"textLines":1,"bbox":[62,422,165,35]}
+{"kind":"textbox","id":"sh/hc3yl0ja","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[250,360,34,40]}
+{"kind":"shape","id":"sh/pgvehgz2","slide":4,"bbox":[282,285,200,190]}
+{"kind":"textbox","id":"sh/4fmdobih","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[302,305,50,28]}
+{"kind":"textbox","id":"sh/3edcf6hw","slide":4,"text":"类型与标识","textPreview":"类型与标识","textChars":5,"textLines":1,"bbox":[302,350,165,45]}
+{"kind":"textbox","id":"sh/2d4vm10b","slide":4,"text":"11404 · 5218 · 6523","textPreview":"11404 · 5218 · 6523","textChars":19,"textLines":1,"bbox":[302,422,165,35]}
+{"kind":"textbox","id":"sh/hcvudwzq","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[490,360,34,40]}
+{"kind":"shape","id":"sh/gbmdkri5","slide":4,"bbox":[522,285,200,190]}
+{"kind":"textbox","id":"sh/fadcbm10","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[542,305,50,28]}
+{"kind":"textbox","id":"sh/u9kvi10f","slide":4,"text":"元数据注册","textPreview":"元数据注册","textChars":5,"textLines":1,"bbox":[542,350,165,45]}
+{"kind":"textbox","id":"sh/l8fep0za","slide":4,"text":"11179 · 19763 · 20944","textPreview":"11179 · 19763 · 20944","textChars":21,"textLines":1,"bbox":[542,422,165,35]}
+{"kind":"textbox","id":"sh/076dwvip","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[730,360,34,40]}
+{"kind":"shape","id":"sh/knyp83ux","slide":4,"bbox":[762,285,200,190]}
+{"kind":"textbox","id":"sh/5o7618bi","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[782,305,50,28]}
+{"kind":"textbox","id":"sh/i1g76tcr","slide":4,"text":"交换与数据库","textPreview":"交换与数据库","textChars":6,"textLines":1,"bbox":[782,350,165,45]}
+{"kind":"textbox","id":"sh/j2pozytc","slide":4,"text":"9075 · 13249 · 14957","textPreview":"9075 · 13249 · 14957","textChars":20,"textLines":1,"bbox":[782,422,165,35]}
+{"kind":"textbox","id":"sh/wzyp4ju1","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[970,360,34,40]}
+{"kind":"shape","id":"sh/x076xobm","slide":4,"bbox":[1002,285,200,190]}
+{"kind":"textbox","id":"sh/axwn29cv","slide":4,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1022,305,50,28]}
+{"kind":"textbox","id":"sh/vy5ovetg","slide":4,"text":"使用与分析","textPreview":"使用与分析","textChars":5,"textLines":1,"bbox":[1022,350,165,45]}
+{"kind":"textbox","id":"sh/8ve50jup","slide":4,"text":"5207 · 5212 · 29075 · 39075","textPreview":"5207 · 5212 · 29075 · 39075","textChars":27,"textLines":1,"bbox":[1022,422,165,35]}
+{"kind":"shape","id":"sh/9wn69oba","slide":4,"bbox":[42,540,1158,78]}
+{"kind":"shape","id":"sh/bql8jexc","slide":4,"bbox":[42,540,7,78]}
+{"kind":"textbox","id":"sh/q5c7a9wr","slide":4,"text":"SC32 的核心产出是“可被不同系统共同理解的对象”：数据元素、概念系统、数据集、模型与查询语言。","textPreview":"SC32 的核心产出是“可被不同系统共同理解的对象”：数据元素、概念系统、数据集、模型与查询语言。","textChars":49,"textLines":1,"bbox":[66,558,1116,48]}
+{"kind":"textbox","id":"sh/dsnql4f2","slide":4,"text":"数据国际标准分析  ·  04","textPreview":"数据国际标准分析  ·  04","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/3lhigb","slide":4,"text":"[Sources]\n- https://www.iso.org/committee/45342.html\n- https://www.iso.org/committee/45342/x/catalogue/"}
+{"kind":"slide","id":"sl/hxrxdq","slide":5,"title":"国际标准分析","textShapes":20}
+{"kind":"textbox","id":"sh/tc72doz6","slide":5,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/69wji9gf","slide":5,"text":"SC32 的元数据主线已扩展到数据集、模型与可计算数据","textPreview":"SC32 的元数据主线已扩展到数据集、模型与可计算数据","textChars":27,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/rapkbeh0","slide":5,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/47e1gzyp","slide":5,"text":"ISO/IEC 11179:2023 及其配套系列，把注册对象从数据元素扩展到概念系统、数据集、可计算数据与模型。","textPreview":"ISO/IEC 11179:2023 及其配套系列，把注册对象从数据元素扩展到概念系统、数据集、可计算数据与模型。","textChars":57,"textLines":1,"bbox":[42,172,1160,44]}
+{"kind":"shape","id":"sh/58n294zu","slide":5,"bbox":[42,248,240,67]}
+{"kind":"textbox","id":"sh/i5wje9gj","slide":5,"text":"系列","textPreview":"系列","textChars":2,"textLines":1,"bbox":[54,258,218,52]}
+{"kind":"shape","id":"sh/j65k7eh4","slide":5,"bbox":[282,248,420,67]}
+{"kind":"textbox","id":"sh/w3e1czyd","slide":5,"text":"当前重点","textPreview":"当前重点","textChars":4,"textLines":1,"bbox":[294,258,398,52]}
+{"kind":"shape","id":"sh/h4n254zy","slide":5,"bbox":[702,248,498,67]}
+{"kind":"textbox","id":"sh/l8ru1kju","slide":5,"text":"作用","textPreview":"作用","textChars":2,"textLines":1,"bbox":[714,258,476,52]}
+{"kind":"shape","id":"sh/k7itsfi9","slide":5,"bbox":[42,315,240,67]}
+{"kind":"textbox","id":"sh/z69cza1o","slide":5,"text":"ISO/IEC 11179-1/-2/-3","textPreview":"ISO/IEC 11179-1/-2/-3","textChars":21,"textLines":1,"bbox":[54,325,218,52]}
+{"kind":"shape","id":"sh/y5gbq503","slide":5,"bbox":[282,315,420,67]}
+{"kind":"textbox","id":"sh/xk7ux0ji","slide":5,"text":"框架、分类、注册公共设施","textPreview":"框架、分类、注册公共设施","textChars":12,"textLines":1,"bbox":[294,325,398,52]}
+{"kind":"shape","id":"sh/cjytovix","slide":5,"bbox":[702,315,498,67]}
+{"kind":"textbox","id":"sh/bipcva1s","slide":5,"text":"定义元数据注册的共同语义","textPreview":"定义元数据注册的共同语义","textChars":12,"textLines":1,"bbox":[714,325,476,52]}
+{"kind":"shape","id":"sh/ahgbm507","slide":5,"bbox":[42,382,240,67]}
+{"kind":"textbox","id":"sh/pg7ut0jm","slide":5,"text":"ISO/IEC 11179-30/-31","textPreview":"ISO/IEC 11179-30/-31","textChars":20,"textLines":1,"bbox":[54,392,218,52]}
+{"kind":"shape","id":"sh/ofytkvi1","slide":5,"bbox":[282,382,420,67]}
+{"kind":"textbox","id":"sh/gz2t0vqx","slide":5,"text":"元数据 / 数据规格注册","textPreview":"元数据 / 数据规格注册","textChars":12,"textLines":1,"bbox":[294,392,398,52]}
+{"kind":"shape","id":"sh/1kbu90ri","slide":5,"bbox":[702,382,498,67]}
+{"kind":"textbox","id":"sh/ux0bylsr","slide":5,"text":"让数据对象可发现、可描述、可复用","textPreview":"让数据对象可发现、可描述、可复用","textChars":16,"textLines":1,"bbox":[714,392,476,52]}
+{"kind":"shape","id":"sh/fy9c7q9c","slide":5,"bbox":[42,449,240,67]}
+{"kind":"textbox","id":"sh/svitwval","slide":5,"text":"ISO/IEC 11179-32/-33","textPreview":"ISO/IEC 11179-32/-33","textChars":20,"textLines":1,"bbox":[54,459,218,52]}
+{"kind":"shape","id":"sh/twru5gr6","slide":5,"bbox":[282,449,420,67]}
+{"kind":"textbox","id":"sh/6t0bulsv","slide":5,"text":"概念系统 / 数据集注册","textPreview":"概念系统 / 数据集注册","textChars":12,"textLines":1,"bbox":[294,459,398,52]}
+{"kind":"shape","id":"sh/7u9c3q9g","slide":5,"bbox":[702,449,498,67]}
+{"kind":"textbox","id":"sh/crmd8fq5","slide":5,"text":"把词表、代码表与数据产品连接","textPreview":"把词表、代码表与数据产品连接","textChars":14,"textLines":1,"bbox":[714,459,476,52]}
+{"kind":"shape","id":"sh/dsvuhkrq","slide":5,"bbox":[42,516,240,67]}
+{"kind":"textbox","id":"sh/7yhonix4","slide":5,"text":"ISO/IEC 11179-34/-35","textPreview":"ISO/IEC 11179-34/-35","textChars":20,"textLines":1,"bbox":[54,526,218,52]}
+{"kind":"shape","id":"sh/mx8nudwj","slide":5,"bbox":[282,516,420,67]}
+{"kind":"textbox","id":"sh/90z6p8fu","slide":5,"text":"可计算数据 / 模型注册","textPreview":"可计算数据 / 模型注册","textChars":12,"textLines":1,"bbox":[294,526,398,52]}
+{"kind":"shape","id":"sh/8zq5wnep","slide":5,"bbox":[702,516,498,67]}
+{"kind":"textbox","id":"sh/vmhorix0","slide":5,"text":"支撑算法、模型与机器可读资产","textPreview":"支撑算法、模型与机器可读资产","textChars":14,"textLines":1,"bbox":[714,526,476,52]}
+{"kind":"textbox","id":"sh/ul8nydwf","slide":5,"text":"配套：ISO/IEC 19763 MFI（互操作元模型）、ISO/IEC 20944 MDR-IB（API / 协议 / 绑定）、ISO/IEC 19583（元数据使用与映射）。","textPreview":"配套：ISO/IEC 19763 MFI（互操作元模型）、ISO/IEC 20944 MDR-IB（API / 协议 / 绑定）、ISO/IEC 19583（元数据使用与映射）。","textChars":89,"textLines":1,"bbox":[42,604,1150,34]}
+{"kind":"textbox","id":"sh/hoj6tsf6","slide":5,"text":"数据国际标准分析  ·  05","textPreview":"数据国际标准分析  ·  05","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/hxrxdq","slide":5,"text":"[Sources]\n- https://www.iso.org/committee/45342/x/catalogue/\n- https://www.iso.org/committee/45342/x/catalogue/\n\n关键目录位置：ISO/IEC 11179-1:2023、11179-3:2023、11179-30:2023、11179-31:2023、11179-32:2023、11179-33:2023、11179-34:2024、11179-35:2023。"}
+{"kind":"slide","id":"sl/c8n52k","slide":6,"title":"国际标准分析","textShapes":20}
+{"kind":"textbox","id":"sh/18nmtg7i","slide":6,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/e5w3i1or","slide":6,"text":"数据库语言仍是 SC32 的主干，但对象正在从关系表扩展到图","textPreview":"数据库语言仍是 SC32 的主干，但对象正在从关系表扩展到图","textChars":30,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/f654r6pc","slide":6,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/oby5ov6t","slide":6,"text":"SQL 2023 系列继续提供关系数据库的标准语言基础；GQL 2024 则为属性图查询建立独立的国际标准入口。","textPreview":"SQL 2023 系列继续提供关系数据库的标准语言基础；GQL 2024 则为属性图查询建立独立的国际标准入口。","textChars":56,"textLines":1,"bbox":[42,172,1150,42]}
+{"kind":"shape","id":"sh/pc7mx07e","slide":6,"bbox":[42,245,240,62]}
+{"kind":"textbox","id":"sh/29wnmlon","slide":6,"text":"技术族","textPreview":"技术族","textChars":3,"textLines":1,"bbox":[54,255,218,47]}
+{"kind":"shape","id":"sh/na54vqp8","slide":6,"bbox":[282,245,390,62]}
+{"kind":"textbox","id":"sh/czy5sv65","slide":6,"text":"现行代表","textPreview":"现行代表","textChars":4,"textLines":1,"bbox":[294,255,368,47]}
+{"kind":"shape","id":"sh/x07m107a","slide":6,"bbox":[672,245,528,62]}
+{"kind":"textbox","id":"sh/xo7exs36","slide":6,"text":"标准化关注点","textPreview":"标准化关注点","textChars":6,"textLines":1,"bbox":[684,255,506,47]}
+{"kind":"shape","id":"sh/cnyd4n2l","slide":6,"bbox":[42,307,240,62]}
+{"kind":"textbox","id":"sh/bmpwvil0","slide":6,"text":"SQL / ISO/IEC 9075","textPreview":"SQL / ISO/IEC 9075","textChars":18,"textLines":1,"bbox":[54,317,218,47]}
+{"kind":"shape","id":"sh/algv2dkf","slide":6,"bbox":[282,307,390,62]}
+{"kind":"textbox","id":"sh/lcre1s32","slide":6,"text":"Part 1, 2, 3, 4, 9, 14（2023）","textPreview":"Part 1, 2, 3, 4, 9, 14（2023）","textChars":28,"textLines":1,"bbox":[294,317,368,47]}
+{"kind":"shape","id":"sh/kbix8n2h","slide":6,"bbox":[672,307,528,62]}
+{"kind":"textbox","id":"sh/za9wzilc","slide":6,"text":"框架、基础语法、CLI、存储模块、外部数据、SQL/XML","textPreview":"框架、基础语法、CLI、存储模块、外部数据、SQL/XML","textChars":29,"textLines":1,"bbox":[684,317,506,47]}
+{"kind":"shape","id":"sh/ypgf6dkr","slide":6,"bbox":[42,369,240,62]}
+{"kind":"textbox","id":"sh/1gnep83y","slide":6,"text":"GQL / ISO/IEC 39075","textPreview":"GQL / ISO/IEC 39075","textChars":19,"textLines":1,"bbox":[54,379,218,47]}
+{"kind":"shape","id":"sh/0fedw3md","slide":6,"bbox":[282,369,390,62]}
+{"kind":"textbox","id":"sh/szixc3u9","slide":6,"text":"GQL（2024）","textPreview":"GQL（2024）","textChars":9,"textLines":1,"bbox":[294,379,368,47]}
+{"kind":"shape","id":"sh/t0rel8bu","slide":6,"bbox":[672,369,528,62]}
+{"kind":"textbox","id":"sh/6x0vatc3","slide":6,"text":"图模式、图构造、图查询与图数据处理","textPreview":"图模式、图构造、图查询与图数据处理","textChars":17,"textLines":1,"bbox":[684,379,506,47]}
+{"kind":"shape","id":"sh/ry9wjyto","slide":6,"bbox":[42,431,240,62]}
+{"kind":"textbox","id":"sh/g32xg3u5","slide":6,"text":"SQL packages / 13249","textPreview":"SQL packages / 13249","textChars":20,"textLines":1,"bbox":[54,441,218,47]}
+{"kind":"shape","id":"sh/14bep8bq","slide":6,"bbox":[282,431,390,62]}
+{"kind":"textbox","id":"sh/e10fedcf","slide":6,"text":"空间、全文、图像、数据挖掘等历史包","textPreview":"空间、全文、图像、数据挖掘等历史包","textChars":17,"textLines":1,"bbox":[294,441,368,47]}
+{"kind":"shape","id":"sh/f29wnit0","slide":6,"bbox":[672,431,528,62]}
+{"kind":"textbox","id":"sh/or2xknah","slide":6,"text":"数据库内置能力的领域化扩展","textPreview":"数据库内置能力的领域化扩展","textChars":13,"textLines":1,"bbox":[684,441,506,47]}
+{"kind":"shape","id":"sh/psbetsb2","slide":6,"bbox":[42,493,240,62]}
+{"kind":"textbox","id":"sh/zmd0jmd4","slide":6,"text":"数据表示 / 11404、14957","textPreview":"数据表示 / 11404、14957","textChars":18,"textLines":1,"bbox":[54,503,218,47]}
+{"kind":"shape","id":"sh/yl4zahwj","slide":6,"bbox":[282,493,390,62]}
+{"kind":"textbox","id":"sh/lofilwva","slide":6,"text":"通用数据类型、数据值格式","textPreview":"通用数据类型、数据值格式","textChars":12,"textLines":1,"bbox":[294,503,368,47]}
+{"kind":"shape","id":"sh/0n6hcrup","slide":6,"bbox":[672,493,528,62]}
+{"kind":"textbox","id":"sh/bydgf2d8","slide":6,"text":"跨语言、跨系统的数据类型与格式一致性","textPreview":"跨语言、跨系统的数据类型与格式一致性","textChars":18,"textLines":1,"bbox":[684,503,506,47]}
+{"kind":"shape","id":"sh/qx4z6hwn","slide":6,"bbox":[42,570,1158,72]}
+{"kind":"shape","id":"sh/dkvyhcvy","slide":6,"bbox":[42,570,7,72]}
+{"kind":"textbox","id":"sh/czmh87ed","slide":6,"text":"判断：关系 + 图并存，企业数据平台需要同时管理表语义、图语义与跨模型映射。","textPreview":"判断：关系 + 图并存，企业数据平台需要同时管理表语义、图语义与跨模型映射。","textChars":38,"textLines":1,"bbox":[66,588,1116,42]}
+{"kind":"textbox","id":"sh/vuh0r6dc","slide":6,"text":"数据国际标准分析  ·  06","textPreview":"数据国际标准分析  ·  06","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/c8n52k","slide":6,"text":"[Sources]\n- https://www.iso.org/committee/45342/x/catalogue/\n- https://www.iso.org/standard/80327.html"}
+{"kind":"slide","id":"sl/0w5q3x","slide":7,"title":"国际标准分析","textShapes":16}
+{"kind":"textbox","id":"sh/edonad0b","slide":7,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/1gz6lsz2","slide":7,"text":"SC32 的新方向从“如何存”转向“如何负责任地使用数据","textPreview":"SC32 的新方向从“如何存”转向“如何负责任地使用数据","textChars":28,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/0fqpcnih","slide":7,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/n2honihs","slide":7,"text":"2024 年的数据使用系列与制定中的可信使用、组织评估和高级分析函数，显示标准重心正在上移到数据使用治理。","textPreview":"2024 年的数据使用系列与制定中的可信使用、组织评估和高级分析函数，显示标准重心正在上移到数据使用治理。","textChars":53,"textLines":1,"bbox":[42,172,1160,43]}
+{"kind":"textbox","id":"sh/m187ed0n","slide":7,"text":"Published","textPreview":"Published","textChars":9,"textLines":1,"bbox":[80,263,190,24]}
+{"kind":"shape","id":"sh/94z69szy","slide":7,"bbox":[270,268,480,18]}
+{"kind":"shape","id":"sh/o3qpgnyd","slide":7,"bbox":[270,268,240,18]}
+{"kind":"textbox","id":"sh/b61ob2h4","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[762,262,48,24]}
+{"kind":"textbox","id":"sh/a587ixgj","slide":7,"text":"Under dev.","textPreview":"Under dev.","textChars":10,"textLines":1,"bbox":[80,323,190,24]}
+{"kind":"shape","id":"sh/sfepkfuh","slide":7,"bbox":[270,328,480,18]}
+{"kind":"shape","id":"sh/dgn6d0v2","slide":7,"bbox":[270,328,240,18]}
+{"kind":"textbox","id":"sh/qdw7i5wr","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[762,322,48,24]}
+{"kind":"textbox","id":"sh/re5obadc","slide":7,"text":"数据使用主线","textPreview":"数据使用主线","textChars":6,"textLines":1,"bbox":[80,405,200,28]}
+{"kind":"textbox","id":"sh/0jypofut","slide":7,"text":"•  ISO/IEC 5207: 术语与用例","textPreview":"•  ISO/IEC 5207: 术语与用例","textChars":22,"textLines":1,"bbox":[80,445,600,40]}
+{"kind":"textbox","id":"sh/1k76hkve","slide":7,"text":"•  ISO/IEC 5212: 数据使用指导","textPreview":"•  ISO/IEC 5212: 数据使用指导","textChars":23,"textLines":1,"bbox":[80,479,600,40]}
+{"kind":"textbox","id":"sh/ehw7m5cn","slide":7,"text":"•  ISO/IEC CD 24927: 组织中的数据使用评估","textPreview":"•  ISO/IEC CD 24927: 组织中的数据使用评估","textChars":31,"textLines":1,"bbox":[80,513,600,40]}
+{"kind":"textbox","id":"sh/fi5ofad8","slide":7,"text":"•  ISO/IEC CD 25985: 可信数据使用","textPreview":"•  ISO/IEC CD 25985: 可信数据使用","textChars":27,"textLines":1,"bbox":[80,547,600,40]}
+{"kind":"textbox","id":"sh/o7ypszup","slide":7,"text":"•  ISO/IEC CD 29075-1/-2: 高级分析函数库","textPreview":"•  ISO/IEC CD 29075-1/-2: 高级分析函数库","textChars":33,"textLines":1,"bbox":[80,581,600,40]}
+{"kind":"shape","id":"sh/p876lkva","slide":7,"bbox":[820,260,360,280]}
+{"kind":"textbox","id":"sh/x4365kne","slide":7,"text":"对企业的含义","textPreview":"对企业的含义","textChars":6,"textLines":1,"bbox":[850,292,280,32]}
+{"kind":"textbox","id":"sh/w3upwfmt","slide":7,"text":"数据治理不应只停留在“有没有目录”。\n\n还要回答：\n• 谁可以用\n• 用于什么目的\n• 是否可审计\n• 结果如何被复现","textPreview":"数据治理不应只停留在“有没有目录”。 |  | 还要回答： | • 谁可以用 | • 用于什么目的 | • 是否可审计 | • 结果如何被复现","textChars":59,"textLines":7,"bbox":[850,350,280,160]}
+{"kind":"textbox","id":"sh/b2lo3a5o","slide":7,"text":"数据国际标准分析  ·  07","textPreview":"数据国际标准分析  ·  07","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/0w5q3x","slide":7,"text":"[Sources]\n- https://www.iso.org/committee/45342/x/catalogue/"}
+{"kind":"slide","id":"sl/tdat4l","slide":8,"title":"国际标准分析","textShapes":20}
+{"kind":"textbox","id":"sh/h072lsry","slide":8,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/uxgjqxsn","slide":8,"text":"SC38 先建立云与分布式平台的共同语言","textPreview":"SC38 先建立云与分布式平台的共同语言","textChars":20,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/vypkji98","slide":8,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/4ni1w7ap","slide":8,"text":"SC38 的基础层已经从“云是什么”演进到多云、平台分类、平台能力与数字主权。","textPreview":"SC38 的基础层已经从“云是什么”演进到多云、平台分类、平台能力与数字主权。","textChars":39,"textLines":1,"bbox":[42,172,1160,42]}
+{"kind":"shape","id":"sh/5or2pcra","slide":8,"bbox":[42,245,230,60]}
+{"kind":"textbox","id":"sh/i10juxsj","slide":8,"text":"层次","textPreview":"层次","textChars":2,"textLines":1,"bbox":[54,255,208,45]}
+{"kind":"shape","id":"sh/jm9kn294","slide":8,"bbox":[272,245,420,60]}
+{"kind":"textbox","id":"sh/kre1k3al","slide":8,"text":"代表标准","textPreview":"代表标准","textChars":4,"textLines":1,"bbox":[284,255,398,45]}
+{"kind":"shape","id":"sh/lsnid8r6","slide":8,"bbox":[692,245,508,60]}
+{"kind":"textbox","id":"sh/9sbm9cn6","slide":8,"text":"分析","textPreview":"分析","textChars":2,"textLines":1,"bbox":[704,255,486,45]}
+{"kind":"shape","id":"sh/872507ml","slide":8,"bbox":[42,305,230,60]}
+{"kind":"textbox","id":"sh/n6t47250","slide":8,"text":"词汇 / 概念 / 架构","textPreview":"词汇 / 概念 / 架构","textChars":12,"textLines":1,"bbox":[54,315,208,45]}
+{"kind":"shape","id":"sh/m5knyx4f","slide":8,"bbox":[272,305,420,60]}
+{"kind":"textbox","id":"sh/xwvmdcn2","slide":8,"text":"ISO/IEC 22123-1/-2/-3:2023","textPreview":"ISO/IEC 22123-1/-2/-3:2023","textChars":26,"textLines":1,"bbox":[284,315,398,45]}
+{"kind":"shape","id":"sh/wvm54rmh","slide":8,"bbox":[692,305,508,60]}
+{"kind":"textbox","id":"sh/vut4bm5w","slide":8,"text":"当前基础三件套；替代撤销的 17788 / 17789","textPreview":"当前基础三件套；替代撤销的 17788 / 17789","textChars":27,"textLines":1,"bbox":[704,315,486,45]}
+{"kind":"shape","id":"sh/atkn2h4b","slide":8,"bbox":[42,365,230,60]}
+{"kind":"textbox","id":"sh/50v6hwny","slide":8,"text":"数字平台分类","textPreview":"数字平台分类","textChars":6,"textLines":1,"bbox":[54,375,208,45]}
+{"kind":"shape","id":"sh/kzm58rmt","slide":8,"bbox":[272,365,420,60]}
+{"kind":"textbox","id":"sh/43up4vup","slide":8,"text":"ISO/IEC TS 5928:2023","textPreview":"ISO/IEC TS 5928:2023","textChars":20,"textLines":1,"bbox":[284,375,398,45]}
+{"kind":"shape","id":"sh/543qd0ba","slide":8,"bbox":[692,365,508,60]}
+{"kind":"textbox","id":"sh/i1c725cz","slide":8,"text":"统一平台一词在云与分布式系统中的含义","textPreview":"统一平台一词在云与分布式系统中的含义","textChars":18,"textLines":1,"bbox":[704,375,486,45]}
+{"kind":"shape","id":"sh/32lobqt4","slide":8,"bbox":[42,425,230,60]}
+{"kind":"textbox","id":"sh/s7ep8fu1","slide":8,"text":"平台能力","textPreview":"平台能力","textChars":4,"textLines":1,"bbox":[54,435,208,45]}
+{"kind":"shape","id":"sh/d8nqhkbm","slide":8,"bbox":[272,425,420,60]}
+{"kind":"textbox","id":"sh/q5c765cv","slide":8,"text":"ISO/IEC TS 7339:2024","textPreview":"ISO/IEC TS 7339:2024","textChars":20,"textLines":1,"bbox":[284,435,398,45]}
+{"kind":"shape","id":"sh/r6l8fatg","slide":8,"bbox":[692,425,508,60]}
+{"kind":"textbox","id":"sh/8bapwbuh","slide":8,"text":"描述平台能力类型与 PaaS","textPreview":"描述平台能力类型与 PaaS","textChars":14,"textLines":1,"bbox":[704,435,486,45]}
+{"kind":"shape","id":"sh/tcj65gb2","slide":8,"bbox":[42,485,230,60]}
+{"kind":"textbox","id":"sh/v290rihw","slide":8,"text":"多云 / 主权","textPreview":"多云 / 主权","textChars":7,"textLines":1,"bbox":[54,495,208,45]}
+{"kind":"shape","id":"sh/a10jyd0b","slide":8,"bbox":[272,485,420,60]}
+{"kind":"textbox","id":"sh/x4b2tsz2","slide":8,"text":"ISO/IEC 5140:2024、TS 10866:2024","textPreview":"ISO/IEC 5140:2024、TS 10866:2024","textChars":31,"textLines":1,"bbox":[284,495,398,45]}
+{"kind":"shape","id":"sh/w3210nih","slide":8,"bbox":[692,485,508,60]}
+{"kind":"textbox","id":"sh/ne90nyh0","slide":8,"text":"把跨云使用与组织自主性纳入标准语言","textPreview":"把跨云使用与组织自主性纳入标准语言","textChars":17,"textLines":1,"bbox":[704,495,486,45]}
+{"kind":"shape","id":"sh/md0jut0f","slide":8,"bbox":[42,570,1158,70]}
+{"kind":"shape","id":"sh/90rip8zq","slide":8,"bbox":[42,570,7,70]}
+{"kind":"textbox","id":"sh/8fi1w3i5","slide":8,"text":"SC38 的变化：从基础设施标准，转向平台生态与组织控制权标准。","textPreview":"SC38 的变化：从基础设施标准，转向平台生态与组织控制权标准。","textChars":32,"textLines":1,"bbox":[66,588,1116,40]}
+{"kind":"textbox","id":"sh/zap0jyho","slide":8,"text":"数据国际标准分析  ·  08","textPreview":"数据国际标准分析  ·  08","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/tdat4l","slide":8,"text":"[Sources]\n- https://www.iso.org/committee/601355.html\n- https://www.iso.org/committee/601355/x/catalogue/\n- https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/standard/08/18/81848.html"}
+{"kind":"slide","id":"sl/78cqb1","slide":9,"title":"国际标准分析","textShapes":20}
+{"kind":"textbox","id":"sh/87uds325","slide":9,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/n6lwji1k","slide":9,"text":"SC38 的数据主线：从数据流与分类，到共享协议与处理策略","textPreview":"SC38 的数据主线：从数据流与分类，到共享协议与处理策略","textChars":29,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/m5cvqdkz","slide":9,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/l4juh8je","slide":9,"text":"SC38 直接触及数据跨设备、云服务与分布式平台的流动；其标准更像“数据运行环境”的治理层。","textPreview":"SC38 直接触及数据跨设备、云服务与分布式平台的流动；其标准更像“数据运行环境”的治理层。","textChars":46,"textLines":1,"bbox":[42,172,1160,42]}
+{"kind":"shape","id":"sh/03ado329","slide":9,"bbox":[42,245,250,60]}
+{"kind":"textbox","id":"sh/z21cfy1o","slide":9,"text":"标准","textPreview":"标准","textChars":2,"textLines":1,"bbox":[54,255,228,45]}
+{"kind":"shape","id":"sh/y1svmtk3","slide":9,"bbox":[292,245,430,60]}
+{"kind":"textbox","id":"sh/d0judoji","slide":9,"text":"解决的问题","textPreview":"解决的问题","textChars":5,"textLines":1,"bbox":[304,255,408,45]}
+{"kind":"shape","id":"sh/cfadkj2x","slide":9,"bbox":[722,245,478,60]}
+{"kind":"textbox","id":"sh/exkze90v","slide":9,"text":"落地关注","textPreview":"落地关注","textChars":4,"textLines":1,"bbox":[734,255,456,45]}
+{"kind":"shape","id":"sh/zytg7u1g","slide":9,"bbox":[42,305,250,60]}
+{"kind":"textbox","id":"sh/0z2hgzi1","slide":9,"text":"ISO/IEC 19944-1/-2","textPreview":"ISO/IEC 19944-1/-2","textChars":18,"textLines":1,"bbox":[54,315,228,45]}
+{"kind":"shape","id":"sh/10by94zm","slide":9,"bbox":[292,305,430,60]}
+{"kind":"textbox","id":"sh/q90zap0z","slide":9,"text":"数据流、数据类别、数据使用","textPreview":"数据流、数据类别、数据使用","textChars":13,"textLines":1,"bbox":[304,315,408,45]}
+{"kind":"shape","id":"sh/ru9g3u1k","slide":9,"bbox":[722,305,478,60]}
+{"kind":"textbox","id":"sh/cvihczi5","slide":9,"text":"识别数据在设备—云—服务间如何移动","textPreview":"识别数据在设备—云—服务间如何移动","textChars":17,"textLines":1,"bbox":[734,315,456,45]}
+{"kind":"shape","id":"sh/dwby54jq","slide":9,"bbox":[42,365,250,60]}
+{"kind":"textbox","id":"sh/250f6p0n","slide":9,"text":"ISO/IEC 22624","textPreview":"ISO/IEC 22624","textChars":13,"textLines":1,"bbox":[54,375,228,45]}
+{"kind":"shape","id":"sh/369gza18","slide":9,"bbox":[292,365,430,60]}
+{"kind":"textbox","id":"sh/7a5w7qh0","slide":9,"text":"基于分类的数据处理","textPreview":"基于分类的数据处理","textChars":9,"textLines":1,"bbox":[304,375,408,45]}
+{"kind":"shape","id":"sh/69wvelgf","slide":9,"bbox":[722,365,478,60]}
+{"kind":"textbox","id":"sh/tcne9gz6","slide":9,"text":"按数据类别设计云服务处理规则","textPreview":"按数据类别设计云服务处理规则","textChars":14,"textLines":1,"bbox":[734,375,456,45]}
+{"kind":"shape","id":"sh/sbedgbyl","slide":9,"bbox":[42,425,250,60]}
+{"kind":"textbox","id":"sh/fepwbqhc","slide":9,"text":"ISO/IEC 23751","textPreview":"ISO/IEC 23751","textChars":13,"textLines":1,"bbox":[54,435,228,45]}
+{"kind":"shape","id":"sh/udgvilgr","slide":9,"bbox":[292,425,430,60]}
+{"kind":"textbox","id":"sh/h07ed0zi","slide":9,"text":"数据共享协议（DSA）框架","textPreview":"数据共享协议（DSA）框架","textChars":13,"textLines":1,"bbox":[304,435,408,45]}
+{"kind":"shape","id":"sh/gfydkvyx","slide":9,"bbox":[722,425,478,60]}
+{"kind":"textbox","id":"sh/vilcz6hs","slide":9,"text":"把参与方、目的、责任、约束写进协议","textPreview":"把参与方、目的、责任、约束写进协议","textChars":17,"textLines":1,"bbox":[734,435,456,45]}
+{"kind":"shape","id":"sh/ahcv61gn","slide":9,"bbox":[42,485,250,60]}
+{"kind":"textbox","id":"sh/0nat0ne5","slide":9,"text":"ISO/IEC 19941","textPreview":"ISO/IEC 19941","textChars":13,"textLines":1,"bbox":[54,495,228,45]}
+{"kind":"shape","id":"sh/1oja9sfq","slide":9,"bbox":[292,485,430,60]}
+{"kind":"textbox","id":"sh/el8byxwf","slide":9,"text":"云互操作与可移植性","textPreview":"云互操作与可移植性","textChars":9,"textLines":1,"bbox":[304,495,408,45]}
+{"kind":"shape","id":"sh/zmhs72xk","slide":9,"bbox":[722,485,478,60]}
+{"kind":"textbox","id":"sh/cjqtwne9","slide":9,"text":"降低跨云迁移与切换障碍","textPreview":"降低跨云迁移与切换障碍","textChars":11,"textLines":1,"bbox":[734,495,456,45]}
+{"kind":"shape","id":"sh/dkza5sfu","slide":9,"bbox":[42,570,1158,48]}
+{"kind":"textbox","id":"sh/qh8rudw3","slide":9,"text":"关键判断：SC32 负责“数据对象可理解”，SC38 负责“数据在平台中可被安全、可控地使用”。","textPreview":"关键判断：SC32 负责“数据对象可理解”，SC38 负责“数据在平台中可被安全、可控地使用”。","textChars":48,"textLines":1,"bbox":[64,593,1110,28]}
+{"kind":"textbox","id":"sh/rihs3ixo","slide":9,"text":"数据国际标准分析  ·  09","textPreview":"数据国际标准分析  ·  09","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/78cqb1","slide":9,"text":"[Sources]\n- https://www.iso.org/standard/79573.html\n- https://www.iso.org/committee/601355/x/catalogue/"}
+{"kind":"slide","id":"sl/2zcv3e","slide":10,"title":"国际标准分析","textShapes":15}
+{"kind":"textbox","id":"sh/d4va50ni","slide":10,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/q14bul47","slide":10,"text":"SC38 的下一波重点是数据空间、多云管理、边缘与 AI 服务","textPreview":"SC38 的下一波重点是数据空间、多云管理、边缘与 AI 服务","textChars":31,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/r2ds3q5c","slide":10,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/4zm9svm1","slide":10,"text":"目录中的制定中项目，集中在跨组织数据空间与分布式运行的“协作控制面”。","textPreview":"目录中的制定中项目，集中在跨组织数据空间与分布式运行的“协作控制面”。","textChars":35,"textLines":1,"bbox":[42,172,1120,40]}
+{"kind":"shape","id":"sh/p0va1gnm","slide":10,"bbox":[42,250,12,54]}
+{"kind":"textbox","id":"sh/2dkrql4v","slide":10,"text":"数据空间","textPreview":"数据空间","textChars":4,"textLines":1,"bbox":[76,254,190,28]}
+{"kind":"textbox","id":"sh/3etszq5g","slide":10,"text":"20151-1 FDIS：概念与特征；20151-2 AWI：信任框架","textPreview":"20151-1 FDIS：概念与特征；20151-2 AWI：信任框架","textChars":35,"textLines":1,"bbox":[280,254,880,42]}
+{"kind":"shape","id":"sh/ov6t4fm5","slide":10,"bbox":[42,324,12,54]}
+{"kind":"textbox","id":"sh/9wfadk3q","slide":10,"text":"多云管理","textPreview":"多云管理","textChars":4,"textLines":1,"bbox":[76,328,190,28]}
+{"kind":"textbox","id":"sh/xcj2lgri","slide":10,"text":"10822-1 已发布；-2 身份、-3 编排、-4 监控制定中","textPreview":"10822-1 已发布；-2 身份、-3 编排、-4 监控制定中","textChars":32,"textLines":1,"bbox":[280,328,880,42]}
+{"kind":"shape","id":"sh/cra1cbad","slide":10,"bbox":[42,398,12,54]}
+{"kind":"textbox","id":"sh/bq1kjq9s","slide":10,"text":"边缘网络","textPreview":"边缘网络","textChars":4,"textLines":1,"bbox":[76,402,190,28]}
+{"kind":"textbox","id":"sh/apsjals7","slide":10,"text":"19274 DIS：云、边缘、多云与联邦云的网络基础","textPreview":"19274 DIS：云、边缘、多云与联邦云的网络基础","textChars":26,"textLines":1,"bbox":[280,402,880,42]}
+{"kind":"shape","id":"sh/pojihgrm","slide":10,"bbox":[42,472,12,54]}
+{"kind":"textbox","id":"sh/ona18ba1","slide":10,"text":"数字主权","textPreview":"数字主权","textChars":4,"textLines":1,"bbox":[76,476,190,28]}
+{"kind":"textbox","id":"sh/nmh0f69g","slide":10,"text":"10866：组织自主性与数字主权框架","textPreview":"10866：组织自主性与数字主权框架","textChars":18,"textLines":1,"bbox":[280,476,880,42]}
+{"kind":"shape","id":"sh/2l8j61sv","slide":10,"bbox":[42,546,12,54]}
+{"kind":"textbox","id":"sh/9k32t0rq","slide":10,"text":"AI 服务","textPreview":"AI 服务","textChars":5,"textLines":1,"bbox":[76,550,190,28]}
+{"kind":"textbox","id":"sh/8ju1kva5","slide":10,"text":"26191 AWI：云计算对 AI 服务的支持","textPreview":"26191 AWI：云计算对 AI 服务的支持","textChars":23,"textLines":1,"bbox":[280,550,880,42]}
+{"kind":"shape","id":"sh/szmdc32t","slide":10,"bbox":[42,625,1158,44]}
+{"kind":"shape","id":"sh/d0vu583e","slide":10,"bbox":[42,625,7,44]}
+{"kind":"textbox","id":"sh/qx4vad4n","slide":10,"text":"趋势：标准化对象从单一云服务，升级为跨组织、跨平台的数据协作网络。","textPreview":"趋势：标准化对象从单一云服务，升级为跨组织、跨平台的数据协作网络。","textChars":33,"textLines":1,"bbox":[66,643,1116,14]}
+{"kind":"textbox","id":"sh/rydc3yl8","slide":10,"text":"数据国际标准分析  ·  10","textPreview":"数据国际标准分析  ·  10","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/2zcv3e","slide":10,"text":"[Sources]\n- https://www.iso.org/committee/601355/x/catalogue/\n- https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/standard/08/65/86589.html\n- https://www.iso.org/cms/live/live/es/sites/isoorg/contents/data/standard/08/57/85772.html\n- https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/standard/09/42/94290.html"}
+{"kind":"slide","id":"sl/zxi2k3","slide":11,"title":"国际标准分析","textShapes":24}
+{"kind":"textbox","id":"sh/7a1grah4","slide":11,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/8bahkvyp","slide":11,"text":"把 SC32 与 SC38 放进一条企业数据架构链","textPreview":"把 SC32 与 SC38 放进一条企业数据架构链","textChars":25,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/tc3it0za","slide":11,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/udczm5gv","slide":11,"text":"企业不应按委员会采购标准，而应按数据生命周期与控制点组合标准。","textPreview":"企业不应按委员会采购标准，而应按数据生命周期与控制点组合标准。","textChars":31,"textLines":1,"bbox":[42,172,1100,40]}
+{"kind":"shape","id":"sh/vel0vahg","slide":11,"bbox":[42,280,200,250]}
+{"kind":"textbox","id":"sh/gfuhofy1","slide":11,"text":"SC32","textPreview":"SC32","textChars":4,"textLines":1,"bbox":[60,302,160,25]}
+{"kind":"textbox","id":"sh/hg3ixkzm","slide":11,"text":"定义","textPreview":"定义","textChars":2,"textLines":1,"bbox":[60,350,160,38]}
+{"kind":"textbox","id":"sh/ihczqpgr","slide":11,"text":"概念、数据元素、类型、标识","textPreview":"概念、数据元素、类型、标识","textChars":13,"textLines":1,"bbox":[60,420,160,74]}
+{"kind":"textbox","id":"sh/32l0zuhc","slide":11,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[248,370,30,40]}
+{"kind":"shape","id":"sh/ne9oj29g","slide":11,"bbox":[282,280,200,250]}
+{"kind":"textbox","id":"sh/2d07ax8v","slide":11,"text":"SC32","textPreview":"SC32","textChars":4,"textLines":1,"bbox":[300,302,160,25]}
+{"kind":"textbox","id":"sh/pgr6lc7m","slide":11,"text":"注册","textPreview":"注册","textChars":2,"textLines":1,"bbox":[300,350,160,38]}
+{"kind":"textbox","id":"sh/ofipc7q1","slide":11,"text":"元数据、数据集、模型、词表","textPreview":"元数据、数据集、模型、词表","textChars":13,"textLines":1,"bbox":[300,420,160,74]}
+{"kind":"textbox","id":"sh/fapof29k","slide":11,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[488,370,30,40]}
+{"kind":"shape","id":"sh/e9g76x8z","slide":11,"bbox":[522,280,200,250]}
+{"kind":"textbox","id":"sh/1c76hsrq","slide":11,"text":"SC32","textPreview":"SC32","textChars":4,"textLines":1,"bbox":[540,302,160,25]}
+{"kind":"textbox","id":"sh/0byp8nq5","slide":11,"text":"交换","textPreview":"交换","textChars":2,"textLines":1,"bbox":[540,350,160,38]}
+{"kind":"textbox","id":"sh/z6t8rmpo","slide":11,"text":"SQL、GQL、绑定、格式","textPreview":"SQL、GQL、绑定、格式","textChars":13,"textLines":1,"bbox":[540,420,160,74]}
+{"kind":"textbox","id":"sh/y5k7ih83","slide":11,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[728,370,30,40]}
+{"kind":"shape","id":"sh/u14ralsb","slide":11,"bbox":[762,280,200,250]}
+{"kind":"textbox","id":"sh/v2dsjq9w","slide":11,"text":"SC38","textPreview":"SC38","textChars":4,"textLines":1,"bbox":[780,302,160,25]}
+{"kind":"textbox","id":"sh/w3m9cvah","slide":11,"text":"运行","textPreview":"运行","textChars":2,"textLines":1,"bbox":[780,350,160,38]}
+{"kind":"textbox","id":"sh/h4fal0r2","slide":11,"text":"云、边缘、多云、可移植性","textPreview":"云、边缘、多云、可移植性","textChars":12,"textLines":1,"bbox":[780,420,160,74]}
+{"kind":"textbox","id":"sh/i5obe5sn","slide":11,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[968,370,30,40]}
+{"kind":"shape","id":"sh/3qxsnq98","slide":11,"bbox":[1002,280,200,250]}
+{"kind":"textbox","id":"sh/4r6tgvat","slide":11,"text":"SC38","textPreview":"SC38","textChars":4,"textLines":1,"bbox":[1020,302,160,25]}
+{"kind":"textbox","id":"sh/5sfap0ry","slide":11,"text":"共享","textPreview":"共享","textChars":2,"textLines":1,"bbox":[1020,350,160,38]}
+{"kind":"textbox","id":"sh/y9kr21s3","slide":11,"text":"数据流、DSA、数据空间、主权","textPreview":"数据流、DSA、数据空间、主权","textChars":15,"textLines":1,"bbox":[1020,420,160,74]}
+{"kind":"shape","id":"sh/zatsb6to","slide":11,"bbox":[42,575,1158,70]}
+{"kind":"shape","id":"sh/103mx8fi","slide":11,"bbox":[42,575,7,70]}
+{"kind":"textbox","id":"sh/0zal43yx","slide":11,"text":"管理层看的是“可控数据流”，技术团队落的是“可复用标准对象”。","textPreview":"管理层看的是“可控数据流”，技术团队落的是“可复用标准对象”。","textChars":31,"textLines":1,"bbox":[66,593,1116,40]}
+{"kind":"textbox","id":"sh/zy14vyxc","slide":11,"text":"数据国际标准分析  ·  11","textPreview":"数据国际标准分析  ·  11","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/zxi2k3","slide":11,"text":"[Sources]\n- https://www.iso.org/committee/45342.html\n- https://www.iso.org/committee/601355.html\n- https://www.iso.org/committee/45342/x/catalogue/\n- https://www.iso.org/committee/601355/x/catalogue/"}
+{"kind":"slide","id":"sl/pmrxcq","slide":12,"title":"国际标准分析","textShapes":19}
+{"kind":"textbox","id":"sh/t8bepsj2","slide":12,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/65kfud0b","slide":12,"text":"对企业数据平台的四个直接影响","textPreview":"对企业数据平台的四个直接影响","textChars":14,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/76twni1w","slide":12,"bbox":[42,144,1196,1]}
+{"kind":"shape","id":"sh/k32xs3il","slide":12,"bbox":[42,222,260,67]}
+{"kind":"textbox","id":"sh/l4bel8jq","slide":12,"text":"影响","textPreview":"影响","textChars":2,"textLines":1,"bbox":[54,232,238,52]}
+{"kind":"shape","id":"sh/y10fqd0f","slide":12,"bbox":[302,222,440,67]}
+{"kind":"textbox","id":"sh/j29wjy10","slide":12,"text":"标准抓手","textPreview":"标准抓手","textChars":4,"textLines":1,"bbox":[314,232,418,52]}
+{"kind":"shape","id":"sh/4zmx47ip","slide":12,"bbox":[742,222,458,67]}
+{"kind":"textbox","id":"sh/50vyxcja","slide":12,"text":"优先动作","textPreview":"优先动作","textChars":4,"textLines":1,"bbox":[754,232,436,52]}
+{"kind":"shape","id":"sh/18f6lw76","slide":12,"bbox":[42,289,260,67]}
+{"kind":"textbox","id":"sh/0765cr61","slide":12,"text":"数据产品可发现","textPreview":"数据产品可发现","textChars":7,"textLines":1,"bbox":[54,299,238,52]}
+{"kind":"shape","id":"sh/f6xoj6pg","slide":12,"bbox":[302,289,440,67]}
+{"kind":"textbox","id":"sh/e5ona1ov","slide":12,"text":"11179-30/-31/-33/-34/-35","textPreview":"11179-30/-31/-33/-34/-35","textChars":24,"textLines":1,"bbox":[314,299,418,52]}
+{"kind":"shape","id":"sh/dkf6hw7a","slide":12,"bbox":[742,289,458,67]}
+{"kind":"textbox","id":"sh/sjm58r6p","slide":12,"text":"建立数据集、模型与可计算数据注册","textPreview":"建立数据集、模型与可计算数据注册","textChars":16,"textLines":1,"bbox":[754,299,436,52]}
+{"kind":"shape","id":"sh/ridofmp4","slide":12,"bbox":[42,356,260,67]}
+{"kind":"textbox","id":"sh/qh4n6hoj","slide":12,"text":"跨系统语义一致","textPreview":"跨系统语义一致","textChars":7,"textLines":1,"bbox":[54,366,238,52]}
+{"kind":"shape","id":"sh/xgz6tg7e","slide":12,"bbox":[302,356,440,67]}
+{"kind":"textbox","id":"sh/cfqpkb6t","slide":12,"text":"5394、11179、19763、21838","textPreview":"5394、11179、19763、21838","textChars":22,"textLines":1,"bbox":[314,366,418,52]}
+{"kind":"shape","id":"sh/wvihcjih","slide":12,"bbox":[742,356,458,67]}
+{"kind":"textbox","id":"sh/hwri5oz2","slide":12,"text":"统一概念系统、命名、代码表与映射","textPreview":"统一概念系统、命名、代码表与映射","textChars":16,"textLines":1,"bbox":[754,366,436,52]}
+{"kind":"shape","id":"sh/ut0zat0b","slide":12,"bbox":[42,423,260,67]}
+{"kind":"textbox","id":"sh/vu9g3ehw","slide":12,"text":"多云数据可控","textPreview":"多云数据可控","textChars":6,"textLines":1,"bbox":[54,433,238,52]}
+{"kind":"shape","id":"sh/8ryh8ji5","slide":12,"bbox":[302,423,440,67]}
+{"kind":"textbox","id":"sh/9s7y1ojq","slide":12,"text":"19944、22624、23751、19941","textPreview":"19944、22624、23751、19941","textChars":23,"textLines":1,"bbox":[314,433,418,52]}
+{"kind":"shape","id":"sh/mpgz690f","slide":12,"bbox":[742,423,458,67]}
+{"kind":"textbox","id":"sh/7qpgze10","slide":12,"text":"把数据类别、用途、共享责任写入协议","textPreview":"把数据类别、用途、共享责任写入协议","textChars":17,"textLines":1,"bbox":[754,433,436,52]}
+{"kind":"shape","id":"sh/knyh4zi9","slide":12,"bbox":[42,490,260,67]}
+{"kind":"textbox","id":"sh/lo7yx4ju","slide":12,"text":"分析与 AI 可复现","textPreview":"分析与 AI 可复现","textChars":10,"textLines":1,"bbox":[54,500,238,52]}
+{"kind":"shape","id":"sh/ny50nulg","slide":12,"bbox":[302,490,440,67]}
+{"kind":"textbox","id":"sh/2xwzepkv","slide":12,"text":"5207、5212、24927、25985、29075、39075","textPreview":"5207、5212、24927、25985、29075、39075","textChars":33,"textLines":1,"bbox":[314,500,418,52]}
+{"kind":"shape","id":"sh/p0ni943m","slide":12,"bbox":[742,490,458,67]}
+{"kind":"textbox","id":"sh/ozehgz21","slide":12,"text":"记录使用目的、函数、图 / 表查询与审计轨迹","textPreview":"记录使用目的、函数、图 / 表查询与审计轨迹","textChars":22,"textLines":1,"bbox":[754,500,436,52]}
+{"kind":"shape","id":"sh/bmp0bels","slide":12,"bbox":[42,590,1158,45]}
+{"kind":"textbox","id":"sh/algzi9k7","slide":12,"text":"优先级原则：先把“对象”和“责任”标准化，再扩展平台和算法能力。","textPreview":"优先级原则：先把“对象”和“责任”标准化，再扩展平台和算法能力。","textChars":32,"textLines":1,"bbox":[65,601,1100,26]}
+{"kind":"textbox","id":"sh/xo7ido3i","slide":12,"text":"数据国际标准分析  ·  12","textPreview":"数据国际标准分析  ·  12","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/pmrxcq","slide":12,"text":"[Sources]\n- https://www.iso.org/committee/45342/x/catalogue/\n- https://www.iso.org/committee/601355/x/catalogue/"}
+{"kind":"slide","id":"sl/uwedvv","slide":13,"title":"国际标准分析","textShapes":16}
+{"kind":"textbox","id":"sh/hkj2pk7i","slide":13,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/uh8je5o7","slide":13,"text":"建议的落地路线：先建语义底座，再接云上数据流","textPreview":"建议的落地路线：先建语义底座，再接云上数据流","textChars":22,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/vihknaps","slide":13,"bbox":[42,144,1196,1]}
+{"kind":"shape","id":"sh/8fq1cv61","slide":13,"bbox":[42,220,160,64]}
+{"kind":"textbox","id":"sh/9gz2l07m","slide":13,"text":"0–3个月","textPreview":"0–3个月","textChars":5,"textLines":1,"bbox":[58,238,125,28]}
+{"kind":"textbox","id":"sh/md8jalov","slide":13,"text":"盘点与版本基线","textPreview":"盘点与版本基线","textChars":7,"textLines":1,"bbox":[246,224,280,28]}
+{"kind":"textbox","id":"sh/7ehkjqpg","slide":13,"text":"按 Published / Under development / Withdrawn 清理标准清单","textPreview":"按 Published / Under development / Withdrawn 清理标准清单","textChars":50,"textLines":1,"bbox":[246,257,870,25]}
+{"kind":"shape","id":"sh/sbuloz65","slide":13,"bbox":[118,284,2,30]}
+{"kind":"shape","id":"sh/tc32x4nq","slide":13,"bbox":[42,314,160,64]}
+{"kind":"textbox","id":"sh/hsvy5wj6","slide":13,"text":"3–6个月","textPreview":"3–6个月","textChars":5,"textLines":1,"bbox":[58,332,125,28]}
+{"kind":"textbox","id":"sh/grmhwr2l","slide":13,"text":"元数据与概念系统","textPreview":"元数据与概念系统","textChars":8,"textLines":1,"bbox":[246,318,280,28]}
+{"kind":"textbox","id":"sh/fqtg3m10","slide":13,"text":"落地 11179、概念系统、数据集与模型注册","textPreview":"落地 11179、概念系统、数据集与模型注册","textChars":22,"textLines":1,"bbox":[246,351,870,25]}
+{"kind":"shape","id":"sh/upkzuhkf","slide":13,"bbox":[118,378,2,30]}
+{"kind":"shape","id":"sh/t4by1wju","slide":13,"bbox":[42,408,160,64]}
+{"kind":"textbox","id":"sh/s32hsr29","slide":13,"text":"6–12个月","textPreview":"6–12个月","textChars":6,"textLines":1,"bbox":[58,426,125,28]}
+{"kind":"textbox","id":"sh/72tgzml4","slide":13,"text":"数据交换与平台接入","textPreview":"数据交换与平台接入","textChars":9,"textLines":1,"bbox":[246,412,280,28]}
+{"kind":"textbox","id":"sh/61kzqhkj","slide":13,"text":"用 SQL / GQL / API 绑定与云数据流标准建立接口契约","textPreview":"用 SQL / GQL / API 绑定与云数据流标准建立接口契约","textChars":33,"textLines":1,"bbox":[246,445,870,25]}
+{"kind":"shape","id":"sh/d0fidgje","slide":13,"bbox":[118,472,2,30]}
+{"kind":"shape","id":"sh/cz6h4b2t","slide":13,"bbox":[42,502,160,64]}
+{"kind":"textbox","id":"sh/c3e10zap","slide":13,"text":"12个月以后","textPreview":"12个月以后","textChars":6,"textLines":1,"bbox":[58,520,125,28]}
+{"kind":"textbox","id":"sh/x4n29kra","slide":13,"text":"跨组织协作与可信使用","textPreview":"跨组织协作与可信使用","textChars":10,"textLines":1,"bbox":[246,506,280,28]}
+{"kind":"textbox","id":"sh/a1cjypsz","slide":13,"text":"试点 DSA、数据空间、多云切换与数据使用审计","textPreview":"试点 DSA、数据空间、多云切换与数据使用审计","textChars":23,"textLines":1,"bbox":[246,539,870,25]}
+{"kind":"shape","id":"sh/b2507u9k","slide":13,"bbox":[42,610,1158,52]}
+{"kind":"shape","id":"sh/ozu1wfat","slide":13,"bbox":[42,610,7,52]}
+{"kind":"textbox","id":"sh/p03i5kre","slide":13,"text":"不要把“标准采用”理解为一次性认证；它更像数据平台的持续版本治理。","textPreview":"不要把“标准采用”理解为一次性认证；它更像数据平台的持续版本治理。","textChars":33,"textLines":1,"bbox":[66,628,1116,22]}
+{"kind":"textbox","id":"sh/2xcju5sn","slide":13,"text":"数据国际标准分析  ·  13","textPreview":"数据国际标准分析  ·  13","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/uwedvv","slide":13,"text":"[Sources]\n- https://www.iso.org/committee/45342/x/catalogue/\n- https://www.iso.org/committee/601355/x/catalogue/"}
+{"kind":"slide","id":"sl/s7ay7t","slide":14,"title":"国际标准分析","textShapes":26}
+{"kind":"textbox","id":"sh/32hk32x8","slide":14,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/43q1c7yt","slide":14,"text":"附录：SC32 数据相关标准按系列归并的当前清单","textPreview":"附录：SC32 数据相关标准按系列归并的当前清单","textChars":24,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/p4z25cfe","slide":14,"bbox":[42,144,1196,1]}
+{"kind":"textbox","id":"sh/uxoj6xgr","slide":14,"text":"口径：覆盖 ISO 官方 SC32 目录中仍有现行版本或制定中项目的主要数据主线；同系列的撤销历史版本不重复展开。","textPreview":"口径：覆盖 ISO 官方 SC32 目录中仍有现行版本或制定中项目的主要数据主线；同系列的撤销历史版本不重复展开。","textChars":57,"textLines":1,"bbox":[42,172,1160,38]}
+{"kind":"shape","id":"sh/fyxkzixw","slide":14,"bbox":[42,238,250,54]}
+{"kind":"textbox","id":"sh/gz618nyh","slide":14,"text":"主题","textPreview":"主题","textChars":2,"textLines":1,"bbox":[54,248,228,39]}
+{"kind":"shape","id":"sh/h0z21sf2","slide":14,"bbox":[292,238,610,54]}
+{"kind":"textbox","id":"sh/69oj2dgf","slide":14,"text":"系列 / 代表编号","textPreview":"系列 / 代表编号","textChars":9,"textLines":1,"bbox":[304,248,588,39]}
+{"kind":"shape","id":"sh/7axkvix0","slide":14,"bbox":[902,238,298,54]}
+{"kind":"textbox","id":"sh/f29s3y58","slide":14,"text":"状态特征","textPreview":"状态特征","textChars":4,"textLines":1,"bbox":[914,248,276,39]}
+{"kind":"shape","id":"sh/e10but4n","slide":14,"bbox":[42,292,250,54]}
+{"kind":"textbox","id":"sh/14ba58ne","slide":14,"text":"语义 / 标识","textPreview":"语义 / 标识","textChars":7,"textLines":1,"bbox":[54,302,228,39]}
+{"kind":"shape","id":"sh/032tw3mt","slide":14,"bbox":[292,292,610,54]}
+{"kind":"textbox","id":"sh/n6ts7i5k","slide":14,"text":"2382-4；5207；5212；5218；5394；6523-1/-2","textPreview":"2382-4；5207；5212；5218；5394；6523-1/-2","textChars":36,"textLines":1,"bbox":[304,302,588,39]}
+{"kind":"shape","id":"sh/25kbyd4z","slide":14,"bbox":[902,292,298,54]}
+{"kind":"textbox","id":"sh/p8ba9sna","slide":14,"text":"现行 + 2024/2025 更新","textPreview":"现行 + 2024/2025 更新","textChars":17,"textLines":1,"bbox":[914,302,276,39]}
+{"kind":"shape","id":"sh/o72t0nmp","slide":14,"bbox":[42,346,250,54]}
+{"kind":"textbox","id":"sh/3apsve50","slide":14,"text":"元数据注册","textPreview":"元数据注册","textChars":5,"textLines":1,"bbox":[54,356,228,39]}
+{"kind":"shape","id":"sh/i9grm94f","slide":14,"bbox":[292,346,610,54]}
+{"kind":"textbox","id":"sh/mpovuho3","slide":14,"text":"11179-1/-2/-3/-4/-5/-6；11179-30/-31/-32/-33/-34/-35","textPreview":"11179-1/-2/-3/-4/-5/-6；11179-30/-31/-32/-33/-34/-35","textChars":51,"textLines":1,"bbox":[304,356,588,39]}
+{"kind":"shape","id":"sh/7qxw3mpo","slide":14,"bbox":[902,346,298,54]}
+{"kind":"textbox","id":"sh/8r6dwr69","slide":14,"text":"2023–2024 主线；部分制定中","textPreview":"2023–2024 主线；部分制定中","textChars":18,"textLines":1,"bbox":[914,356,276,39]}
+{"kind":"shape","id":"sh/9sfe5wnu","slide":14,"bbox":[42,400,250,54]}
+{"kind":"textbox","id":"sh/y14vqho7","slide":14,"text":"互操作 / 元模型","textPreview":"互操作 / 元模型","textChars":9,"textLines":1,"bbox":[54,410,228,39]}
+{"kind":"shape","id":"sh/z2xczmps","slide":14,"bbox":[292,400,610,54]}
+{"kind":"textbox","id":"sh/k36dsr6x","slide":14,"text":"19763；19583；20944；21838；24707","textPreview":"19763；19583；20944；21838；24707","textChars":29,"textLines":1,"bbox":[304,410,588,39]}
+{"kind":"shape","id":"sh/lofe1w7i","slide":14,"bbox":[902,400,298,54]}
+{"kind":"textbox","id":"sh/ax4vmxov","slide":14,"text":"现行 + 持续扩展","textPreview":"现行 + 持续扩展","textChars":9,"textLines":1,"bbox":[914,410,276,39]}
+{"kind":"shape","id":"sh/bydcv2pg","slide":14,"bbox":[42,454,250,54]}
+{"kind":"textbox","id":"sh/d43qh4ba","slide":14,"text":"数据库 / 查询","textPreview":"数据库 / 查询","textChars":8,"textLines":1,"bbox":[54,464,228,39]}
+{"kind":"shape","id":"sh/c3upozup","slide":14,"bbox":[292,454,610,54]}
+{"kind":"textbox","id":"sh/r2lofud4","slide":14,"text":"9075；13249；11404；39075","textPreview":"9075；13249；11404；39075","textChars":22,"textLines":1,"bbox":[304,464,588,39]}
+{"kind":"shape","id":"sh/q1c7mpcj","slide":14,"bbox":[902,454,298,54]}
+{"kind":"textbox","id":"sh/p036dkve","slide":14,"text":"SQL 2023、GQL 2024；持续修订","textPreview":"SQL 2023、GQL 2024；持续修订","textChars":22,"textLines":1,"bbox":[914,464,276,39]}
+{"kind":"shape","id":"sh/4zupkzut","slide":14,"bbox":[42,508,250,54]}
+{"kind":"textbox","id":"sh/3ylobud8","slide":14,"text":"数据交换 / 业务","textPreview":"数据交换 / 业务","textChars":9,"textLines":1,"bbox":[54,518,228,39]}
+{"kind":"shape","id":"sh/ixs7ipcn","slide":14,"bbox":[292,508,610,54]}
+{"kind":"textbox","id":"sh/hwj69kv2","slide":14,"text":"13238-3；14957；14662；15944","textPreview":"13238-3；14957；14662；15944","textChars":25,"textLines":1,"bbox":[304,518,588,39]}
+{"kind":"shape","id":"sh/gvapgfuh","slide":14,"bbox":[902,508,298,54]}
+{"kind":"textbox","id":"sh/wnip0zqh","slide":14,"text":"现行与历史兼容并存","textPreview":"现行与历史兼容并存","textChars":9,"textLines":1,"bbox":[914,518,276,39]}
+{"kind":"shape","id":"sh/xob6t472","slide":14,"bbox":[42,562,250,54]}
+{"kind":"textbox","id":"sh/a107yp8b","slide":14,"text":"数据使用 / 分析","textPreview":"数据使用 / 分析","textChars":9,"textLines":1,"bbox":[54,572,228,39]}
+{"kind":"shape","id":"sh/vm9orupw","slide":14,"bbox":[292,562,610,54]}
+{"kind":"textbox","id":"sh/4r2p4zqd","slide":14,"text":"24927；25985；29075-1/-2","textPreview":"24927；25985；29075-1/-2","textChars":22,"textLines":1,"bbox":[304,572,588,39]}
+{"kind":"shape","id":"sh/5sb6x47y","slide":14,"bbox":[902,562,298,54]}
+{"kind":"textbox","id":"sh/ipk72p8n","slide":14,"text":"制定中为主；5207/5212 已发布","textPreview":"制定中为主；5207/5212 已发布","textChars":19,"textLines":1,"bbox":[914,572,276,39]}
+{"kind":"textbox","id":"sh/jqtovups","slide":14,"text":"完整目录仍应以 ISO 页面实时查询为准；编号、阶段与撤销状态可能变化。","textPreview":"完整目录仍应以 ISO 页面实时查询为准；编号、阶段与撤销状态可能变化。","textChars":36,"textLines":1,"bbox":[42,636,1100,26]}
+{"kind":"textbox","id":"sh/0vy5sfq9","slide":14,"text":"数据国际标准分析  ·  14","textPreview":"数据国际标准分析  ·  14","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/s7ay7t","slide":14,"text":"[Sources]\n- https://www.iso.org/committee/45342/x/catalogue/"}
+{"kind":"slide","id":"sl/lfgj5j","slide":15,"title":"国际标准分析","textShapes":23}
+{"kind":"textbox","id":"sh/mxonqhsf","slide":15,"text":"国际标准分析","textPreview":"国际标准分析","textChars":6,"textLines":1,"bbox":[42,34,460,24]}
+{"kind":"textbox","id":"sh/9kf6lwbq","slide":15,"text":"附录：SC38 数据相关标准与主要来源","textPreview":"附录：SC38 数据相关标准与主要来源","textChars":19,"textLines":1,"bbox":[42,66,1160,62]}
+{"kind":"shape","id":"sh/8j65sral","slide":15,"bbox":[42,144,1196,1]}
+{"kind":"shape","id":"sh/vmhonmtw","slide":15,"bbox":[42,220,250,58]}
+{"kind":"textbox","id":"sh/ulonuhsb","slide":15,"text":"主题","textPreview":"主题","textChars":2,"textLines":1,"bbox":[54,230,228,43]}
+{"kind":"shape","id":"sh/hoz6pwb2","slide":15,"bbox":[292,220,500,58]}
+{"kind":"textbox","id":"sh/wnq5wrah","slide":15,"text":"代表编号","textPreview":"代表编号","textChars":4,"textLines":1,"bbox":[304,230,478,43]}
+{"kind":"shape","id":"sh/bqd4b2ts","slide":15,"bbox":[792,220,408,58]}
+{"kind":"textbox","id":"sh/ap4nixc7","slide":15,"text":"状态 / 作用","textPreview":"状态 / 作用","textChars":7,"textLines":1,"bbox":[804,230,386,43]}
+{"kind":"shape","id":"sh/4jmlofy9","slide":15,"bbox":[42,278,250,58]}
+{"kind":"textbox","id":"sh/pkv2hkze","slide":15,"text":"基础架构","textPreview":"基础架构","textChars":4,"textLines":1,"bbox":[54,288,228,43]}
+{"kind":"shape","id":"sh/2xk3m5g3","slide":15,"bbox":[292,278,500,58]}
+{"kind":"textbox","id":"sh/3itkfaho","slide":15,"text":"22123-1/-2/-3；5928；7339","textPreview":"22123-1/-2/-3；5928；7339","textChars":23,"textLines":1,"bbox":[304,288,478,43]}
+{"kind":"shape","id":"sh/cnmlsfy5","slide":15,"bbox":[792,278,408,58]}
+{"kind":"textbox","id":"sh/dovmlkzq","slide":15,"text":"现行基础词汇、概念、架构与平台分类","textPreview":"现行基础词汇、概念、架构与平台分类","textChars":17,"textLines":1,"bbox":[804,288,386,43]}
+{"kind":"shape","id":"sh/ql43qpgz","slide":15,"bbox":[42,336,250,58]}
+{"kind":"textbox","id":"sh/rmdkjuhk","slide":15,"text":"数据流与处理","textPreview":"数据流与处理","textChars":6,"textLines":1,"bbox":[54,346,228,43]}
+{"kind":"shape","id":"sh/srilgvy1","slide":15,"bbox":[292,336,500,58]}
+{"kind":"textbox","id":"sh/tsb290z6","slide":15,"text":"19944-1/-2；22624；23751","textPreview":"19944-1/-2；22624；23751","textChars":22,"textLines":1,"bbox":[304,346,478,43]}
+{"kind":"shape","id":"sh/9cjaxsny","slide":15,"bbox":[792,336,408,58]}
+{"kind":"textbox","id":"sh/8ba9onmd","slide":15,"text":"现行数据流、分类、处理与共享协议","textPreview":"现行数据流、分类、处理与共享协议","textChars":16,"textLines":1,"bbox":[804,346,386,43]}
+{"kind":"shape","id":"sh/nahsvi5s","slide":15,"bbox":[42,394,250,58]}
+{"kind":"textbox","id":"sh/m98rmd47","slide":15,"text":"互操作 / 多云","textPreview":"互操作 / 多云","textChars":8,"textLines":1,"bbox":[54,404,228,43]}
+{"kind":"shape","id":"sh/x0ja1snu","slide":15,"bbox":[292,394,500,58]}
+{"kind":"textbox","id":"sh/wfa9s7mp","slide":15,"text":"19941；5140；10822 系列","textPreview":"19941；5140；10822 系列","textChars":19,"textLines":1,"bbox":[304,404,478,43]}
+{"kind":"shape","id":"sh/ve1sz254","slide":15,"bbox":[792,394,408,58]}
+{"kind":"textbox","id":"sh/adsrqx4j","slide":15,"text":"现行 + 制定中","textPreview":"现行 + 制定中","textChars":8,"textLines":1,"bbox":[804,404,386,43]}
+{"kind":"shape","id":"sh/543a5cn6","slide":15,"bbox":[42,452,250,58]}
+{"kind":"textbox","id":"sh/k3u9w7ml","slide":15,"text":"数据空间 / 主权","textPreview":"数据空间 / 主权","textChars":9,"textLines":1,"bbox":[54,462,228,43]}
+{"kind":"shape","id":"sh/2p47q9k3","slide":15,"bbox":[292,452,500,58]}
+{"kind":"textbox","id":"sh/3adozelo","slide":15,"text":"20151 系列；10866；19274","textPreview":"20151 系列；10866；19274","textChars":20,"textLines":1,"bbox":[304,462,478,43]}
+{"kind":"shape","id":"sh/4bmpsj29","slide":15,"bbox":[792,452,408,58]}
+{"kind":"textbox","id":"sh/pcf61o3u","slide":15,"text":"FDIS / AWI / DIS 等制定中","textPreview":"FDIS / AWI / DIS 等制定中","textChars":21,"textLines":1,"bbox":[804,462,386,43]}
+{"kind":"shape","id":"sh/qdo7u9kz","slide":15,"bbox":[42,510,250,58]}
+{"kind":"textbox","id":"sh/rexo3elk","slide":15,"text":"生态与服务","textPreview":"生态与服务","textChars":5,"textLines":1,"bbox":[54,520,228,43]}
+{"kind":"shape","id":"sh/cf6pwj25","slide":15,"bbox":[292,510,500,58]}
+{"kind":"textbox","id":"sh/dgf6po3q","slide":15,"text":"19086；23187；23613；26191","textPreview":"19086；23187；23613；26191","textChars":23,"textLines":1,"bbox":[304,520,478,43]}
+{"kind":"shape","id":"sh/eho7ytkb","slide":15,"bbox":[792,510,408,58]}
+{"kind":"textbox","id":"sh/zix8rylw","slide":15,"text":"SLA、云服务伙伴、计量与 AI 支持","textPreview":"SLA、云服务伙伴、计量与 AI 支持","textChars":19,"textLines":1,"bbox":[804,520,386,43]}
+{"kind":"textbox","id":"sh/7ydobyd0","slide":15,"text":"主要来源","textPreview":"主要来源","textChars":4,"textLines":1,"bbox":[42,625,200,22]}
+{"kind":"textbox","id":"sh/mxk7itcf","slide":15,"text":"ISO SC32 委员会范围与目录 · ISO SC38 委员会范围与目录 · ISO/IEC 19944-1 标准页 · ISO/IEC TS 5928 标准页","textPreview":"ISO SC32 委员会范围与目录 · ISO SC38 委员会范围与目录 · ISO/IEC 19944-1 标准页 · ISO/IEC TS 5928 标准页","textChars":81,"textLines":1,"bbox":[42,652,1160,24]}
+{"kind":"textbox","id":"sh/90v6dov6","slide":15,"text":"数据国际标准分析  ·  15","textPreview":"数据国际标准分析  ·  15","textChars":15,"textLines":1,"bbox":[42,674,500,20]}
+{"kind":"notes","id":"nt/lfgj5j","slide":15,"text":"[Sources]\n- https://www.iso.org/committee/45342.html\n- https://www.iso.org/committee/45342/x/catalogue/\n- https://www.iso.org/committee/601355.html\n- https://www.iso.org/committee/601355/x/catalogue/\n- https://www.iso.org/standard/79573.html\n- https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/standard/08/18/81848.html"}

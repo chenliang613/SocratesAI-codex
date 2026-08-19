@@ -1,0 +1,6 @@
+[
+  {"role":"user","content":"分析国际标准SC32,SC38,SC32里的所有数据相关的标准，输出：数据国际标准分析.ppt"},
+  {"role":"assistant","content":"使用 ISO 官方委员会范围与目录，按现行/制定中/撤销状态分析 SC32 与 SC38，生成中文 15 页 PowerPoint deck。"},
+  {"role":"tool","content":"ISO 官方来源：SC32 committee/catalogue、SC38 committee/catalogue、ISO/IEC 19944-1:2020、ISO/IEC TS 5928:2023。"},
+  {"role":"assistant","content":"已生成并视觉检查 outputs/数据国际标准分析.pptx；每页 speaker notes 含 [Sources]。"}
+]

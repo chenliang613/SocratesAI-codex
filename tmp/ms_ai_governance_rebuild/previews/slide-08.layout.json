@@ -1,0 +1,1583 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/65g5pc",
+    "id": "65g5pc",
+    "slide": 8,
+    "layoutId": "c6f906d6-e53e-4f63-8591-2b7072ac1722",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "0a75729a-1708-435a-9cee-45a92f528cda",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "PingFang SC"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "c6f906d6-e53e-4f63-8591-2b7072ac1722",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "0a75729a-1708-435a-9cee-45a92f528cda",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "0a75729a-1708-435a-9cee-45a92f528cda",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lw3250r",
+      "id": "1",
+      "name": "section-8",
+      "bbox": [
+        42,
+        26,
+        380,
+        24
+      ],
+      "geometry": "rect",
+      "text": "HIGH-RISK MAPPING",
+      "textPreview": "HIGH-RISK MAPPING",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "PingFang SC",
+        "color": "#0078D4",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.8,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HIGH-RISK MAPPING"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HIGH-RISK MAPPING",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "PingFang SC",
+            "color": "#0078D4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HIGH-RISK MAPPING",
+              "fontSize": 15,
+              "typeface": "PingFang SC",
+              "color": "#0078D4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ponmdkj2",
+      "id": "2",
+      "name": "title-8",
+      "bbox": [
+        42,
+        60,
+        1120,
+        70
+      ],
+      "geometry": "rect",
+      "text": "高风险系统：控制组件齐全，合格评定证据尚需产品化",
+      "textPreview": "高风险系统：控制组件齐全，合格评定证据尚需产品化",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "PingFang SC",
+        "color": "#111111",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "高风险系统：控制组件齐全，合格评定证据尚需产"
+          },
+          {
+            "index": 2,
+            "text": "品化"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "高风险系统：控制组件齐全，合格评定证据尚需产品化",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "PingFang SC",
+            "color": "#111111",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "高风险系统：控制组件齐全，合格评定证据尚需产品化",
+              "fontSize": 48,
+              "typeface": "PingFang SC",
+              "color": "#111111",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onel4fih",
+      "id": "3",
+      "name": "title-rule-8",
+      "bbox": [
+        42,
+        142,
+        1196,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bqp4fu18",
+      "id": "4",
+      "name": "footer-8",
+      "bbox": [
+        1185,
+        670,
+        53,
+        22
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 10.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "PingFang SC",
+        "color": "#5F6670",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.74,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "PingFang SC",
+            "color": "#5F6670",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 14,
+              "typeface": "PingFang SC",
+              "color": "#5F6670",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/apg36p0n",
+      "id": "5",
+      "name": "s8-sub",
+      "bbox": [
+        42,
+        158,
+        1130,
+        34
+      ],
+      "geometry": "rect",
+      "text": "高风险规则已延至 2027/2028，但现在应按目标状态做干运行；下表为公开证据评估。",
+      "textPreview": "高风险规则已延至 2027/2028，但现在应按目标状态做干运行；下表为公开证据评估。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "PingFang SC",
+        "color": "#5F6670",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "高风险规则已延至 2027/2028，但现在应按目标状态做干运行；下表为公开证据评估。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "高风险规则已延至 2027/2028，但现在应按目标状态做干运行；下表为公开证据评估。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "PingFang SC",
+            "color": "#5F6670",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "高风险规则已延至 2027/2028，但现在应按目标状态做干运行；下表为公开证据评估。",
+              "fontSize": 20,
+              "typeface": "PingFang SC",
+              "color": "#5F6670",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/s769cfml",
+      "id": "6",
+      "bbox": [
+        42,
+        210,
+        1196,
+        420
+      ],
+      "text": "义务域 | 欧盟要求 | 微软公开控制 | 判断\n风险管理 | 全生命周期风险管理体系 | RAI Standard；Map/Measure/Manage；发布前审查 | 较强\n数据治理 | 训练/验证/测试数据质量与代表性 | 隐私、安全、Purview 与工程实践 | 需场景证据\n文档与透明度 | 技术文档、使用说明、下游信息 | Transparency Notes；集中式文档工作流 | 较强\n日志与可追溯 | 自动日志、记录保存、版本追踪 | Azure 日志与监控能力；客户需配置留存 | 共享责任\n人工监督 | 可理解、可干预、具备授权与能力 | RAI Standard；产品级人工控制；客户流程 | 共享责任\n稳健与安全 | 准确性、鲁棒性、网络安全 | 红队、PyRIT、Content Safety、Secure Future | 较强\nQMS / 合格评定 | 质量体系、评估、登记、上市后监测 | 跨职能合规工作组；标准仍在演进 | 关键缺口",
+      "textPreview": "义务域 | 欧盟要求 | 微软公开控制 | 判断 | 风险管理 | 全生命周期风险管理体系 | RAI Standard；Map/Measure/Manage；发布前审查 | 较强 | 数据治理 | 训练/验证/测试数据质量与代表性 | 隐私、安全、Purview 与工程实...",
+      "rows": 8,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            42,
+            210,
+            170,
+            52.5
+          ],
+          "text": "义务域",
+          "textPreview": "义务域",
+          "fillColor": "#E8EDF2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "义务域",
+              "resolvedTextStyle": {
+                "fontSize": 19,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "义务域",
+                  "fontSize": 19,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            212,
+            210,
+            320,
+            52.5
+          ],
+          "text": "欧盟要求",
+          "textPreview": "欧盟要求",
+          "fillColor": "#E8EDF2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "欧盟要求",
+              "resolvedTextStyle": {
+                "fontSize": 19,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "欧盟要求",
+                  "fontSize": 19,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            532,
+            210,
+            526,
+            52.5
+          ],
+          "text": "微软公开控制",
+          "textPreview": "微软公开控制",
+          "fillColor": "#E8EDF2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "微软公开控制",
+              "resolvedTextStyle": {
+                "fontSize": 19,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "微软公开控制",
+                  "fontSize": 19,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            1058,
+            210,
+            180,
+            52.5
+          ],
+          "text": "判断",
+          "textPreview": "判断",
+          "fillColor": "#E8EDF2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "判断",
+              "resolvedTextStyle": {
+                "fontSize": 19,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "判断",
+                  "fontSize": 19,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            42,
+            262.5,
+            170,
+            52.5
+          ],
+          "text": "风险管理",
+          "textPreview": "风险管理",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "风险管理",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "风险管理",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            212,
+            262.5,
+            320,
+            52.5
+          ],
+          "text": "全生命周期风险管理体系",
+          "textPreview": "全生命周期风险管理体系",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "全生命周期风险管理体系",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "全生命周期风险管理体系",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            532,
+            262.5,
+            526,
+            52.5
+          ],
+          "text": "RAI Standard；Map/Measure/Manage；发布前审查",
+          "textPreview": "RAI Standard；Map/Measure/Manage；发布前审查",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "RAI Standard；Map/Measure/Manage；发布前审查",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "RAI Standard；Map/Measure/Manage；发布前审查",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            1058,
+            262.5,
+            180,
+            52.5
+          ],
+          "text": "较强",
+          "textPreview": "较强",
+          "fillColor": "#EAF5EA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "较强",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#2E7D32",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "较强",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#2E7D32",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            42,
+            315,
+            170,
+            52.5
+          ],
+          "text": "数据治理",
+          "textPreview": "数据治理",
+          "fillColor": "#FAFAFA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "数据治理",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "数据治理",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            212,
+            315,
+            320,
+            52.5
+          ],
+          "text": "训练/验证/测试数据质量与代表性",
+          "textPreview": "训练/验证/测试数据质量与代表性",
+          "fillColor": "#FAFAFA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "训练/验证/测试数据质量与代表性",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "训练/验证/测试数据质量与代表性",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            532,
+            315,
+            526,
+            52.5
+          ],
+          "text": "隐私、安全、Purview 与工程实践",
+          "textPreview": "隐私、安全、Purview 与工程实践",
+          "fillColor": "#FAFAFA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "隐私、安全、Purview 与工程实践",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "隐私、安全、Purview 与工程实践",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            1058,
+            315,
+            180,
+            52.5
+          ],
+          "text": "需场景证据",
+          "textPreview": "需场景证据",
+          "fillColor": "#FFF3D6",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "需场景证据",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#B26A00",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "需场景证据",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#B26A00",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            42,
+            367.5,
+            170,
+            52.5
+          ],
+          "text": "文档与透明度",
+          "textPreview": "文档与透明度",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "文档与透明度",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "文档与透明度",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            212,
+            367.5,
+            320,
+            52.5
+          ],
+          "text": "技术文档、使用说明、下游信息",
+          "textPreview": "技术文档、使用说明、下游信息",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "技术文档、使用说明、下游信息",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "技术文档、使用说明、下游信息",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            532,
+            367.5,
+            526,
+            52.5
+          ],
+          "text": "Transparency Notes；集中式文档工作流",
+          "textPreview": "Transparency Notes；集中式文档工作流",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Transparency Notes；集中式文档工作流",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Transparency Notes；集中式文档工作流",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            1058,
+            367.5,
+            180,
+            52.5
+          ],
+          "text": "较强",
+          "textPreview": "较强",
+          "fillColor": "#EAF5EA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "较强",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#2E7D32",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "较强",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#2E7D32",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            42,
+            420,
+            170,
+            52.5
+          ],
+          "text": "日志与可追溯",
+          "textPreview": "日志与可追溯",
+          "fillColor": "#FAFAFA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "日志与可追溯",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "日志与可追溯",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            212,
+            420,
+            320,
+            52.5
+          ],
+          "text": "自动日志、记录保存、版本追踪",
+          "textPreview": "自动日志、记录保存、版本追踪",
+          "fillColor": "#FAFAFA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "自动日志、记录保存、版本追踪",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "自动日志、记录保存、版本追踪",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            532,
+            420,
+            526,
+            52.5
+          ],
+          "text": "Azure 日志与监控能力；客户需配置留存",
+          "textPreview": "Azure 日志与监控能力；客户需配置留存",
+          "fillColor": "#FAFAFA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Azure 日志与监控能力；客户需配置留存",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Azure 日志与监控能力；客户需配置留存",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            1058,
+            420,
+            180,
+            52.5
+          ],
+          "text": "共享责任",
+          "textPreview": "共享责任",
+          "fillColor": "#E7F3FB",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "共享责任",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#0078D4",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "共享责任",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#0078D4",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            42,
+            472.5,
+            170,
+            52.5
+          ],
+          "text": "人工监督",
+          "textPreview": "人工监督",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "人工监督",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "人工监督",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            212,
+            472.5,
+            320,
+            52.5
+          ],
+          "text": "可理解、可干预、具备授权与能力",
+          "textPreview": "可理解、可干预、具备授权与能力",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "可理解、可干预、具备授权与能力",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "可理解、可干预、具备授权与能力",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            532,
+            472.5,
+            526,
+            52.5
+          ],
+          "text": "RAI Standard；产品级人工控制；客户流程",
+          "textPreview": "RAI Standard；产品级人工控制；客户流程",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "RAI Standard；产品级人工控制；客户流程",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "RAI Standard；产品级人工控制；客户流程",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            1058,
+            472.5,
+            180,
+            52.5
+          ],
+          "text": "共享责任",
+          "textPreview": "共享责任",
+          "fillColor": "#E7F3FB",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "共享责任",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#0078D4",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "共享责任",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#0078D4",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            42,
+            525,
+            170,
+            52.5
+          ],
+          "text": "稳健与安全",
+          "textPreview": "稳健与安全",
+          "fillColor": "#FAFAFA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "稳健与安全",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "稳健与安全",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            212,
+            525,
+            320,
+            52.5
+          ],
+          "text": "准确性、鲁棒性、网络安全",
+          "textPreview": "准确性、鲁棒性、网络安全",
+          "fillColor": "#FAFAFA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "准确性、鲁棒性、网络安全",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "准确性、鲁棒性、网络安全",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            532,
+            525,
+            526,
+            52.5
+          ],
+          "text": "红队、PyRIT、Content Safety、Secure Future",
+          "textPreview": "红队、PyRIT、Content Safety、Secure Future",
+          "fillColor": "#FAFAFA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "红队、PyRIT、Content Safety、Secure Future",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "红队、PyRIT、Content Safety、Secure Future",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            1058,
+            525,
+            180,
+            52.5
+          ],
+          "text": "较强",
+          "textPreview": "较强",
+          "fillColor": "#EAF5EA",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "较强",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#2E7D32",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "较强",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#2E7D32",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            42,
+            577.5,
+            170,
+            52.5
+          ],
+          "text": "QMS / 合格评定",
+          "textPreview": "QMS / 合格评定",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "QMS / 合格评定",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "QMS / 合格评定",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            212,
+            577.5,
+            320,
+            52.5
+          ],
+          "text": "质量体系、评估、登记、上市后监测",
+          "textPreview": "质量体系、评估、登记、上市后监测",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "质量体系、评估、登记、上市后监测",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "质量体系、评估、登记、上市后监测",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            532,
+            577.5,
+            526,
+            52.5
+          ],
+          "text": "跨职能合规工作组；标准仍在演进",
+          "textPreview": "跨职能合规工作组；标准仍在演进",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "跨职能合规工作组；标准仍在演进",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#111111"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "跨职能合规工作组；标准仍在演进",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#111111"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            1058,
+            577.5,
+            180,
+            52.5
+          ],
+          "text": "关键缺口",
+          "textPreview": "关键缺口",
+          "fillColor": "#FCE8E8",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "关键缺口",
+              "resolvedTextStyle": {
+                "fontSize": 17,
+                "typeface": "PingFang SC",
+                "color": "#C62828",
+                "bold": true,
+                "alignment": "center"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "关键缺口",
+                  "fontSize": 17,
+                  "typeface": "PingFang SC",
+                  "color": "#C62828",
+                  "bold": true,
+                  "alignment": "center"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cry58zit",
+      "id": "7",
+      "name": "s8-foot",
+      "bbox": [
+        42,
+        642,
+        1120,
+        28
+      ],
+      "geometry": "rect",
+      "text": "“较强”表示存在公开控制证据，不代表特定产品已完成欧盟合格评定。",
+      "textPreview": "“较强”表示存在公开控制证据，不代表特定产品已完成欧盟合格评定。",
+      "resolvedFontSize": 15.33,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "PingFang SC",
+        "color": "#5F6670",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.9,
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "“较强”表示存在公开控制证据，不代表特定产品已完成欧盟合格评定。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "“较强”表示存在公开控制证据，不代表特定产品已完成欧盟合格评定。",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "PingFang SC",
+            "color": "#5F6670",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "“较强”表示存在公开控制证据，不代表特定产品已完成欧盟合格评定。",
+              "fontSize": 17,
+              "typeface": "PingFang SC",
+              "color": "#5F6670",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

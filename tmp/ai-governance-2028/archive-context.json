@@ -1,0 +1,8 @@
+{
+  "goal": "Create a one-page AI治理2028 PowerPoint insight analysis.",
+  "inputs": ["User-provided definitions: AI governance is a competitiveness lever, a development enabler, and a lifecycle capability."],
+  "decisions": ["Audience assumed to be enterprise executives and industry decision-makers.", "Used a single-slide Chinese management-analysis layout with a three-pillar structure and a 2026–2028 evolution path."],
+  "constraints": ["Output file name: AI治理2028.pptx.", "One slide only.", "Future-looking analysis rather than a statistical forecast."],
+  "acceptance_criteria": ["Clearly expresses the three definitions.", "Includes a 2–3 year perspective and enterprise actions.", "Editable PowerPoint output."],
+  "validation": ["PPTX ZIP integrity passed.", "OOXML files passed xmllint validation.", "Slide text and package contents inspected."]
+}

@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "id": "S01",
+      "type": "user-provided-material",
+      "title": "行业智能化发展第一性原理",
+      "path": "/Users/apple/SocratesAI-codex/Input Minds.md",
+      "used_for": [
+        "六条第一性原理",
+        "企业软件范式重构",
+        "ROI公式",
+        "标杆到规模化路径"
+      ]
+    }
+  ],
+  "research_scope": "仅基于用户提供材料，不引入外部事实、市场数据或竞品结论。"
+}

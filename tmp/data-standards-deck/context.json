@@ -1,0 +1,31 @@
+{
+  "goal": "分析 ISO/IEC JTC 1/SC 32、SC 38 及 SC32 中的数据相关国际标准，并形成面向企业数据架构与治理的中文演示文稿。",
+  "inputs": [
+    "用户要求：输出数据国际标准分析 PPT。",
+    "ISO 官方 SC32 委员会范围与标准目录。",
+    "ISO 官方 SC38 委员会范围与标准目录。",
+    "ISO/IEC 19944-1:2020 与 ISO/IEC TS 5928:2023 官方标准页。"
+  ],
+  "decisions": [
+    "按 SC32 的语义、类型、元数据、数据库/交换、数据使用/分析主线归并标准系列。",
+    "将 SC38 聚焦于云基础、数据流/共享、多云/互操作、数据空间/数字主权与 AI 服务。",
+    "明确区分 Published、Under development、Withdrawn，避免把历史版本与现行依据混用。",
+    "采用克制的白底、深蓝结构色与表格证据布局，形成 15 页分析型 deck。"
+  ],
+  "constraints": [
+    "使用官方 ISO 来源；每页 speaker notes 写入 [Sources] 块。",
+    "输出为现代 PowerPoint PPTX 格式；不伪造旧版二进制 .ppt。",
+    "保留标准编号、状态和版本化治理的分析口径。"
+  ],
+  "acceptance_criteria": [
+    "覆盖 SC32 与 SC38 的职责边界、核心标准族、数据流/共享/元数据/查询主线。",
+    "包含企业落地影响、路线建议与按系列归并的附录清单。",
+    "15 页均可渲染，未发现已检查页面的遮挡或溢出。",
+    "最终文件出现在 AI_carbon archive 的 list_files 中。"
+  ],
+  "validation": [
+    "artifact-tool 生成 15 张逐页 PNG 与 PPTX。",
+    "inspect 文件确认 15 个 slide 记录和 15 个 [Sources] notes 记录。",
+    "已逐页视觉检查生成的 PNG；修复表格底部与结论/来源区域重叠。"
+  ]
+}
